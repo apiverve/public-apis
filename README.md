@@ -1,8 +1,10 @@
-# APIVerve APIs
+# Public APIVerve APIs
 
 > 249+ Production-Ready REST APIs for Developers
 
-[![APIs](https://img.shields.io/badge/APIs-249+-blue.svg)](https://apiverve.com)
+**🌐 [Visit APIVerve](https://apiverve.com?utm_source=github&utm_medium=repo&utm_campaign=public-apis)**
+
+[![APIs](https://img.shields.io/badge/APIs-249+-blue.svg)](https://apiverve.com?utm_source=github&utm_medium=badge&utm_campaign=public-apis)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Postman](https://img.shields.io/badge/Postman-Collection-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -22,7 +24,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 ## 📚 API Categories
 
-### 📦 1 (5 APIs)
+### 📦 AI/Computer Vision (5 APIs)
 
 - [Article Ideas Generator](https://apiverve.com/marketplace/articleideas) - Article Ideas is a simple tool for generating article ideas. It returns a list of article ideas.
 - [Code Detector](https://apiverve.com/marketplace/codedetector) - Code Detector is a simple tool for detecting the language of code in text. It returns details such as extension, language, family, and more.
@@ -30,7 +32,126 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Language Detector](https://apiverve.com/marketplace/languagedetector) - Language Detector is a simple tool for detecting the language of a text. It returns the language code and the confidence level.
 - [Sentiment Analysis](https://apiverve.com/marketplace/sentimentanalysis) - Sentiment Analysis is a simple tool for analyzing the sentiment of a text. It returns the sentiment score and the sentiment label.
 
-### 📦 10 (15 APIs)
+### 📦 Astrology (5 APIs)
+
+- [Horoscope](https://apiverve.com/marketplace/horoscope) - Horoscope is a simple tool for getting horoscope data. It returns the horoscope for the day.
+- [Moon Phases](https://apiverve.com/marketplace/moonphases) - Moon Phases is a simple tool for getting the moon phases. It returns the moon phase for a given date.
+- [Moon Position](https://apiverve.com/marketplace/moonposition) - Moon Position is a simple tool for getting moon position data. It returns data such as altitude, azimuth, and distance of the moon based on the location provided.
+- [Planet Positions](https://apiverve.com/marketplace/planetpositions) - Planet Positions is a simple tool for getting the position of planets in the solar system. It returns the position of planets in the solar system.
+- [Sun Position](https://apiverve.com/marketplace/sunposition) - Sun Position is a simple tool for getting sun position data. It returns data such as altitude, azimuth, and distance of the sun from the location provided.
+
+### 📦 Calendar (5 APIs)
+
+- [Age Calculator](https://apiverve.com/marketplace/agecalculator) - Age Calculator is a simple tool for calculating age from the date of birth. It returns the calculated age based on the date of birth provided.
+- [Date Calculator](https://apiverve.com/marketplace/datecalculator) - Date Calculator is a simple tool for calculating date differences. It returns the calculated date difference based on the dates provided.
+- [Liturgical Calendar](https://apiverve.com/marketplace/liturgicalcalendar) - Liturgical Calendar is a simple tool for getting the dates of the Liturgical Calendar. It returns the dates of the Liturgical Calendar for a given year.
+- [Working Days](https://apiverve.com/marketplace/workingdays) - Working Days is a simple tool for getting the number of working days in a month. It returns the number of working days in the given month.
+- [World Holidays](https://apiverve.com/marketplace/worldholidays) - World Holidays is a simple tool for getting the holidays of the world. It returns the holidays of the world for each day of the year.
+
+### 📦 Data Conversion (21 APIs)
+
+- [ASCII85 Encoder](https://apiverve.com/marketplace/ascii85encoder) - ASCII85 Encoder is a tool for encoding and decoding data using ASCII85 (also known as Base85) encoding. It supports both standard and btoa formats for efficient binary-to-text encoding with better compression than Base64.
+- [Base64 Encoder/Decoder](https://apiverve.com/marketplace/base64) - Base64 Encoder/Decoder is a simple tool for encoding and decoding Base64 strings. It supports both encoding text to Base64 and decoding Base64 back to text.
+- [Color Converter](https://apiverve.com/marketplace/colorconverter) - Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.
+- [CSV to JSON Converter](https://apiverve.com/marketplace/csvtojson) - CSV to JSON Converter is a powerful tool for converting CSV data into JSON format. It supports custom delimiters, header detection, and handles quoted fields properly.
+- [File Size Formatter](https://apiverve.com/marketplace/filesizeformatter) - File Size Formatter is a tool for converting bytes to human-readable file sizes (KB, MB, GB, TB, etc.). It supports both binary (1024) and decimal (1000) standards with customizable precision.
+- [HTML Entities Encoder/Decoder](https://apiverve.com/marketplace/htmlentities) - HTML Entities Encoder/Decoder is a tool for encoding and decoding HTML entities. It converts special characters to HTML entities and vice versa to prevent XSS attacks and display special characters properly.
+- [JSON to CSV Converter](https://apiverve.com/marketplace/jsontocsv) - JSON to CSV Converter is a powerful tool for converting JSON arrays into CSV format. It supports custom delimiters, header inclusion, and proper escaping of special characters.
+- [JSON to JSONP](https://apiverve.com/marketplace/jsontojsonp) - JSON to JSONP is a simple tool for converting JSON data into JSONP format. It returns the converted JSONP data.
+- [Number Base Converter](https://apiverve.com/marketplace/numberbaseconverter) - Number Base Converter is a tool for converting numbers between different bases (2-36). It supports binary, octal, decimal, hexadecimal, and custom bases with comprehensive conversion results.
+- [Number to Words](https://apiverve.com/marketplace/numbertowords) - Number to Words is a simple tool for converting numbers to words. It returns the number in words.
+- [Placeholder Text Generator](https://apiverve.com/marketplace/placeholdertext) - Placeholder Text Generator is a tool for generating placeholder text in various styles including lorem ipsum, tech jargon, hipster, corporate, pirate, fantasy, and sci-fi.
+- [Relative Time Formatter](https://apiverve.com/marketplace/relativetimeformatter) - Relative Time Formatter is a tool for converting timestamps and dates to human-readable relative time formats like '2 hours ago' or 'in 3 days'. It supports multiple styles and custom reference times for flexible time representation.
+- [Roman Numeral Converter](https://apiverve.com/marketplace/romanconverter) - Roman Numeral Converter is a bidirectional tool for converting between Arabic numbers (1-3999) and Roman numerals. It provides detailed breakdowns of the conversion process.
+- [Text to Color](https://apiverve.com/marketplace/texttocolor) - Text to Color is a simple tool for converting color from natural language. It returns the color code based on the text provided.
+- [Unicode Escape/Unescape](https://apiverve.com/marketplace/unicodeescape) - Unicode Escape/Unescape is a tool for converting characters to Unicode escape sequences and vice versa. It handles all Unicode characters including emojis and surrogate pairs.
+- [Unit Converter](https://apiverve.com/marketplace/unitconverter) - Unit Converter is a simple tool for converting units. It returns the converted value.
+- [Unix Timestamp Converter](https://apiverve.com/marketplace/unixtimestamp) - Unix Timestamp Converter is a tool for converting between Unix timestamps and human-readable dates. It supports both seconds and milliseconds formats.
+- [URL Encoder/Decoder](https://apiverve.com/marketplace/urlencode) - URL Encoder/Decoder is a tool for encoding and decoding URL strings. It converts special characters to percent-encoded format and decodes them back for safe URL transmission.
+- [Website to Text](https://apiverve.com/marketplace/websitetotext) - Website to Text is a simple tool for converting a website to text. It returns the text extracted from the website.
+- [Words to Numbers](https://apiverve.com/marketplace/wordstonumbers) - Words to Numbers is a simple tool for converting words to numbers. It returns the words in numbers.
+- [XML to JSON](https://apiverve.com/marketplace/xmltojson) - XML to JSON is a simple tool for converting XML to JSON. It returns the JSON representation of the XML provided.
+
+### 📦 Data Generation (26 APIs)
+
+- [Acronym Generator](https://apiverve.com/marketplace/acronymgenerator) - Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
+- [Baby Name Generator](https://apiverve.com/marketplace/babynamegenerator) - Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.
+- [Barcode Generator](https://apiverve.com/marketplace/barcodegenerator) - Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.
+- [Captcha Generator](https://apiverve.com/marketplace/captchagenerator) - Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.
+- [Card Generator](https://apiverve.com/marketplace/cardgenerator) - Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
+- [Chart Generator](https://apiverve.com/marketplace/chartgenerator) - Chart Generator is a simple tool for generating charts from data. It returns a URL to the generated image of the chart.
+- [Color Palette Generator](https://apiverve.com/marketplace/colorpalette) - Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.
+- [Comment Generator](https://apiverve.com/marketplace/commentgenerator) - Comment Generator is a simple tool for generating comments for social media. It returns a list of comments based on the input parameters.
+- [Company Name Generator](https://apiverve.com/marketplace/companynamegenerator) - Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
+- [Cron Expression Generator](https://apiverve.com/marketplace/crongenerator) - Cron Expression Generator is an AI-powered tool for converting natural language schedule descriptions into cron expressions. It returns valid cron syntax along with human-readable descriptions.
+- [Cuid Generator](https://apiverve.com/marketplace/cuidgenerator) - Cuid Generator is a tool for generating collision-resistant unique identifiers (Cuids). Cuids are optimized for horizontal scaling and sequential lookup performance in distributed systems.
+- [GUID Generator](https://apiverve.com/marketplace/guidgenerator) - GUID Generator is a tool for generating Globally Unique Identifiers (GUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options including uppercase, no hyphens, and braces.
+- [Hashtag Generator](https://apiverve.com/marketplace/hashtaggenerator) - Hashtag Generator is a simple tool for generating hashtags. It returns a list of hashtags based on the text provided.
+- [JSON Schema Generator](https://apiverve.com/marketplace/jsonschemagenerator) - JSON Schema Generator is a tool for automatically generating JSON schemas from sample JSON data. It creates Draft-07 compatible schemas with type inference and format detection.
+- [Lorem Ipsum Generator](https://apiverve.com/marketplace/loremipsumgenerator) - Lorem Ipsum Generator is a simple tool for generating lorem ipsum text. It returns the generated text.
+- [Password Generator](https://apiverve.com/marketplace/passwordgenerator) - Password Generator is a simple tool for generating passwords. It returns the generated password.
+- [QR Code Generator](https://apiverve.com/marketplace/qrcodegenerator) - QR Code Generator is a simple tool for generating QR codes. It returns a PNG image of the QR code.
+- [Random Data Generator](https://apiverve.com/marketplace/randomgenerator) - Random Generator is a simple tool for generating random data. It returns random data such as numbers, strings, and more.
+- [Random Identity Generator](https://apiverve.com/marketplace/randomidentitygenerator) - Random Identity is a simple tool for generating random identities. It returns a random name, address, and more.
+- [Random User Generator](https://apiverve.com/marketplace/randomusergenerator) - Random User Generator is a simple tool for generating random user data. It returns the user's name, email, and more.
+- [Random Word](https://apiverve.com/marketplace/randomwords) - Random Word is a simple tool for getting random words. It returns a random word.
+- [Short Code Generator](https://apiverve.com/marketplace/shortcodegenerator) - Short Code Generator is a tool for generating short alphanumeric codes. It supports multiple character sets including alphanumeric, alphabetic, numeric, hexadecimal, and Base58 with customizable length.
+- [ULID Generator](https://apiverve.com/marketplace/ulidgenerator) - ULID Generator is a tool for generating Universally Unique Lexicographically Sortable Identifiers (ULIDs). ULIDs are 26-character strings that are sortable by time and collision-resistant.
+- [User Agent Generator](https://apiverve.com/marketplace/useragentgenerator) - User Agent Generator is a simple tool for generating user agent strings. It returns a random user agent string.
+- [Username Generator](https://apiverve.com/marketplace/usernamegenerator) - Username Generator is a simple tool for generating usernames. It returns a list of usernames based on the specified criteria.
+- [UUID Generator](https://apiverve.com/marketplace/uuidgenerator) - UUID Generator is a tool for generating Universally Unique Identifiers (UUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options for different platform requirements.
+
+### 🔍 Data Lookup (15 APIs)
+
+- [ASN Lookup](https://apiverve.com/marketplace/asnlookup) - ASN Lookup is a simple tool for getting information on Autonomous System Numbers (ASNs). It returns information on various ASNs.
+- [Bible](https://apiverve.com/marketplace/bible) - Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.
+- [Country Calling Code](https://apiverve.com/marketplace/callingcode) - Country Calling Code is a simple tool for getting the country's international dialing codes. It returns the country's international dialing codes.
+- [Dictionary](https://apiverve.com/marketplace/dictionary) - Dictionary is a simple tool for getting word definitions. It returns the definition a word.
+- [Dog Breeds](https://apiverve.com/marketplace/dogbreeds) - Dog Breeds is a simple tool for getting information about dog breeds. It returns information such as breed name, temperament, lifespan, and more.
+- [Emoji Lookup](https://apiverve.com/marketplace/emoji) - Emoji is a simple tool for getting emoji data. It returns the emoji name, category, and more.
+- [Gender Detector](https://apiverve.com/marketplace/genderdetector) - Easily detect the gender of an individual based on their name. This API uses AI to predict the likely gender of a person by their name
+- [Gravatar Lookup](https://apiverve.com/marketplace/gravatarlookup) - Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns the Gravatar profile information of the email address provided.
+- [Lottery Numbers](https://apiverve.com/marketplace/lottery) - Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided.
+- [Nobel Prizes](https://apiverve.com/marketplace/nobelprizes) - Nobel Prizes is a simple tool for getting information on Nobel Prizes. It returns information on various Nobel Prizes.
+- [Open Source Licenses](https://apiverve.com/marketplace/openlicenses) - Open Source Licenses is a simple tool for getting information on open source licenses. It returns information on various open source licenses.
+- [Thesaurus](https://apiverve.com/marketplace/thesaurus) - Thesaurus is a simple tool for getting word synonyms. It returns a list of synonyms.
+- [Timezone Lookup](https://apiverve.com/marketplace/timezonelookup) - Timezone Lookup is a simple tool for looking up timezone data. It returns the timezone name, offset, and more.
+- [Unicode Character Lookup](https://apiverve.com/marketplace/unicodelookup) - Unicode Character Lookup is a tool for retrieving detailed information about Unicode characters. It provides codepoint, UTF-16 encoding, category, and emoji name information.
+- [World Time](https://apiverve.com/marketplace/worldtime) - World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.
+
+### 📦 Data Processing (4 APIs)
+
+- [Cloud Counter](https://apiverve.com/marketplace/counter) - Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.
+- [HTML to Text](https://apiverve.com/marketplace/htmltotext) - HTML to Text is a simple tool for converting HTML to text. It returns the text extracted from the HTML.
+- [Metadata Extractor](https://apiverve.com/marketplace/metadataextractor) - Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.
+- [Morse Code](https://apiverve.com/marketplace/morsecode) - Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.
+
+### 📦 Data Scraping (5 APIs)
+
+- [Contact Extractor](https://apiverve.com/marketplace/contactextractor) - Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.
+- [Link Scraper](https://apiverve.com/marketplace/linkscraper) - Link Scraper is a simple tool for scraping web page links. It returns all the links on a web page.
+- [SEO Data Scraper](https://apiverve.com/marketplace/seoscraper) - SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.
+- [Website Images Scraper](https://apiverve.com/marketplace/webimagescraper) - Web Image Scraper is a simple tool for scraping images from a website. It returns the URLs of the images found on the website.
+- [Website Screenshot](https://apiverve.com/marketplace/webscreenshots) - Web Screenshots is a simple tool for capturing screenshots of web pages. It returns an image screenshot of the web page provided.
+
+### 📦 Data Validation (8 APIs)
+
+- [Card Validator](https://apiverve.com/marketplace/cardvalidator) - Card Validator is a simple tool for validating if a card number is valid or not. It checks the card number format and the Luhn algorithm to see if the card number is valid.
+- [Disposable Email Checker](https://apiverve.com/marketplace/emaildisposablechecker) - Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.
+- [Email Validator](https://apiverve.com/marketplace/emailvalidator) - Email Validator is a simple tool for validating if an email address is valid or not. It checks the email address format and the domain records to see if the email address is valid.
+- [Password Strength](https://apiverve.com/marketplace/passwordstrength) - Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
+- [Phone Number Validator](https://apiverve.com/marketplace/phonenumbervalidator) - Phone Number Validator is a simple tool for validating if a phone number is valid or not. It checks the phone number format and the country code to see if the phone number is valid.
+- [SEO Validator](https://apiverve.com/marketplace/seovalidator) - SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
+- [Spam Detector](https://apiverve.com/marketplace/spamdetector) - Spam Detector is a simple tool for detecting spam in a text. It utilize an email address or IP address to validate the given text against the spam database.
+- [Username Profanity](https://apiverve.com/marketplace/usernameprofanity) - Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.
+
+### 📦 Documents (3 APIs)
+
+- [HTML to PDF](https://apiverve.com/marketplace/htmltopdf) - HTML to PDF is a simple tool for converting HTML to PDF. It returns the PDF file generated from the HTML.
+- [Invoice Generator](https://apiverve.com/marketplace/invoicegenerator) - Invoice Generator is a simple tool for generating invoices. It returns a PDF of the generated invoice.
+- [Website to PDF](https://apiverve.com/marketplace/websitetopdf) - Website to PDF is a simple tool for converting a website to PDF. It returns the PDF file generated from the website.
+
+### 📦 Domain Data (15 APIs)
 
 - [BIMI Record Validator](https://apiverve.com/marketplace/bimivalidator) - BIMI Validator checks if a domain has a valid BIMI record published in DNS. BIMI enables domain owners to display verified logos in supported email clients.
 - [DKIM Validator](https://apiverve.com/marketplace/dkimvalidator) - DKIM Validator checks the DomainKeys Identified Mail (DKIM) DNS records for a domain to verify that they are present and correctly formatted.
@@ -48,7 +169,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [URL Unshortener](https://apiverve.com/marketplace/urlunshortener) - URL Unshortener is a simple tool for unshortening shortened URLs. It returns the original URL before it was shortened.
 - [WHOIS Lookup](https://apiverve.com/marketplace/whoislookup) - Whois Lookup is a simple tool for checking the registration of a domain name. It returns the name and contact information of the domain owner, the domain registrar, and more.
 
-### 📦 11 (14 APIs)
+### 📦 Entertainment (14 APIs)
 
 - [Advice Generator](https://apiverve.com/marketplace/advice) - Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.
 - [Bucket List](https://apiverve.com/marketplace/bucketlist) - Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item
@@ -65,7 +186,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Sudoku Generator](https://apiverve.com/marketplace/sudoku) - Sudoku is a simple tool for generating Sudoku puzzles. It returns a Sudoku puzzle.
 - [Trivia Generator](https://apiverve.com/marketplace/trivia) - Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.
 
-### 📦 12 (13 APIs)
+### 💰 Finance (13 APIs)
 
 - [BIN Lookup](https://apiverve.com/marketplace/binlookup) - BIN Lookup is a simple tool for looking up BIN number information. It returns information such as the bank, card type, and more based on the BIN number provided.
 - [Currency Converter](https://apiverve.com/marketplace/currencyconverter) - Currency Converter is a simple tool for converting currency rates. It returns the converted currency rate based on the amount and currency provided.
@@ -81,12 +202,22 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Stock Market Open Times](https://apiverve.com/marketplace/stockmarketopentimes) - Stock Market Open Times is a simple tool for getting the open times of the stock market. It returns the open times of the stock market for each day of the week.
 - [SWIFT Code Lookup](https://apiverve.com/marketplace/swiftlookup) - SWIFT Code Lookup is a simple tool for looking up SWIFT code information. It returns information such as the bank, branch, and more based on the SWIFT code provided.
 
-### 📦 13 (2 APIs)
+### 📦 Food (2 APIs)
 
 - [Cocktail Recipe](https://apiverve.com/marketplace/cocktail) - Cocktail is a simple tool for getting cocktail recipes. It returns the ingredients, instructions, and more of the cocktail.
 - [Recipes](https://apiverve.com/marketplace/recipe) - Recipes is a simple tool for getting recipe information. It returns information on various recipes.
 
-### 📦 14 (13 APIs)
+### 📦 Games (7 APIs)
+
+- [Card Deck Shuffler](https://apiverve.com/marketplace/carddeckshuffler) - Card Deck Shuffler is a tool for shuffling standard playing card decks. It supports multiple decks, optional jokers, and different shuffling methods to generate randomized card sequences for games and simulations.
+- [Coin Flipper](https://apiverve.com/marketplace/coinflipper) - Coin Flipper is a tool for simulating coin flips. It can flip multiple coins at once and provides statistics including heads/tails counts, percentages, streaks, and fairness analysis for probability experiments and gaming.
+- [Dice Roller](https://apiverve.com/marketplace/diceroller) - Dice Roller is a tool for rolling dice using standard RPG notation (XdY format). It supports multiple dice, various die sizes, modifiers, and provides statistics including min, max, average, and theoretical values for gaming and simulations.
+- [Fortune Cookie Generator](https://apiverve.com/marketplace/fortunecookie) - Fortune Cookie Generator creates authentic fortune cookie messages including wisdom, predictions, advice, humor, and motivational quotes.
+- [Lottery Number Generator](https://apiverve.com/marketplace/lotterypicker) - Lottery Number Generator creates random lottery numbers for various popular games including Powerball, Mega Millions, EuroMillions, and custom lottery configurations.
+- [Rock Paper Scissors](https://apiverve.com/marketplace/rockpaperscissors) - Rock Paper Scissors API simulates the classic hand game with detailed outcome analysis, statistics, and support for multiple rounds.
+- [Slot Machine Simulator](https://apiverve.com/marketplace/slotmachine) - Slot Machine Simulator is a tool for simulating slot machine spins with realistic reel symbols and payout calculations. It supports customizable number of reels, bet amounts, and multiple spins with detailed win/loss statistics.
+
+### 📦 Geography (13 APIs)
 
 - [Cities Lookup](https://apiverve.com/marketplace/citieslookup) - Cities Lookup is a simple tool for looking up city data. It returns the city name, population, and more.
 - [Coordinates Are Sea](https://apiverve.com/marketplace/coordinatesaresea) - Coordinates are Sea is a simple tool for checking if coordinates are in the sea. It returns if the coordinates are in the sea or not.
@@ -102,12 +233,27 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [USDA Hardiness Zone](https://apiverve.com/marketplace/hardinesszone) - Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a given zip code
 - [Zip Codes Lookup](https://apiverve.com/marketplace/zipcodes) - Zip Codes Lookup is a simple tool for looking up the zip codes of a city. It returns the zip codes of the city.
 
-### 📦 15 (2 APIs)
+### 📦 Health/Wellness (2 APIs)
 
 - [BMI Calculator](https://apiverve.com/marketplace/bmicalculator) - BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.
 - [Exercises](https://apiverve.com/marketplace/exercises) - Exercises is a simple tool for getting exercise information. It returns information on various exercises.
 
-### 📦 17 (7 APIs)
+### 📦 Lifestyle (3 APIs)
+
+- [Due Date Calculator](https://apiverve.com/marketplace/duedatecalculator) - Due Date Calculator estimates pregnancy due dates using either last menstrual period or conception date, providing comprehensive pregnancy timeline information.
+- [Menstrual Cycle Calculator](https://apiverve.com/marketplace/menstrualcycle) - Menstrual Cycle Calculator predicts future menstrual cycles, fertile windows, and ovulation dates based on cycle history and patterns.
+- [Ovulation Calculator](https://apiverve.com/marketplace/ovulationcalculator) - Ovulation Calculator estimates ovulation dates, fertile windows, and provides detailed cycle phase information based on menstrual cycle data.
+
+### 📦 Math/Calculations (6 APIs)
+
+- [Color Similarity Calculator](https://apiverve.com/marketplace/colorsimilarity) - Color Similarity Calculator is a tool for calculating similarity between two colors. It uses multiple algorithms including RGB distance, HSL comparison, and Delta E to provide comprehensive color similarity analysis.
+- [Daylight Duration Calculator](https://apiverve.com/marketplace/daylightduration) - Daylight Duration Calculator computes sunrise, sunset times, and total daylight hours for any geographic location and date using astronomical algorithms.
+- [Fibonacci Generator](https://apiverve.com/marketplace/fibonaccigenerator) - Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can generate sequences by count or up to a maximum value, with options to start from any position in the sequence.
+- [Roman Numeral Math](https://apiverve.com/marketplace/romannumeralmath) - Roman Numeral Math is a tool for performing mathematical operations (add, subtract, multiply, divide) with Roman numerals. It shows both numeric and Roman numeral equations.
+- [Tip Calculator](https://apiverve.com/marketplace/tipcalculator) - Tip Calculator is a tool for calculating tips and splitting bills among multiple people. It provides common tip percentage comparisons and per-person breakdowns.
+- [UTM Coordinate Converter](https://apiverve.com/marketplace/utmconverter) - UTM Coordinate Converter provides bidirectional conversion between UTM (Universal Transverse Mercator) coordinates and latitude/longitude using WGS84 datum.
+
+### 📦 Networking (7 APIs)
 
 - [Domain and IP Pinger](https://apiverve.com/marketplace/pinger) - Pinger is a simple tool for checking if a URL is up. It returns a boolean value indicating whether the URL is up or not.
 - [IP Blacklist Lookup](https://apiverve.com/marketplace/ipblacklistlookup) - IP Blacklist Lookup is a simple tool for looking up if an IP address is in a blacklist. It returns if the IP is found in a blacklist.
@@ -117,38 +263,42 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Tor Node Detector](https://apiverve.com/marketplace/tordetect) - Tor Detect is an API that checks whether a given IP address belongs to a known Tor exit node. Useful for security, access control, and analytics.
 - [VPN Proxy Detector](https://apiverve.com/marketplace/vpndetector) - VPN Detector is a simple tool for detecting VPN usage. It returns a boolean value indicating whether the IP address is using a VPN or not.
 
-### 📦 18 (1 APIs)
+### 📦 News (1 APIs)
 
 - [World News](https://apiverve.com/marketplace/news) - News API is a simple tool for scraping news data. It returns the news title, description, and more.
 
-### 📦 19 (4 APIs)
+### 📦 Parsers (4 APIs)
 
 - [Human Name Parser](https://apiverve.com/marketplace/humannameparser) - Human Name Parser is a simple tool for parsing human names into their components. It returns the parsed components of the human name.
 - [RSS to JSON](https://apiverve.com/marketplace/rsstojson) - RSS to JSON is a simple tool for converting RSS feeds into JSON format. It returns the RSS feed in JSON format.
 - [Street Address Parser](https://apiverve.com/marketplace/streetaddressparser) - Street Address Parser is a simple tool for parsing a US street addresses. It returns the parsed components of the street address provided.
 - [User Agent Parser](https://apiverve.com/marketplace/useragentparser) - User Agent Parser is a simple tool for parsing user agent strings. It returns the browser, operating system, and more from the user agent string.
 
-### 📦 2 (5 APIs)
+### 📦 Reference Data (9 APIs)
 
-- [Age Calculator](https://apiverve.com/marketplace/agecalculator) - Age Calculator is a simple tool for calculating age from the date of birth. It returns the calculated age based on the date of birth provided.
-- [Date Calculator](https://apiverve.com/marketplace/datecalculator) - Date Calculator is a simple tool for calculating date differences. It returns the calculated date difference based on the dates provided.
-- [Liturgical Calendar](https://apiverve.com/marketplace/liturgicalcalendar) - Liturgical Calendar is a simple tool for getting the dates of the Liturgical Calendar. It returns the dates of the Liturgical Calendar for a given year.
-- [Working Days](https://apiverve.com/marketplace/workingdays) - Working Days is a simple tool for getting the number of working days in a month. It returns the number of working days in the given month.
-- [World Holidays](https://apiverve.com/marketplace/worldholidays) - World Holidays is a simple tool for getting the holidays of the world. It returns the holidays of the world for each day of the year.
+- [CAA Record Parser](https://apiverve.com/marketplace/caaparser) - CAA Record Parser analyzes DNS CAA records that specify which Certificate Authorities are authorized to issue certificates for a domain.
+- [Color Brightness Calculator](https://apiverve.com/marketplace/colorbrightness) - Color Brightness Calculator is a tool for calculating color brightness and luminance. It determines if a color is light or dark using WCAG 2.0 standards and provides contrast ratios for accessibility compliance.
+- [Color Name Finder](https://apiverve.com/marketplace/colornamefinder) - Color Name Finder is a tool for finding the closest named color from a hex color value. It uses color distance algorithms to match hex codes to CSS/HTML named colors and provides similarity scores for accurate color identification.
+- [HTTP Status Code Lookup](https://apiverve.com/marketplace/httpstatuslookup) - HTTP Status Code Lookup is a tool for looking up HTTP status code information. It provides descriptions, categories, and common causes for all standard HTTP status codes from 1xx to 5xx.
+- [MIME Type Lookup](https://apiverve.com/marketplace/mimetypelookup) - MIME Type Lookup is a tool for looking up MIME types by file extension or finding file extensions by MIME type. It covers all common file types including documents, images, video, audio, and archives.
+- [Port Number Lookup](https://apiverve.com/marketplace/portnumberlookup) - Port Number Lookup is a tool for looking up well-known port numbers and network services. It provides information about ports including service name, protocol, description, and category for common network services.
+- [Ring Size Converter](https://apiverve.com/marketplace/ringsizeconverter) - Ring Size Converter is a tool for converting ring sizes between US, UK, EU, JP, CH, and AU standards. It can also convert from diameter measurements in millimeters.
+- [Shoe Size Converter](https://apiverve.com/marketplace/shoesizeconverter) - Shoe Size Converter is a tool for converting shoe sizes between US, UK, EU, CM, JP, AU, MX, and KR standards. It supports men, women, unisex, and child sizes.
+- [SRV Record Parser](https://apiverve.com/marketplace/srvparser) - SRV Record Parser analyzes DNS SRV records and extracts service location information including priority, weight, port, and target server details.
 
-### 📦 20 (3 APIs)
-
-- [CSR Parser](https://apiverve.com/marketplace/csrparser) - CSR Parser extracts and analyzes information from Certificate Signing Requests (CSRs), providing detailed subject information, public key details, and fingerprints.
-- [DANE Record Validator](https://apiverve.com/marketplace/danevalidator) - DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations.
-- [Hash Generator](https://apiverve.com/marketplace/hashgenerator) - Hash Generator is a tool for generating cryptographic hashes from text. It supports multiple algorithms including MD5, SHA-1, SHA-256, SHA-384, SHA-512, and BLAKE2 variants for data integrity and security applications.
-
-### 📦 21 (3 APIs)
+### 📦 Science (3 APIs)
 
 - [Meteorite Landings](https://apiverve.com/marketplace/meteorites) - Meteorites is a simple tool for getting meteorite data. It returns a list of meteorites that have fallen to Earth.
 - [Periodic Table](https://apiverve.com/marketplace/periodictable) - Periodic Table is a simple tool for getting information about chemical elements. It returns information such as the atomic number, symbol, and more based on the element provided.
 - [Stars Lookup](https://apiverve.com/marketplace/starslookup) - Stars Lookup is a simple tool for looking up star data. It returns the star name, mass, diameter, and more.
 
-### 📦 22 (38 APIs)
+### 🔒 Security (3 APIs)
+
+- [CSR Parser](https://apiverve.com/marketplace/csrparser) - CSR Parser extracts and analyzes information from Certificate Signing Requests (CSRs), providing detailed subject information, public key details, and fingerprints.
+- [DANE Record Validator](https://apiverve.com/marketplace/danevalidator) - DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations.
+- [Hash Generator](https://apiverve.com/marketplace/hashgenerator) - Hash Generator is a tool for generating cryptographic hashes from text. It supports multiple algorithms including MD5, SHA-1, SHA-256, SHA-384, SHA-512, and BLAKE2 variants for data integrity and security applications.
+
+### 📦 Text Analysis (38 APIs)
 
 - [Acronym Expander](https://apiverve.com/marketplace/acronymexpander) - Acronym Expander is an AI-powered tool for expanding acronyms to their full meanings. It uses a dictionary of common acronyms and AI for unknown ones, with optional context for better accuracy.
 - [Anagram Detector](https://apiverve.com/marketplace/anagramdetector) - Anagram Detector is a tool for checking if two words or phrases are anagrams of each other. It provides character frequency analysis and similarity scoring.
@@ -189,14 +339,14 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Word Opposites](https://apiverve.com/marketplace/wordopposite) - Word Opposites is a simple tool for getting the opposites of a word. It returns a list of opposites for the given word.
 - [Word Pronunciation](https://apiverve.com/marketplace/wordpronunciation) - Word Pronunciation is a simple tool for getting the pronunciation of a word. It returns the pronunciation of the word provided.
 
-### 📦 23 (4 APIs)
+### 📦 Transportation (4 APIs)
 
 - [Airline Lookup](https://apiverve.com/marketplace/airlinelookup) - Airline Lookup is a simple tool for getting information on airlines. It returns information on various airlines.
 - [Airport Distance](https://apiverve.com/marketplace/airportdistance) - Airport Distance is a simple tool for getting the distance between two airports. It returns the distance between the two airports.
 - [Airports Lookup](https://apiverve.com/marketplace/airports) - Airports is a simple tool for getting airport data. It returns the airport name, location, and more.
 - [Car Models](https://apiverve.com/marketplace/carmodels) - Car Models is a simple tool for getting information on cars. It returns information on various car models
 
-### 📦 24 (8 APIs)
+### 🌤️ Weather (8 APIs)
 
 - [Air Quality](https://apiverve.com/marketplace/airquality) - Air Quality is a simple tool for getting air quality data. It returns the air quality index, o3, pm2, and more.
 - [Marine Weather](https://apiverve.com/marketplace/marineweather) - Marine Weather is a simple tool for getting marine weather data. It returns the current weather conditions in coordinates within the ocean and sea.
@@ -206,154 +356,6 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 - [Weather](https://apiverve.com/marketplace/weatherforecast) - Weather is a simple tool for getting the current weather. It returns the temperature, humidity, and more for a given location.
 - [Weather Seasons](https://apiverve.com/marketplace/weatherseasons) - Weather Seasons is a simple tool for getting the dates of the solstice and equinox. It returns the dates of the solstice and equinox for a given year.
 - [Worldwide Earthquakes](https://apiverve.com/marketplace/earthquake) - Earthquake is a simple tool for getting earthquake data. It returns the earthquake data for the past hour.
-
-### 📦 25 (6 APIs)
-
-- [Color Similarity Calculator](https://apiverve.com/marketplace/colorsimilarity) - Color Similarity Calculator is a tool for calculating similarity between two colors. It uses multiple algorithms including RGB distance, HSL comparison, and Delta E to provide comprehensive color similarity analysis.
-- [Daylight Duration Calculator](https://apiverve.com/marketplace/daylightduration) - Daylight Duration Calculator computes sunrise, sunset times, and total daylight hours for any geographic location and date using astronomical algorithms.
-- [Fibonacci Generator](https://apiverve.com/marketplace/fibonaccigenerator) - Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can generate sequences by count or up to a maximum value, with options to start from any position in the sequence.
-- [Roman Numeral Math](https://apiverve.com/marketplace/romannumeralmath) - Roman Numeral Math is a tool for performing mathematical operations (add, subtract, multiply, divide) with Roman numerals. It shows both numeric and Roman numeral equations.
-- [Tip Calculator](https://apiverve.com/marketplace/tipcalculator) - Tip Calculator is a tool for calculating tips and splitting bills among multiple people. It provides common tip percentage comparisons and per-person breakdowns.
-- [UTM Coordinate Converter](https://apiverve.com/marketplace/utmconverter) - UTM Coordinate Converter provides bidirectional conversion between UTM (Universal Transverse Mercator) coordinates and latitude/longitude using WGS84 datum.
-
-### 📦 26 (9 APIs)
-
-- [CAA Record Parser](https://apiverve.com/marketplace/caaparser) - CAA Record Parser analyzes DNS CAA records that specify which Certificate Authorities are authorized to issue certificates for a domain.
-- [Color Brightness Calculator](https://apiverve.com/marketplace/colorbrightness) - Color Brightness Calculator is a tool for calculating color brightness and luminance. It determines if a color is light or dark using WCAG 2.0 standards and provides contrast ratios for accessibility compliance.
-- [Color Name Finder](https://apiverve.com/marketplace/colornamefinder) - Color Name Finder is a tool for finding the closest named color from a hex color value. It uses color distance algorithms to match hex codes to CSS/HTML named colors and provides similarity scores for accurate color identification.
-- [HTTP Status Code Lookup](https://apiverve.com/marketplace/httpstatuslookup) - HTTP Status Code Lookup is a tool for looking up HTTP status code information. It provides descriptions, categories, and common causes for all standard HTTP status codes from 1xx to 5xx.
-- [MIME Type Lookup](https://apiverve.com/marketplace/mimetypelookup) - MIME Type Lookup is a tool for looking up MIME types by file extension or finding file extensions by MIME type. It covers all common file types including documents, images, video, audio, and archives.
-- [Port Number Lookup](https://apiverve.com/marketplace/portnumberlookup) - Port Number Lookup is a tool for looking up well-known port numbers and network services. It provides information about ports including service name, protocol, description, and category for common network services.
-- [Ring Size Converter](https://apiverve.com/marketplace/ringsizeconverter) - Ring Size Converter is a tool for converting ring sizes between US, UK, EU, JP, CH, and AU standards. It can also convert from diameter measurements in millimeters.
-- [Shoe Size Converter](https://apiverve.com/marketplace/shoesizeconverter) - Shoe Size Converter is a tool for converting shoe sizes between US, UK, EU, CM, JP, AU, MX, and KR standards. It supports men, women, unisex, and child sizes.
-- [SRV Record Parser](https://apiverve.com/marketplace/srvparser) - SRV Record Parser analyzes DNS SRV records and extracts service location information including priority, weight, port, and target server details.
-
-### 📦 27 (7 APIs)
-
-- [Card Deck Shuffler](https://apiverve.com/marketplace/carddeckshuffler) - Card Deck Shuffler is a tool for shuffling standard playing card decks. It supports multiple decks, optional jokers, and different shuffling methods to generate randomized card sequences for games and simulations.
-- [Coin Flipper](https://apiverve.com/marketplace/coinflipper) - Coin Flipper is a tool for simulating coin flips. It can flip multiple coins at once and provides statistics including heads/tails counts, percentages, streaks, and fairness analysis for probability experiments and gaming.
-- [Dice Roller](https://apiverve.com/marketplace/diceroller) - Dice Roller is a tool for rolling dice using standard RPG notation (XdY format). It supports multiple dice, various die sizes, modifiers, and provides statistics including min, max, average, and theoretical values for gaming and simulations.
-- [Fortune Cookie Generator](https://apiverve.com/marketplace/fortunecookie) - Fortune Cookie Generator creates authentic fortune cookie messages including wisdom, predictions, advice, humor, and motivational quotes.
-- [Lottery Number Generator](https://apiverve.com/marketplace/lotterypicker) - Lottery Number Generator creates random lottery numbers for various popular games including Powerball, Mega Millions, EuroMillions, and custom lottery configurations.
-- [Rock Paper Scissors](https://apiverve.com/marketplace/rockpaperscissors) - Rock Paper Scissors API simulates the classic hand game with detailed outcome analysis, statistics, and support for multiple rounds.
-- [Slot Machine Simulator](https://apiverve.com/marketplace/slotmachine) - Slot Machine Simulator is a tool for simulating slot machine spins with realistic reel symbols and payout calculations. It supports customizable number of reels, bet amounts, and multiple spins with detailed win/loss statistics.
-
-### 📦 28 (3 APIs)
-
-- [Due Date Calculator](https://apiverve.com/marketplace/duedatecalculator) - Due Date Calculator estimates pregnancy due dates using either last menstrual period or conception date, providing comprehensive pregnancy timeline information.
-- [Menstrual Cycle Calculator](https://apiverve.com/marketplace/menstrualcycle) - Menstrual Cycle Calculator predicts future menstrual cycles, fertile windows, and ovulation dates based on cycle history and patterns.
-- [Ovulation Calculator](https://apiverve.com/marketplace/ovulationcalculator) - Ovulation Calculator estimates ovulation dates, fertile windows, and provides detailed cycle phase information based on menstrual cycle data.
-
-### 📦 3 (21 APIs)
-
-- [ASCII85 Encoder](https://apiverve.com/marketplace/ascii85encoder) - ASCII85 Encoder is a tool for encoding and decoding data using ASCII85 (also known as Base85) encoding. It supports both standard and btoa formats for efficient binary-to-text encoding with better compression than Base64.
-- [Base64 Encoder/Decoder](https://apiverve.com/marketplace/base64) - Base64 Encoder/Decoder is a simple tool for encoding and decoding Base64 strings. It supports both encoding text to Base64 and decoding Base64 back to text.
-- [Color Converter](https://apiverve.com/marketplace/colorconverter) - Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.
-- [CSV to JSON Converter](https://apiverve.com/marketplace/csvtojson) - CSV to JSON Converter is a powerful tool for converting CSV data into JSON format. It supports custom delimiters, header detection, and handles quoted fields properly.
-- [File Size Formatter](https://apiverve.com/marketplace/filesizeformatter) - File Size Formatter is a tool for converting bytes to human-readable file sizes (KB, MB, GB, TB, etc.). It supports both binary (1024) and decimal (1000) standards with customizable precision.
-- [HTML Entities Encoder/Decoder](https://apiverve.com/marketplace/htmlentities) - HTML Entities Encoder/Decoder is a tool for encoding and decoding HTML entities. It converts special characters to HTML entities and vice versa to prevent XSS attacks and display special characters properly.
-- [JSON to CSV Converter](https://apiverve.com/marketplace/jsontocsv) - JSON to CSV Converter is a powerful tool for converting JSON arrays into CSV format. It supports custom delimiters, header inclusion, and proper escaping of special characters.
-- [JSON to JSONP](https://apiverve.com/marketplace/jsontojsonp) - JSON to JSONP is a simple tool for converting JSON data into JSONP format. It returns the converted JSONP data.
-- [Number Base Converter](https://apiverve.com/marketplace/numberbaseconverter) - Number Base Converter is a tool for converting numbers between different bases (2-36). It supports binary, octal, decimal, hexadecimal, and custom bases with comprehensive conversion results.
-- [Number to Words](https://apiverve.com/marketplace/numbertowords) - Number to Words is a simple tool for converting numbers to words. It returns the number in words.
-- [Placeholder Text Generator](https://apiverve.com/marketplace/placeholdertext) - Placeholder Text Generator is a tool for generating placeholder text in various styles including lorem ipsum, tech jargon, hipster, corporate, pirate, fantasy, and sci-fi.
-- [Relative Time Formatter](https://apiverve.com/marketplace/relativetimeformatter) - Relative Time Formatter is a tool for converting timestamps and dates to human-readable relative time formats like '2 hours ago' or 'in 3 days'. It supports multiple styles and custom reference times for flexible time representation.
-- [Roman Numeral Converter](https://apiverve.com/marketplace/romanconverter) - Roman Numeral Converter is a bidirectional tool for converting between Arabic numbers (1-3999) and Roman numerals. It provides detailed breakdowns of the conversion process.
-- [Text to Color](https://apiverve.com/marketplace/texttocolor) - Text to Color is a simple tool for converting color from natural language. It returns the color code based on the text provided.
-- [Unicode Escape/Unescape](https://apiverve.com/marketplace/unicodeescape) - Unicode Escape/Unescape is a tool for converting characters to Unicode escape sequences and vice versa. It handles all Unicode characters including emojis and surrogate pairs.
-- [Unit Converter](https://apiverve.com/marketplace/unitconverter) - Unit Converter is a simple tool for converting units. It returns the converted value.
-- [Unix Timestamp Converter](https://apiverve.com/marketplace/unixtimestamp) - Unix Timestamp Converter is a tool for converting between Unix timestamps and human-readable dates. It supports both seconds and milliseconds formats.
-- [URL Encoder/Decoder](https://apiverve.com/marketplace/urlencode) - URL Encoder/Decoder is a tool for encoding and decoding URL strings. It converts special characters to percent-encoded format and decodes them back for safe URL transmission.
-- [Website to Text](https://apiverve.com/marketplace/websitetotext) - Website to Text is a simple tool for converting a website to text. It returns the text extracted from the website.
-- [Words to Numbers](https://apiverve.com/marketplace/wordstonumbers) - Words to Numbers is a simple tool for converting words to numbers. It returns the words in numbers.
-- [XML to JSON](https://apiverve.com/marketplace/xmltojson) - XML to JSON is a simple tool for converting XML to JSON. It returns the JSON representation of the XML provided.
-
-### 📦 4 (15 APIs)
-
-- [ASN Lookup](https://apiverve.com/marketplace/asnlookup) - ASN Lookup is a simple tool for getting information on Autonomous System Numbers (ASNs). It returns information on various ASNs.
-- [Bible](https://apiverve.com/marketplace/bible) - Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.
-- [Country Calling Code](https://apiverve.com/marketplace/callingcode) - Country Calling Code is a simple tool for getting the country's international dialing codes. It returns the country's international dialing codes.
-- [Dictionary](https://apiverve.com/marketplace/dictionary) - Dictionary is a simple tool for getting word definitions. It returns the definition a word.
-- [Dog Breeds](https://apiverve.com/marketplace/dogbreeds) - Dog Breeds is a simple tool for getting information about dog breeds. It returns information such as breed name, temperament, lifespan, and more.
-- [Emoji Lookup](https://apiverve.com/marketplace/emoji) - Emoji is a simple tool for getting emoji data. It returns the emoji name, category, and more.
-- [Gender Detector](https://apiverve.com/marketplace/genderdetector) - Easily detect the gender of an individual based on their name. This API uses AI to predict the likely gender of a person by their name
-- [Gravatar Lookup](https://apiverve.com/marketplace/gravatarlookup) - Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns the Gravatar profile information of the email address provided.
-- [Lottery Numbers](https://apiverve.com/marketplace/lottery) - Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided.
-- [Nobel Prizes](https://apiverve.com/marketplace/nobelprizes) - Nobel Prizes is a simple tool for getting information on Nobel Prizes. It returns information on various Nobel Prizes.
-- [Open Source Licenses](https://apiverve.com/marketplace/openlicenses) - Open Source Licenses is a simple tool for getting information on open source licenses. It returns information on various open source licenses.
-- [Thesaurus](https://apiverve.com/marketplace/thesaurus) - Thesaurus is a simple tool for getting word synonyms. It returns a list of synonyms.
-- [Timezone Lookup](https://apiverve.com/marketplace/timezonelookup) - Timezone Lookup is a simple tool for looking up timezone data. It returns the timezone name, offset, and more.
-- [Unicode Character Lookup](https://apiverve.com/marketplace/unicodelookup) - Unicode Character Lookup is a tool for retrieving detailed information about Unicode characters. It provides codepoint, UTF-16 encoding, category, and emoji name information.
-- [World Time](https://apiverve.com/marketplace/worldtime) - World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.
-
-### 📦 5 (4 APIs)
-
-- [Cloud Counter](https://apiverve.com/marketplace/counter) - Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.
-- [HTML to Text](https://apiverve.com/marketplace/htmltotext) - HTML to Text is a simple tool for converting HTML to text. It returns the text extracted from the HTML.
-- [Metadata Extractor](https://apiverve.com/marketplace/metadataextractor) - Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.
-- [Morse Code](https://apiverve.com/marketplace/morsecode) - Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.
-
-### 📦 6 (26 APIs)
-
-- [Acronym Generator](https://apiverve.com/marketplace/acronymgenerator) - Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
-- [Baby Name Generator](https://apiverve.com/marketplace/babynamegenerator) - Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.
-- [Barcode Generator](https://apiverve.com/marketplace/barcodegenerator) - Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.
-- [Captcha Generator](https://apiverve.com/marketplace/captchagenerator) - Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.
-- [Card Generator](https://apiverve.com/marketplace/cardgenerator) - Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
-- [Chart Generator](https://apiverve.com/marketplace/chartgenerator) - Chart Generator is a simple tool for generating charts from data. It returns a URL to the generated image of the chart.
-- [Color Palette Generator](https://apiverve.com/marketplace/colorpalette) - Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.
-- [Comment Generator](https://apiverve.com/marketplace/commentgenerator) - Comment Generator is a simple tool for generating comments for social media. It returns a list of comments based on the input parameters.
-- [Company Name Generator](https://apiverve.com/marketplace/companynamegenerator) - Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
-- [Cron Expression Generator](https://apiverve.com/marketplace/crongenerator) - Cron Expression Generator is an AI-powered tool for converting natural language schedule descriptions into cron expressions. It returns valid cron syntax along with human-readable descriptions.
-- [Cuid Generator](https://apiverve.com/marketplace/cuidgenerator) - Cuid Generator is a tool for generating collision-resistant unique identifiers (Cuids). Cuids are optimized for horizontal scaling and sequential lookup performance in distributed systems.
-- [GUID Generator](https://apiverve.com/marketplace/guidgenerator) - GUID Generator is a tool for generating Globally Unique Identifiers (GUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options including uppercase, no hyphens, and braces.
-- [Hashtag Generator](https://apiverve.com/marketplace/hashtaggenerator) - Hashtag Generator is a simple tool for generating hashtags. It returns a list of hashtags based on the text provided.
-- [JSON Schema Generator](https://apiverve.com/marketplace/jsonschemagenerator) - JSON Schema Generator is a tool for automatically generating JSON schemas from sample JSON data. It creates Draft-07 compatible schemas with type inference and format detection.
-- [Lorem Ipsum Generator](https://apiverve.com/marketplace/loremipsumgenerator) - Lorem Ipsum Generator is a simple tool for generating lorem ipsum text. It returns the generated text.
-- [Password Generator](https://apiverve.com/marketplace/passwordgenerator) - Password Generator is a simple tool for generating passwords. It returns the generated password.
-- [QR Code Generator](https://apiverve.com/marketplace/qrcodegenerator) - QR Code Generator is a simple tool for generating QR codes. It returns a PNG image of the QR code.
-- [Random Data Generator](https://apiverve.com/marketplace/randomgenerator) - Random Generator is a simple tool for generating random data. It returns random data such as numbers, strings, and more.
-- [Random Identity Generator](https://apiverve.com/marketplace/randomidentitygenerator) - Random Identity is a simple tool for generating random identities. It returns a random name, address, and more.
-- [Random User Generator](https://apiverve.com/marketplace/randomusergenerator) - Random User Generator is a simple tool for generating random user data. It returns the user's name, email, and more.
-- [Random Word](https://apiverve.com/marketplace/randomwords) - Random Word is a simple tool for getting random words. It returns a random word.
-- [Short Code Generator](https://apiverve.com/marketplace/shortcodegenerator) - Short Code Generator is a tool for generating short alphanumeric codes. It supports multiple character sets including alphanumeric, alphabetic, numeric, hexadecimal, and Base58 with customizable length.
-- [ULID Generator](https://apiverve.com/marketplace/ulidgenerator) - ULID Generator is a tool for generating Universally Unique Lexicographically Sortable Identifiers (ULIDs). ULIDs are 26-character strings that are sortable by time and collision-resistant.
-- [User Agent Generator](https://apiverve.com/marketplace/useragentgenerator) - User Agent Generator is a simple tool for generating user agent strings. It returns a random user agent string.
-- [Username Generator](https://apiverve.com/marketplace/usernamegenerator) - Username Generator is a simple tool for generating usernames. It returns a list of usernames based on the specified criteria.
-- [UUID Generator](https://apiverve.com/marketplace/uuidgenerator) - UUID Generator is a tool for generating Universally Unique Identifiers (UUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options for different platform requirements.
-
-### 📦 7 (5 APIs)
-
-- [Contact Extractor](https://apiverve.com/marketplace/contactextractor) - Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.
-- [Link Scraper](https://apiverve.com/marketplace/linkscraper) - Link Scraper is a simple tool for scraping web page links. It returns all the links on a web page.
-- [SEO Data Scraper](https://apiverve.com/marketplace/seoscraper) - SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.
-- [Website Images Scraper](https://apiverve.com/marketplace/webimagescraper) - Web Image Scraper is a simple tool for scraping images from a website. It returns the URLs of the images found on the website.
-- [Website Screenshot](https://apiverve.com/marketplace/webscreenshots) - Web Screenshots is a simple tool for capturing screenshots of web pages. It returns an image screenshot of the web page provided.
-
-### 📦 8 (8 APIs)
-
-- [Card Validator](https://apiverve.com/marketplace/cardvalidator) - Card Validator is a simple tool for validating if a card number is valid or not. It checks the card number format and the Luhn algorithm to see if the card number is valid.
-- [Disposable Email Checker](https://apiverve.com/marketplace/emaildisposablechecker) - Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.
-- [Email Validator](https://apiverve.com/marketplace/emailvalidator) - Email Validator is a simple tool for validating if an email address is valid or not. It checks the email address format and the domain records to see if the email address is valid.
-- [Password Strength](https://apiverve.com/marketplace/passwordstrength) - Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
-- [Phone Number Validator](https://apiverve.com/marketplace/phonenumbervalidator) - Phone Number Validator is a simple tool for validating if a phone number is valid or not. It checks the phone number format and the country code to see if the phone number is valid.
-- [SEO Validator](https://apiverve.com/marketplace/seovalidator) - SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
-- [Spam Detector](https://apiverve.com/marketplace/spamdetector) - Spam Detector is a simple tool for detecting spam in a text. It utilize an email address or IP address to validate the given text against the spam database.
-- [Username Profanity](https://apiverve.com/marketplace/usernameprofanity) - Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.
-
-### 📦 9 (3 APIs)
-
-- [HTML to PDF](https://apiverve.com/marketplace/htmltopdf) - HTML to PDF is a simple tool for converting HTML to PDF. It returns the PDF file generated from the HTML.
-- [Invoice Generator](https://apiverve.com/marketplace/invoicegenerator) - Invoice Generator is a simple tool for generating invoices. It returns a PDF of the generated invoice.
-- [Website to PDF](https://apiverve.com/marketplace/websitetopdf) - Website to PDF is a simple tool for converting a website to PDF. It returns the PDF file generated from the website.
-
-### 📦 Other (5 APIs)
-
-- [Horoscope](https://apiverve.com/marketplace/horoscope) - Horoscope is a simple tool for getting horoscope data. It returns the horoscope for the day.
-- [Moon Phases](https://apiverve.com/marketplace/moonphases) - Moon Phases is a simple tool for getting the moon phases. It returns the moon phase for a given date.
-- [Moon Position](https://apiverve.com/marketplace/moonposition) - Moon Position is a simple tool for getting moon position data. It returns data such as altitude, azimuth, and distance of the moon based on the location provided.
-- [Planet Positions](https://apiverve.com/marketplace/planetpositions) - Planet Positions is a simple tool for getting the position of planets in the solar system. It returns the position of planets in the solar system.
-- [Sun Position](https://apiverve.com/marketplace/sunposition) - Sun Position is a simple tool for getting sun position data. It returns data such as altitude, azimuth, and distance of the sun from the location provided.
 
 ---
 
@@ -401,11 +403,11 @@ curl -H "x-api-key: YOUR_API_KEY" https://api.apiverve.com/v1/endpoint
 
 ### Browse by Category
 
-- [1 →](categories/1.md)
-- [10 →](categories/10.md)
-- [11 →](categories/11.md)
-- [12 →](categories/12.md)
-- [13 →](categories/13.md)
+- [AI/Computer Vision →](categories/ai-computer-vision.md)
+- [Astrology →](categories/astrology.md)
+- [Calendar →](categories/calendar.md)
+- [Data Conversion →](categories/data-conversion.md)
+- [Data Generation →](categories/data-generation.md)
 
 ### Postman Collection
 
