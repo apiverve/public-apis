@@ -12,7 +12,7 @@
 
 Horoscope is a simple tool for getting horoscope data. It returns the horoscope for the day.
 
-**[View Documentation →](../apis/horoscope)** | **[OpenAPI Spec](../apis/horoscope/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+**[View Documentation →](https://apiverve.com/marketplace/horoscope)** | **[OpenAPI Spec](../apis/horoscope/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -22,7 +22,7 @@ Horoscope is a simple tool for getting horoscope data. It returns the horoscope 
 
 Moon Phases is a simple tool for getting the moon phases. It returns the moon phase for a given date.
 
-**[View Documentation →](../apis/moonphases)** | **[OpenAPI Spec](../apis/moonphases/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+**[View Documentation →](https://apiverve.com/marketplace/moonphases)** | **[OpenAPI Spec](../apis/moonphases/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -32,7 +32,7 @@ Moon Phases is a simple tool for getting the moon phases. It returns the moon ph
 
 Moon Position is a simple tool for getting moon position data. It returns data such as altitude, azimuth, and distance of the moon based on the location provided.
 
-**[View Documentation →](../apis/moonposition)** | **[OpenAPI Spec](../apis/moonposition/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+**[View Documentation →](https://apiverve.com/marketplace/moonposition)** | **[OpenAPI Spec](../apis/moonposition/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -42,7 +42,7 @@ Moon Position is a simple tool for getting moon position data. It returns data s
 
 Planet Positions is a simple tool for getting the position of planets in the solar system. It returns the position of planets in the solar system.
 
-**[View Documentation →](../apis/planetpositions)** | **[OpenAPI Spec](../apis/planetpositions/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+**[View Documentation →](https://apiverve.com/marketplace/planetpositions)** | **[OpenAPI Spec](../apis/planetpositions/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -52,7 +52,7 @@ Planet Positions is a simple tool for getting the position of planets in the sol
 
 Sun Position is a simple tool for getting sun position data. It returns data such as altitude, azimuth, and distance of the sun from the location provided.
 
-**[View Documentation →](../apis/sunposition)** | **[OpenAPI Spec](../apis/sunposition/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+**[View Documentation →](https://apiverve.com/marketplace/sunposition)** | **[OpenAPI Spec](../apis/sunposition/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
