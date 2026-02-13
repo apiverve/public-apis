@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Pictionary Generator creates random drawing prompts filtered by difficulty level for the classic Pictionary sketching game.",
         "operationId": "pictionary",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

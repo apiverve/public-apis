@@ -8,7 +8,7 @@ info:
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -26,7 +26,7 @@ paths:
         It returns the monthly payment, total interest, and more.
       operationId: loanpaymentcalculator
       tags:
-        - 12
+        - null
       parameters: []
       responses:
         '200':

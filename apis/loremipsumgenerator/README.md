@@ -2,7 +2,7 @@
 
 > Lorem Ipsum Generator is a simple tool for generating lorem ipsum text. It returns the generated text.
 
-<img src="https://apiverve.web.app/publicapis/logos/loremipsumgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/loremipsumgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/loremipsumgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/loremipsumgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-loremipsumgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-loremipsumgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 801ms
-- **Health Status:** 99%
 
 ---
 

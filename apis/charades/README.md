@@ -2,7 +2,7 @@
 
 > Charades Generator provides random words from curated categories perfect for playing the classic charades acting game.
 
-<img src="https://apiverve.web.app/publicapis/logos/charades.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/charades.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/charades.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/charades)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-charades.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-charades/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 528ms
-- **Health Status:** 99%
 
 ---
 

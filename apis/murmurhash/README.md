@@ -2,7 +2,7 @@
 
 > MurmurHash generates fast, non-cryptographic hashes using the MurmurHash3 algorithm. Ideal for hash tables, data partitioning, bloom filters, and checksums where cryptographic security isn't needed.
 
-<img src="https://apiverve.web.app/publicapis/logos/murmurhash.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/murmurhash.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/murmurhash.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/murmurhash)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-murmurhash.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-murmurhash/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Processing
 - **Average Latency:** 143ms
-- **Health Status:** 99%
 
 ---
 

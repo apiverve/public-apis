@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  title: National Debt
+  version: '1'
+  description: >-
+    National Debt provides real-time access to the US national debt (Debt to the
+    Penny). It returns the total public debt, debt held by the public,
+    intragovernmental holdings, and per-capita debt calculations.
+  contact:
+    name: APIVerve
+    url: https://apiverve.com
+    email: hello@apiverve.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.apiverve.com
+    description: Production server
+security:
+  - ApiKeyAuth: []
+paths:
+  /v1/nationaldebt:
+    get:
+      summary: National Debt
+      description: >-
+        National Debt provides real-time access to the US national debt (Debt to
+        the Penny). It returns the total public debt, debt held by the public,
+        intragovernmental holdings, and per-capita debt calculations.
+      operationId: nationaldebt
+      tags:
+        - null
+      parameters: []
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+                  data:
+                    type: object
+        '400':
+          description: Bad Request - Invalid parameters
+        '401':
+          description: Unauthorized - Invalid or missing API key
+        '429':
+          description: Too Many Requests - Rate limit exceeded
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: x-api-key
+  schemas: {}

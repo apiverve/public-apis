@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "ISBN Validator is a comprehensive tool for validating and parsing ISBN-10 and ISBN-13 book identification numbers. It validates checksums and provides detailed information about each ISBN component.",
         "operationId": "isbnvalidator",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Lexicon is a simple tool for analyzing words. It returns various properties of the word.
 
-<img src="https://apiverve.web.app/publicapis/logos/lexicon.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/lexicon.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/lexicon.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/lexicon)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-lexicon.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-lexicon/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

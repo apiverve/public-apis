@@ -2,7 +2,7 @@
 
 > Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/metadataextractor.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/metadataextractor.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/metadataextractor.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/metadataextractor)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-metadataextractor.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-metadataextractor/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Processing
 - **Average Latency:** 1986ms
-- **Health Status:** 99%
 
 ---
 

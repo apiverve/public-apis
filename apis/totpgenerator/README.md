@@ -2,7 +2,7 @@
 
 > TOTP Generator creates time-based one-time passwords compatible with authenticator apps using standard TOTP algorithms.
 
-<img src="https://apiverve.web.app/publicapis/logos/totpgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/totpgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/totpgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/totpgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-totpgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-totpgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 423ms
-- **Health Status:** 99%
 
 ---
 

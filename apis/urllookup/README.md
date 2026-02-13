@@ -2,7 +2,7 @@
 
 > URL Lookup is a simple tool for looking up the location of a URL. It returns the location of the URL provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/urllookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/urllookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/urllookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/urllookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-urllookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-urllookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1601ms
-- **Health Status:** 99%
 
 ---
 

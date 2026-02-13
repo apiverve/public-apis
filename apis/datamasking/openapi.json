@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Data Masking is a powerful tool for detecting and masking sensitive information in text. It can identify and redact emails, phone numbers, SSNs, credit cards, IP addresses, URLs, and dates.",
         "operationId": "datamasking",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

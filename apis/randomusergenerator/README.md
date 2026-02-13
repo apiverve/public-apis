@@ -2,7 +2,7 @@
 
 > Random User Generator is a simple tool for generating random user data. It returns the user's name, email, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/randomusergenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/randomusergenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/randomusergenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/randomusergenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-randomusergenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-randomusergenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1981ms
-- **Health Status:** 99%
 
 ---
 

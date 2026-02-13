@@ -8,7 +8,7 @@
 
 ## HTML to PDF
 
-<img src="https://apiverve.web.app/publicapis/logos/htmltopdf.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/htmltopdf.svg" width="60" height="60" />
 
 HTML to PDF is a simple tool for converting HTML to PDF. It returns the PDF file generated from the HTML.
 
@@ -18,7 +18,7 @@ HTML to PDF is a simple tool for converting HTML to PDF. It returns the PDF file
 
 ## Invoice Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/invoicegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/invoicegenerator.svg" width="60" height="60" />
 
 Invoice Generator is a simple tool for generating invoices. It returns a PDF of the generated invoice.
 
@@ -28,7 +28,7 @@ Invoice Generator is a simple tool for generating invoices. It returns a PDF of 
 
 ## Website to PDF
 
-<img src="https://apiverve.web.app/publicapis/logos/websitetopdf.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/websitetopdf.svg" width="60" height="60" />
 
 Website to PDF is a simple tool for converting a website to PDF. It returns the PDF file generated from the website.
 

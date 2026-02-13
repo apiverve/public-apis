@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Sentiment Analysis is a simple tool for analyzing the sentiment of a text. It returns the sentiment score and the sentiment label.",
         "operationId": "sentimentanalysis",
         "tags": [
-          1
+          null
         ],
         "parameters": [],
         "responses": {

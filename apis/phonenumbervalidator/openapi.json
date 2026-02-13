@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Phone Number Validator is a simple tool for validating if a phone number is valid or not. It checks the phone number format and the country code to see if the phone number is valid.",
         "operationId": "phonenumbervalidator",
         "tags": [
-          8
+          null
         ],
         "parameters": [],
         "responses": {

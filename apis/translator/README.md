@@ -2,7 +2,7 @@
 
 > Translator is a simple tool for translating text. It returns the translated text.
 
-<img src="https://apiverve.web.app/publicapis/logos/translator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/translator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/translator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/translator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-translator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-translator/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 1907ms
-- **Health Status:** 99%
 
 ---
 

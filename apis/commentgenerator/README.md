@@ -2,7 +2,7 @@
 
 > Comment Generator is a simple tool for generating comments for social media. It returns a list of comments based on the input parameters.
 
-<img src="https://apiverve.web.app/publicapis/logos/commentgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/commentgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/commentgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/commentgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-commentgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-commentgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 512ms
-- **Health Status:** 99%
 
 ---
 

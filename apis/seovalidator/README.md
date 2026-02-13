@@ -1,12 +1,12 @@
-# SEO Validator
+# SEO Quick Validator
 
 > SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
 
-<img src="https://apiverve.web.app/publicapis/logos/seovalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/seovalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/seovalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/seovalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-seovalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-seovalidator/)
-[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.SEOValidator.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.SEOValidator)
+[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.SEOQuickValidator.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.SEOQuickValidator)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](openapi.json)
 [![Try it](https://img.shields.io/badge/Try%20it-Postman-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 1994ms
-- **Health Status:** 99%
 
 ---
 
@@ -97,7 +96,7 @@ pip install apiverve-seovalidator
 
 ### NuGet
 ```bash
-dotnet add package APIVerve.API.SEOValidator
+dotnet add package APIVerve.API.SEOQuickValidator
 ```
 
 ---

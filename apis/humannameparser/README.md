@@ -2,7 +2,7 @@
 
 > Human Name Parser is a simple tool for parsing human names into their components. It returns the parsed components of the human name.
 
-<img src="https://apiverve.web.app/publicapis/logos/humannameparser.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/humannameparser.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/humannameparser.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/humannameparser)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-humannameparser.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-humannameparser/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Parsers
 - **Average Latency:** 507ms
-- **Health Status:** 99%
 
 ---
 

@@ -1,4 +1,5 @@
-# Image to Text - Example Request
+# Image to Text - Example Request (File Upload)
 
-curl -X GET "https://api.apiverve.com/v1/imagetotext" \
-  -H "x-api-key: YOUR_API_KEY"
+curl -X POST "https://api.apiverve.com/v1/imagetotext" \
+  -H "x-api-key: YOUR_API_KEY" \
+  -F "image=@/path/to/your/image.jpg"

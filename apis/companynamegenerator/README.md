@@ -2,7 +2,7 @@
 
 > Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
 
-<img src="https://apiverve.web.app/publicapis/logos/companynamegenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/companynamegenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/companynamegenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/companynamegenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-companynamegenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-companynamegenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 898ms
-- **Health Status:** 99%
 
 ---
 

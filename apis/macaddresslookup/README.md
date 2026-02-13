@@ -2,7 +2,7 @@
 
 > MAC Address Lookup is a simple tool for looking up MAC address data. It returns the MAC address vendor, conversions, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/macaddresslookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/macaddresslookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/macaddresslookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/macaddresslookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-macaddresslookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-macaddresslookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 974ms
-- **Health Status:** 99%
 
 ---
 

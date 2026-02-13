@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Sales Tax Lookup is a simple tool for looking up the sales tax rate of a location. It returns the sales tax rate.",
         "operationId": "salestax",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.
 
-<img src="https://apiverve.web.app/publicapis/logos/colorconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/colorconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/colorconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/colorconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-colorconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-colorconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 491ms
-- **Health Status:** 99%
 
 ---
 

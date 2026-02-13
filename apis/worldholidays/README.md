@@ -2,7 +2,7 @@
 
 > World Holidays is a simple tool for getting the holidays of the world. It returns the holidays of the world for each day of the year.
 
-<img src="https://apiverve.web.app/publicapis/logos/worldholidays.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/worldholidays.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/worldholidays.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/worldholidays)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-worldholidays.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-worldholidays/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Calendar
 - **Average Latency:** 592ms
-- **Health Status:** 99%
 
 ---
 

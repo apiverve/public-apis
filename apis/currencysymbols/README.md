@@ -2,7 +2,7 @@
 
 > Currency Symbols is a simple tool for getting currency symbols. It returns the currency symbol, name, and more of a currency.
 
-<img src="https://apiverve.web.app/publicapis/logos/currencysymbols.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/currencysymbols.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/currencysymbols.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/currencysymbols)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-currencysymbols.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-currencysymbols/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 775ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Reading Time Calculator estimates how long it will take to read a given text. It calculates reading time based on word count and customizable reading speed (WPM).
 
-<img src="https://apiverve.web.app/publicapis/logos/readingtime.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/readingtime.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/readingtime.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/readingtime)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-readingtime.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-readingtime/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 291ms
-- **Health Status:** 99%
 
 ---
 

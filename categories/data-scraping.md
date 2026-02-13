@@ -8,7 +8,7 @@
 
 ## Contact Extractor
 
-<img src="https://apiverve.web.app/publicapis/logos/contactextractor.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/contactextractor.svg" width="60" height="60" />
 
 Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.
 
@@ -18,7 +18,7 @@ Contact Extractor is a simple tool for extracting contact data from a website UR
 
 ## Link Scraper
 
-<img src="https://apiverve.web.app/publicapis/logos/linkscraper.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/linkscraper.svg" width="60" height="60" />
 
 Link Scraper is a simple tool for scraping web page links. It returns all the links on a web page.
 
@@ -28,7 +28,7 @@ Link Scraper is a simple tool for scraping web page links. It returns all the li
 
 ## SEO Data Scraper
 
-<img src="https://apiverve.web.app/publicapis/logos/seoscraper.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/seoscraper.svg" width="60" height="60" />
 
 SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.
 
@@ -38,7 +38,7 @@ SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, m
 
 ## Website Images Scraper
 
-<img src="https://apiverve.web.app/publicapis/logos/webimagescraper.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/webimagescraper.svg" width="60" height="60" />
 
 Web Image Scraper is a simple tool for scraping images from a website. It returns the URLs of the images found on the website.
 
@@ -48,7 +48,7 @@ Web Image Scraper is a simple tool for scraping images from a website. It return
 
 ## Website Screenshot
 
-<img src="https://apiverve.web.app/publicapis/logos/webscreenshots.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/webscreenshots.svg" width="60" height="60" />
 
 Web Screenshots is a simple tool for capturing screenshots of web pages. It returns an image screenshot of the web page provided.
 

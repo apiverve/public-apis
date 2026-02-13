@@ -2,7 +2,7 @@
 
 > Coin Flipper is a tool for simulating coin flips. It can flip multiple coins at once and provides statistics including heads/tails counts, percentages, streaks, and fairness analysis for probability experiments and gaming.
 
-<img src="https://apiverve.web.app/publicapis/logos/coinflipper.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/coinflipper.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/coinflipper.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/coinflipper)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-coinflipper.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-coinflipper/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 104ms
-- **Health Status:** 99%
 
 ---
 

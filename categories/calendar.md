@@ -8,7 +8,7 @@
 
 ## Age Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/agecalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/agecalculator.svg" width="60" height="60" />
 
 Age Calculator is a simple tool for calculating age from the date of birth. It returns the calculated age based on the date of birth provided.
 
@@ -18,7 +18,7 @@ Age Calculator is a simple tool for calculating age from the date of birth. It r
 
 ## Date Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/datecalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/datecalculator.svg" width="60" height="60" />
 
 Date Calculator is a simple tool for calculating date differences. It returns the calculated date difference based on the dates provided.
 
@@ -28,7 +28,7 @@ Date Calculator is a simple tool for calculating date differences. It returns th
 
 ## Liturgical Calendar
 
-<img src="https://apiverve.web.app/publicapis/logos/liturgicalcalendar.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/liturgicalcalendar.svg" width="60" height="60" />
 
 Liturgical Calendar is a simple tool for getting the dates of the Liturgical Calendar. It returns the dates of the Liturgical Calendar for a given year.
 
@@ -38,7 +38,7 @@ Liturgical Calendar is a simple tool for getting the dates of the Liturgical Cal
 
 ## Working Days
 
-<img src="https://apiverve.web.app/publicapis/logos/workingdays.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/workingdays.svg" width="60" height="60" />
 
 Working Days is a simple tool for getting the number of working days in a month. It returns the number of working days in the given month.
 
@@ -48,7 +48,7 @@ Working Days is a simple tool for getting the number of working days in a month.
 
 ## World Holidays
 
-<img src="https://apiverve.web.app/publicapis/logos/worldholidays.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/worldholidays.svg" width="60" height="60" />
 
 World Holidays is a simple tool for getting the holidays of the world. It returns the holidays of the world for each day of the year.
 

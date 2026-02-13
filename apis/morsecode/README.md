@@ -2,7 +2,7 @@
 
 > Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.
 
-<img src="https://apiverve.web.app/publicapis/logos/morsecode.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/morsecode.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/morsecode.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/morsecode)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-morsecode.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-morsecode/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Processing
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

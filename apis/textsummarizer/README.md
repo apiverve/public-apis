@@ -2,7 +2,7 @@
 
 > Text Summarizer is a simple tool for summarizing text. It returns a summary of the text.
 
-<img src="https://apiverve.web.app/publicapis/logos/textsummarizer.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/textsummarizer.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/textsummarizer.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/textsummarizer)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-textsummarizer.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-textsummarizer/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 2489ms
-- **Health Status:** 99%
 
 ---
 

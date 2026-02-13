@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.",
         "operationId": "contactextractor",
         "tags": [
-          7
+          null
         ],
         "parameters": [],
         "responses": {

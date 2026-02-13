@@ -2,7 +2,7 @@
 
 > Antonym is a simple tool for getting the antonyms of a word. It returns a list of antonyms for the given word.
 
-<img src="https://apiverve.web.app/publicapis/logos/antonym.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/antonym.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/antonym.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/antonym)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-antonym.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-antonym/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 844ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Chuck Norris Jokes is a simple tool for getting Chuck Norris jokes. It returns a random Chuck Norris joke.
 
-<img src="https://apiverve.web.app/publicapis/logos/chucknorris.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/chucknorris.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/chucknorris.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/chucknorris)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-chucknorris.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-chucknorris/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 712ms
-- **Health Status:** 99%
 
 ---
 

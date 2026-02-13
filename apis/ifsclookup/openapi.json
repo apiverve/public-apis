@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "IFSC Lookup is a simple tool for getting information on IFSC codes. It returns information on various IFSC codes.",
         "operationId": "ifsclookup",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

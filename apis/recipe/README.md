@@ -1,12 +1,12 @@
-# Recipes
+# Recipe Generator
 
-> Recipes is a simple tool for getting recipe information. It returns information on various recipes.
+> Recipe Generator is an AI-powered tool for generating detailed recipes. It returns complete recipes with ingredients, instructions, prep time, cook time, and servings.
 
-<img src="https://apiverve.web.app/publicapis/logos/recipe.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/recipe.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/recipe.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/recipe)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-recipe.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-recipe/)
-[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.Recipes.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.Recipes)
+[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.RecipeGenerator.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.RecipeGenerator)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](openapi.json)
 [![Try it](https://img.shields.io/badge/Try%20it-Postman-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/recipe" \
 
 ## 📖 Description
 
-Recipes is a simple tool for getting recipe information. It returns information on various recipes.
+Recipe Generator is an AI-powered tool for generating detailed recipes. It returns complete recipes with ingredients, instructions, prep time, cook time, and servings.
 
 ---
 
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Food
-- **Average Latency:** 601ms
-- **Health Status:** 99%
+- **Average Latency:** 2317ms
 
 ---
 
@@ -97,7 +96,7 @@ pip install apiverve-recipe
 
 ### NuGet
 ```bash
-dotnet add package APIVerve.API.Recipes
+dotnet add package APIVerve.API.RecipeGenerator
 ```
 
 ---

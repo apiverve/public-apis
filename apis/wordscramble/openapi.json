@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Word Scramble Generator creates puzzles where players unscramble letters to form words, with optional hints from dictionary definitions.",
         "operationId": "wordscramble",
         "tags": [
-          27
+          null
         ],
         "parameters": [],
         "responses": {

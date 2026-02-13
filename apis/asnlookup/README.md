@@ -2,7 +2,7 @@
 
 > ASN Lookup is a simple tool for getting information on Autonomous System Numbers (ASNs). It returns information on various ASNs.
 
-<img src="https://apiverve.web.app/publicapis/logos/asnlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/asnlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/asnlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/asnlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-asnlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-asnlookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 301ms
-- **Health Status:** 99%
 
 ---
 

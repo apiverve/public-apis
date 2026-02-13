@@ -2,7 +2,7 @@
 
 > Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.
 
-<img src="https://apiverve.web.app/publicapis/logos/dadjokes.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dadjokes.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dadjokes.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dadjokes)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dadjokes.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dadjokes/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 601ms
-- **Health Status:** 99%
 
 ---
 

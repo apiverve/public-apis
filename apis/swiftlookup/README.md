@@ -2,7 +2,7 @@
 
 > SWIFT Code Lookup is a simple tool for looking up SWIFT code information. It returns information such as the bank, branch, and more based on the SWIFT code provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/swiftlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/swiftlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/swiftlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/swiftlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-swiftlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-swiftlookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 1804ms
-- **Health Status:** 99%
 
 ---
 

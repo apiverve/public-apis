@@ -8,7 +8,7 @@
 
 ## Color Similarity Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/colorsimilarity.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/colorsimilarity.svg" width="60" height="60" />
 
 Color Similarity Calculator is a tool for calculating similarity between two colors. It uses multiple algorithms including RGB distance, HSL comparison, and Delta E to provide comprehensive color similarity analysis.
 
@@ -18,7 +18,7 @@ Color Similarity Calculator is a tool for calculating similarity between two col
 
 ## Daylight Duration Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/daylightduration.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/daylightduration.svg" width="60" height="60" />
 
 Daylight Duration Calculator computes sunrise, sunset times, and total daylight hours for any geographic location and date using astronomical algorithms.
 
@@ -28,7 +28,7 @@ Daylight Duration Calculator computes sunrise, sunset times, and total daylight 
 
 ## Fibonacci Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/fibonaccigenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/fibonaccigenerator.svg" width="60" height="60" />
 
 Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can generate sequences by count or up to a maximum value, with options to start from any position in the sequence.
 
@@ -38,7 +38,7 @@ Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can 
 
 ## Permutation & Combination Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/permutationcombination.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/permutationcombination.svg" width="60" height="60" />
 
 Calculate permutations (P(n,r)) and combinations (C(n,r)) for any given values of n and r.
 
@@ -48,7 +48,7 @@ Calculate permutations (P(n,r)) and combinations (C(n,r)) for any given values o
 
 ## Roman Numeral Math
 
-<img src="https://apiverve.web.app/publicapis/logos/romannumeralmath.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/romannumeralmath.svg" width="60" height="60" />
 
 Roman Numeral Math is a tool for performing mathematical operations (add, subtract, multiply, divide) with Roman numerals. It shows both numeric and Roman numeral equations.
 
@@ -58,7 +58,7 @@ Roman Numeral Math is a tool for performing mathematical operations (add, subtra
 
 ## Tip Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/tipcalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/tipcalculator.svg" width="60" height="60" />
 
 Tip Calculator is a tool for calculating tips and splitting bills among multiple people. It provides common tip percentage comparisons and per-person breakdowns.
 
@@ -68,7 +68,7 @@ Tip Calculator is a tool for calculating tips and splitting bills among multiple
 
 ## Truth Table Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/truthtable.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/truthtable.svg" width="60" height="60" />
 
 Truth Table Generator creates complete truth tables for boolean expressions with support for AND, OR, NOT, XOR, NAND, and NOR operators.
 
@@ -78,7 +78,7 @@ Truth Table Generator creates complete truth tables for boolean expressions with
 
 ## UTM Coordinate Converter
 
-<img src="https://apiverve.web.app/publicapis/logos/utmconverter.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/utmconverter.svg" width="60" height="60" />
 
 UTM Coordinate Converter provides bidirectional conversion between UTM (Universal Transverse Mercator) coordinates and latitude/longitude using WGS84 datum.
 

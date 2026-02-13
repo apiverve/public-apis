@@ -2,7 +2,7 @@
 
 > Zip Codes Lookup is a simple tool for looking up the zip codes of a city. It returns the zip codes of the city.
 
-<img src="https://apiverve.web.app/publicapis/logos/zipcodes.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/zipcodes.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/zipcodes.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/zipcodes)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-zipcodes.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-zipcodes/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 1569ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Word Search Generator creates customizable word search puzzles with configurable grid size, word placement, and difficulty levels.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordsearch.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordsearch.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordsearch.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordsearch)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordsearch.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordsearch/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 412ms
-- **Health Status:** 99%
 
 ---
 

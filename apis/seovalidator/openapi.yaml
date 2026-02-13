@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: SEO Validator
+  title: SEO Quick Validator
   version: '1'
   description: >-
     SEO Validator is a simple tool for validating SEO metrics. It returns a list
@@ -8,7 +8,7 @@ info:
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -20,14 +20,14 @@ security:
 paths:
   /v1/seovalidator:
     get:
-      summary: SEO Validator
+      summary: SEO Quick Validator
       description: >-
         SEO Validator is a simple tool for validating SEO metrics. It returns a
         list of issues that need to be fixed to improve the SEO metrics of a web
         page.
       operationId: seovalidator
       tags:
-        - 8
+        - null
       parameters: []
       responses:
         '200':

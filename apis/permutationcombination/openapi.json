@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Calculate permutations (P(n,r)) and combinations (C(n,r)) for any given values of n and r.",
         "operationId": "permutationcombination",
         "tags": [
-          25
+          null
         ],
         "parameters": [],
         "responses": {

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Spell Checker is a simple tool for checking spelling in a given body of text. It returns correction suggestions",
         "operationId": "spellchecker",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

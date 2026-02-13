@@ -2,7 +2,7 @@
 
 > Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.
 
-<img src="https://apiverve.web.app/publicapis/logos/barcodegenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/barcodegenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/barcodegenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/barcodegenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-barcodegenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-barcodegenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 781ms
-- **Health Status:** 99%
 
 ---
 

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Generate unique superhero names using dynamic templates and word combinations.",
         "operationId": "superheroname",
         "tags": [
-          27
+          null
         ],
         "parameters": [],
         "responses": {

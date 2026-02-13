@@ -2,7 +2,7 @@
 
 > SPF Validator checks the Sender Policy Framework (SPF) DNS record for a domain to verify if it’s valid and optionally whether a given IP address is authorized to send emails for that domain.
 
-<img src="https://apiverve.web.app/publicapis/logos/spfvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/spfvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/spfvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/spfvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-spfvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-spfvalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 379ms
-- **Health Status:** 99%
 
 ---
 

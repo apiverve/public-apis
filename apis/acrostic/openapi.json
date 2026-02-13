@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Acrostic Puzzle Generator creates puzzles where the first letters of answer words spell out a hidden keyword.",
         "operationId": "acrostic",
         "tags": [
-          27
+          null
         ],
         "parameters": [],
         "responses": {

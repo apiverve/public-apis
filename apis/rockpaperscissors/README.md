@@ -2,7 +2,7 @@
 
 > Rock Paper Scissors API simulates the classic hand game with detailed outcome analysis, statistics, and support for multiple rounds.
 
-<img src="https://apiverve.web.app/publicapis/logos/rockpaperscissors.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/rockpaperscissors.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/rockpaperscissors.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/rockpaperscissors)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-rockpaperscissors.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-rockpaperscissors/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Games
-- **Average Latency:** 94ms
-- **Health Status:** 99%
+- **Average Latency:** 137ms
 
 ---
 

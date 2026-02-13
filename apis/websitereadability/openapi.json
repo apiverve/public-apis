@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Website Readability is a simple tool for analyzing the readability of a website. It returns the readability score of the website provided.",
         "operationId": "websitereadability",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

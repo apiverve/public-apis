@@ -2,7 +2,7 @@
 
 > Web Screenshots is a simple tool for capturing screenshots of web pages. It returns an image screenshot of the web page provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/webscreenshots.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/webscreenshots.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/webscreenshots.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/webscreenshots)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-webscreenshots.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-webscreenshots/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Scraping
 - **Average Latency:** 4107ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
 
-<img src="https://apiverve.web.app/publicapis/logos/passwordstrength.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/passwordstrength.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/passwordstrength.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/passwordstrength)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-passwordstrength.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-passwordstrength/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 1003ms
-- **Health Status:** 99%
 
 ---
 

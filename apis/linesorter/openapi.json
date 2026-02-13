@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Line Sorter organizes text by sorting lines alphabetically in ascending or descending order with case-sensitive options.",
         "operationId": "linesorter",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

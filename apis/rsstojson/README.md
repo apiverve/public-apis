@@ -2,7 +2,7 @@
 
 > RSS to JSON is a simple tool for converting RSS feeds into JSON format. It returns the RSS feed in JSON format.
 
-<img src="https://apiverve.web.app/publicapis/logos/rsstojson.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/rsstojson.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/rsstojson.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/rsstojson)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-rsstojson.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-rsstojson/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Parsers
 - **Average Latency:** 1329ms
-- **Health Status:** 99%
 
 ---
 

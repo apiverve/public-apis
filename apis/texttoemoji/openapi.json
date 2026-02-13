@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Text to Emoji is a simple tool for converting text into emojis. It returns the emojis that represent the given text.",
         "operationId": "texttoemoji",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

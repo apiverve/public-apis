@@ -8,7 +8,7 @@
 
 ## Cities Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/citieslookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/citieslookup.svg" width="60" height="60" />
 
 Cities Lookup is a simple tool for looking up city data. It returns the city name, population, and more.
 
@@ -18,7 +18,7 @@ Cities Lookup is a simple tool for looking up city data. It returns the city nam
 
 ## Coordinates Are Sea
 
-<img src="https://apiverve.web.app/publicapis/logos/coordinatesaresea.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/coordinatesaresea.svg" width="60" height="60" />
 
 Coordinates are Sea is a simple tool for checking if coordinates are in the sea. It returns if the coordinates are in the sea or not.
 
@@ -28,7 +28,7 @@ Coordinates are Sea is a simple tool for checking if coordinates are in the sea.
 
 ## Country Borders
 
-<img src="https://apiverve.web.app/publicapis/logos/countryborders.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countryborders.svg" width="60" height="60" />
 
 Country Borders is a simple tool for getting the list of neighboring countries for a specific country. It returns the list of neighboring countries for the specified country.
 
@@ -38,7 +38,7 @@ Country Borders is a simple tool for getting the list of neighboring countries f
 
 ## Country Boundaries
 
-<img src="https://apiverve.web.app/publicapis/logos/countryboundaries.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countryboundaries.svg" width="60" height="60" />
 
 Country Boundaries is a simple tool for getting the shape of a specific country's border. It returns the shape of the specified country's border.
 
@@ -48,7 +48,7 @@ Country Boundaries is a simple tool for getting the shape of a specific country'
 
 ## Country Flags
 
-<img src="https://apiverve.web.app/publicapis/logos/countryflags.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countryflags.svg" width="60" height="60" />
 
 Country Flag is a simple tool for getting the country's national flags. It returns the country's national flags.
 
@@ -58,7 +58,7 @@ Country Flag is a simple tool for getting the country's national flags. It retur
 
 ## Country Languages
 
-<img src="https://apiverve.web.app/publicapis/logos/countrylanguages.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countrylanguages.svg" width="60" height="60" />
 
 Country Languages is a simple tool for getting the list of official and commonly spoken languages in a specific country.
 
@@ -68,7 +68,7 @@ Country Languages is a simple tool for getting the list of official and commonly
 
 ## Country Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/countrylookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countrylookup.svg" width="60" height="60" />
 
 Country Lookup is a simple tool for looking up country data. It returns the country name, capital, and more.
 
@@ -78,7 +78,7 @@ Country Lookup is a simple tool for looking up country data. It returns the coun
 
 ## County Data Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/countydata.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/countydata.svg" width="60" height="60" />
 
 County Data is a simple tool for getting data about US counties. It returns information such as average income, area, and more based on the county name provided.
 
@@ -88,7 +88,7 @@ County Data is a simple tool for getting data about US counties. It returns info
 
 ## Distance Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/distancecalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/distancecalculator.svg" width="60" height="60" />
 
 Distance Calculator is a simple tool for calculating the distance between two locations. It returns the distance in miles and kilometers.
 
@@ -98,7 +98,7 @@ Distance Calculator is a simple tool for calculating the distance between two lo
 
 ## Reverse Geocode
 
-<img src="https://apiverve.web.app/publicapis/logos/reversegeocode.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/reversegeocode.svg" width="60" height="60" />
 
 Reverse Geocode is a simple tool for getting the location of a set of coordinates. Only supports USA and Canada Coordinates. It returns the city, state, and more.
 
@@ -108,7 +108,7 @@ Reverse Geocode is a simple tool for getting the location of a set of coordinate
 
 ## State Boundaries
 
-<img src="https://apiverve.web.app/publicapis/logos/stateboundaries.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/stateboundaries.svg" width="60" height="60" />
 
 State Boundaries is a simple tool for getting the boundaries of a specific state's border. It returns the shape of the specified state's border.
 
@@ -118,7 +118,7 @@ State Boundaries is a simple tool for getting the boundaries of a specific state
 
 ## USDA Hardiness Zone
 
-<img src="https://apiverve.web.app/publicapis/logos/hardinesszone.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/hardinesszone.svg" width="60" height="60" />
 
 Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a given zip code
 
@@ -128,7 +128,7 @@ Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a 
 
 ## Zip Codes Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/zipcodes.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/zipcodes.svg" width="60" height="60" />
 
 Zip Codes Lookup is a simple tool for looking up the zip codes of a city. It returns the zip codes of the city.
 

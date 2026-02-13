@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "URL Unshortener is a simple tool for unshortening shortened URLs. It returns the original URL before it was shortened.",
         "operationId": "urlunshortener",
         "tags": [
-          10
+          null
         ],
         "parameters": [],
         "responses": {

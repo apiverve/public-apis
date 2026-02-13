@@ -2,7 +2,7 @@
 
 > Fully Qualified Domain Name is a simple tool for getting the fully qualified domain name (FQDN) of an IP. It returns the fully qualified domain name of the ip provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/fullyqualifieddomain.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/fullyqualifieddomain.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/fullyqualifieddomain.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/fullyqualifieddomain)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-fullyqualifieddomain.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-fullyqualifieddomain/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1408ms
-- **Health Status:** 99%
 
 ---
 

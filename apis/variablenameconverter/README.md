@@ -2,7 +2,7 @@
 
 > Variable Name Converter transforms variable names between different naming conventions including camelCase, snake_case, PascalCase, and kebab-case.
 
-<img src="https://apiverve.web.app/publicapis/logos/variablenameconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/variablenameconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/variablenameconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/variablenameconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-variablenameconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-variablenameconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 384ms
-- **Health Status:** 99%
 
 ---
 

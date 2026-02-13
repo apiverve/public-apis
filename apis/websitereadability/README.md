@@ -2,7 +2,7 @@
 
 > Website Readability is a simple tool for analyzing the readability of a website. It returns the readability score of the website provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/websitereadability.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/websitereadability.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/websitereadability.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/websitereadability)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-websitereadability.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-websitereadability/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 1976ms
-- **Health Status:** 99%
 
 ---
 

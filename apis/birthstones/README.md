@@ -2,7 +2,7 @@
 
 > Birthstones is a comprehensive lookup API for birthstone information. It returns detailed data about gemstones associated with each birth month, including the primary stone, alternate stones, colors, meanings, and zodiac associations.
 
-<img src="https://apiverve.web.app/publicapis/logos/birthstones.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/birthstones.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/birthstones.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/birthstones)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-birthstones.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-birthstones/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 287ms
-- **Health Status:** 99%
 
 ---
 

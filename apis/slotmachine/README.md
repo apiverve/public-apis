@@ -2,7 +2,7 @@
 
 > Slot Machine Simulator is a tool for simulating slot machine spins with realistic reel symbols and payout calculations. It supports customizable number of reels, bet amounts, and multiple spins with detailed win/loss statistics.
 
-<img src="https://apiverve.web.app/publicapis/logos/slotmachine.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/slotmachine.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/slotmachine.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/slotmachine)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-slotmachine.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-slotmachine/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 167ms
-- **Health Status:** 99%
 
 ---
 

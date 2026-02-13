@@ -2,7 +2,7 @@
 
 > Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns the Gravatar profile information of the email address provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/gravatarlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/gravatarlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/gravatarlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/gravatarlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-gravatarlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-gravatarlookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 1299ms
-- **Health Status:** 99%
 
 ---
 

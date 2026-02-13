@@ -2,7 +2,7 @@
 
 > Card Deck Shuffler is a tool for shuffling standard playing card decks. It supports multiple decks, optional jokers, and different shuffling methods to generate randomized card sequences for games and simulations.
 
-<img src="https://apiverve.web.app/publicapis/logos/carddeckshuffler.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/carddeckshuffler.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/carddeckshuffler.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/carddeckshuffler)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-carddeckshuffler.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-carddeckshuffler/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 134ms
-- **Health Status:** 99%
 
 ---
 

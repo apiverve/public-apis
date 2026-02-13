@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Link Scraper is a simple tool for scraping web page links. It returns all the links on a web page.",
         "operationId": "linkscraper",
         "tags": [
-          7
+          null
         ],
         "parameters": [],
         "responses": {

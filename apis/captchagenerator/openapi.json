@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.",
         "operationId": "captchagenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

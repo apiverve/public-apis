@@ -8,7 +8,7 @@
 
 ## Birthstones
 
-<img src="https://apiverve.web.app/publicapis/logos/birthstones.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/birthstones.svg" width="60" height="60" />
 
 Birthstones is a comprehensive lookup API for birthstone information. It returns detailed data about gemstones associated with each birth month, including the primary stone, alternate stones, colors, meanings, and zodiac associations.
 
@@ -18,7 +18,7 @@ Birthstones is a comprehensive lookup API for birthstone information. It returns
 
 ## CAA Record Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/caaparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/caaparser.svg" width="60" height="60" />
 
 CAA Record Parser analyzes DNS CAA records that specify which Certificate Authorities are authorized to issue certificates for a domain.
 
@@ -28,7 +28,7 @@ CAA Record Parser analyzes DNS CAA records that specify which Certificate Author
 
 ## Color Brightness Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/colorbrightness.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/colorbrightness.svg" width="60" height="60" />
 
 Color Brightness Calculator is a tool for calculating color brightness and luminance. It determines if a color is light or dark using WCAG 2.0 standards and provides contrast ratios for accessibility compliance.
 
@@ -38,7 +38,7 @@ Color Brightness Calculator is a tool for calculating color brightness and lumin
 
 ## Color Name Finder
 
-<img src="https://apiverve.web.app/publicapis/logos/colornamefinder.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/colornamefinder.svg" width="60" height="60" />
 
 Color Name Finder is a tool for finding the closest named color from a hex color value. It uses color distance algorithms to match hex codes to CSS/HTML named colors and provides similarity scores for accurate color identification.
 
@@ -48,7 +48,7 @@ Color Name Finder is a tool for finding the closest named color from a hex color
 
 ## HTTP Status Code Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/httpstatuslookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/httpstatuslookup.svg" width="60" height="60" />
 
 HTTP Status Code Lookup is a tool for looking up HTTP status code information. It provides descriptions, categories, and common causes for all standard HTTP status codes from 1xx to 5xx.
 
@@ -58,7 +58,7 @@ HTTP Status Code Lookup is a tool for looking up HTTP status code information. I
 
 ## Mayan Calendar
 
-<img src="https://apiverve.web.app/publicapis/logos/mayancalendar.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/mayancalendar.svg" width="60" height="60" />
 
 Mayan Calendar converts Gregorian dates to the ancient Mayan calendar system. Returns the Long Count, Tzolkin (260-day sacred calendar), and Haab (365-day civil calendar) dates.
 
@@ -68,7 +68,7 @@ Mayan Calendar converts Gregorian dates to the ancient Mayan calendar system. Re
 
 ## MIME Type Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/mimetypelookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/mimetypelookup.svg" width="60" height="60" />
 
 MIME Type Lookup is a tool for looking up MIME types by file extension or finding file extensions by MIME type. It covers all common file types including documents, images, video, audio, and archives.
 
@@ -78,7 +78,7 @@ MIME Type Lookup is a tool for looking up MIME types by file extension or findin
 
 ## Port Number Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/portnumberlookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/portnumberlookup.svg" width="60" height="60" />
 
 Port Number Lookup is a tool for looking up well-known port numbers and network services. It provides information about ports including service name, protocol, description, and category for common network services.
 
@@ -88,7 +88,7 @@ Port Number Lookup is a tool for looking up well-known port numbers and network 
 
 ## Ring Size Converter
 
-<img src="https://apiverve.web.app/publicapis/logos/ringsizeconverter.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/ringsizeconverter.svg" width="60" height="60" />
 
 Ring Size Converter is a tool for converting ring sizes between US, UK, EU, JP, CH, and AU standards. It can also convert from diameter measurements in millimeters.
 
@@ -98,7 +98,7 @@ Ring Size Converter is a tool for converting ring sizes between US, UK, EU, JP, 
 
 ## Shoe Size Converter
 
-<img src="https://apiverve.web.app/publicapis/logos/shoesizeconverter.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/shoesizeconverter.svg" width="60" height="60" />
 
 Shoe Size Converter is a tool for converting shoe sizes between US, UK, EU, CM, JP, AU, MX, and KR standards. It supports men, women, unisex, and child sizes.
 
@@ -108,7 +108,7 @@ Shoe Size Converter is a tool for converting shoe sizes between US, UK, EU, CM, 
 
 ## SRV Record Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/srvparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/srvparser.svg" width="60" height="60" />
 
 SRV Record Parser analyzes DNS SRV records and extracts service location information including priority, weight, port, and target server details.
 

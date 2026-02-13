@@ -2,7 +2,7 @@
 
 > Language Detector is a simple tool for detecting the language of a text. It returns the language code and the confidence level.
 
-<img src="https://apiverve.web.app/publicapis/logos/languagedetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/languagedetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/languagedetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/languagedetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-languagedetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-languagedetector/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** AI/Computer Vision
 - **Average Latency:** 1657ms
-- **Health Status:** 99%
 
 ---
 

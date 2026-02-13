@@ -2,7 +2,7 @@
 
 > Fibonacci Generator is a tool for generating Fibonacci sequence numbers. It can generate sequences by count or up to a maximum value, with options to start from any position in the sequence.
 
-<img src="https://apiverve.web.app/publicapis/logos/fibonaccigenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/fibonaccigenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/fibonaccigenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/fibonaccigenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-fibonaccigenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-fibonaccigenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 345ms
-- **Health Status:** 99%
 
 ---
 

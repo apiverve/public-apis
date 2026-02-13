@@ -1,6 +1,6 @@
 # 📦 Domain Data
 
-> 15 APIs in this category
+> 18 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -8,7 +8,7 @@
 
 ## BIMI Record Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/bimivalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/bimivalidator.svg" width="60" height="60" />
 
 BIMI Validator checks if a domain has a valid BIMI record published in DNS. BIMI enables domain owners to display verified logos in supported email clients.
 
@@ -18,7 +18,7 @@ BIMI Validator checks if a domain has a valid BIMI record published in DNS. BIMI
 
 ## DKIM Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/dkimvalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/dkimvalidator.svg" width="60" height="60" />
 
 DKIM Validator checks the DomainKeys Identified Mail (DKIM) DNS records for a domain to verify that they are present and correctly formatted.
 
@@ -28,7 +28,7 @@ DKIM Validator checks the DomainKeys Identified Mail (DKIM) DNS records for a do
 
 ## DMARC Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/dmarcvalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/dmarcvalidator.svg" width="60" height="60" />
 
 DMARC Validator checks the Domain-based Message Authentication, Reporting and Conformance (DMARC) record for a domain to ensure it is correctly configured.
 
@@ -38,7 +38,7 @@ DMARC Validator checks the Domain-based Message Authentication, Reporting and Co
 
 ## DNS Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/dnslookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/dnslookup.svg" width="60" height="60" />
 
 DNS Lookup is a simple tool for looking up the DNS records of a domain. It returns the A, MX, and other records of the domain.
 
@@ -46,9 +46,29 @@ DNS Lookup is a simple tool for looking up the DNS records of a domain. It retur
 
 ---
 
+## DNS Propagation Checker
+
+<img src="https://assets.apiverve.com/logos/dnspropagation.svg" width="60" height="60" />
+
+DNS Propagation Checker verifies if DNS changes have propagated across multiple global DNS servers. It queries DNS servers worldwide to show the current state of your DNS records.
+
+**[View Documentation →](https://apiverve.com/marketplace/dnspropagation)** | **[OpenAPI Spec](../apis/dnspropagation/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## DNSSEC Checker
+
+<img src="https://assets.apiverve.com/logos/dnsseccheck.svg" width="60" height="60" />
+
+DNSSEC Checker validates the DNSSEC (Domain Name System Security Extensions) configuration of a domain. It verifies that DNS responses are authenticated and haven't been tampered with.
+
+**[View Documentation →](https://apiverve.com/marketplace/dnsseccheck)** | **[OpenAPI Spec](../apis/dnsseccheck/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Domain Availability
 
-<img src="https://apiverve.web.app/publicapis/logos/domainavailability.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/domainavailability.svg" width="60" height="60" />
 
 Domain Availability Checker is a simple tool for checking the availability of a domain. It returns if the domain is available or not.
 
@@ -58,7 +78,7 @@ Domain Availability Checker is a simple tool for checking the availability of a 
 
 ## Domain Expiration
 
-<img src="https://apiverve.web.app/publicapis/logos/domainexpiration.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/domainexpiration.svg" width="60" height="60" />
 
 Domain Expiration Checker is a simple tool for checking the expiration date and age of a domain. It returns the expiration date and age of the domain provided.
 
@@ -68,7 +88,7 @@ Domain Expiration Checker is a simple tool for checking the expiration date and 
 
 ## Fully Qualified Domain
 
-<img src="https://apiverve.web.app/publicapis/logos/fullyqualifieddomain.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/fullyqualifieddomain.svg" width="60" height="60" />
 
 Fully Qualified Domain Name is a simple tool for getting the fully qualified domain name (FQDN) of an IP. It returns the fully qualified domain name of the ip provided.
 
@@ -78,7 +98,7 @@ Fully Qualified Domain Name is a simple tool for getting the fully qualified dom
 
 ## MX Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/mxlookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/mxlookup.svg" width="60" height="60" />
 
 MX Lookup is a simple tool for getting MX records for a domain. It returns the MX records for the given domain.
 
@@ -86,9 +106,19 @@ MX Lookup is a simple tool for getting MX records for a domain. It returns the M
 
 ---
 
+## Reverse DNS Lookup
+
+<img src="https://assets.apiverve.com/logos/reversednslookup.svg" width="60" height="60" />
+
+Reverse DNS Lookup is a tool for finding the hostname associated with an IP address. It returns the PTR record for the given IP.
+
+**[View Documentation →](https://apiverve.com/marketplace/reversednslookup)** | **[OpenAPI Spec](../apis/reversednslookup/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## SPF Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/spfvalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/spfvalidator.svg" width="60" height="60" />
 
 SPF Validator checks the Sender Policy Framework (SPF) DNS record for a domain to verify if it’s valid and optionally whether a given IP address is authorized to send emails for that domain.
 
@@ -98,7 +128,7 @@ SPF Validator checks the Sender Policy Framework (SPF) DNS record for a domain t
 
 ## SSL Certificate Checker
 
-<img src="https://apiverve.web.app/publicapis/logos/sslchecker.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/sslchecker.svg" width="60" height="60" />
 
 SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.
 
@@ -108,7 +138,7 @@ SSL Checker is a simple tool for checking SSL certificates. It returns the SSL c
 
 ## Subdomain Finder
 
-<img src="https://apiverve.web.app/publicapis/logos/subdomainfinder.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/subdomainfinder.svg" width="60" height="60" />
 
 Subdomain Finder is a simple tool for finding all the available subdomains for a given domain. It returns a list of all the available subdomains for the given domain.
 
@@ -118,7 +148,7 @@ Subdomain Finder is a simple tool for finding all the available subdomains for a
 
 ## URL Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/urllookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/urllookup.svg" width="60" height="60" />
 
 URL Lookup is a simple tool for looking up the location of a URL. It returns the location of the URL provided.
 
@@ -128,7 +158,7 @@ URL Lookup is a simple tool for looking up the location of a URL. It returns the
 
 ## URL Title
 
-<img src="https://apiverve.web.app/publicapis/logos/urltitle.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/urltitle.svg" width="60" height="60" />
 
 URL Title is a simple tool for getting the title of a web page. It returns the title of the web page based on the URL provided.
 
@@ -138,7 +168,7 @@ URL Title is a simple tool for getting the title of a web page. It returns the t
 
 ## URL Unshortener
 
-<img src="https://apiverve.web.app/publicapis/logos/urlunshortener.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/urlunshortener.svg" width="60" height="60" />
 
 URL Unshortener is a simple tool for unshortening shortened URLs. It returns the original URL before it was shortened.
 
@@ -148,7 +178,7 @@ URL Unshortener is a simple tool for unshortening shortened URLs. It returns the
 
 ## WHOIS Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/whoislookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/whoislookup.svg" width="60" height="60" />
 
 Whois Lookup is a simple tool for checking the registration of a domain name. It returns the name and contact information of the domain owner, the domain registrar, and more.
 

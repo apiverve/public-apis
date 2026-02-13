@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  title: Benchmark Rate
+  version: '1'
+  description: >-
+    Benchmark Rate is a tool for retrieving current risk-free reference rates
+    that replaced LIBOR. It returns rates for SOFR (US), SONIA (UK), ESTR (EU),
+    TONA (Japan), and SARON (Switzerland).
+  contact:
+    name: APIVerve
+    url: https://apiverve.com
+    email: hello@apiverve.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.apiverve.com
+    description: Production server
+security:
+  - ApiKeyAuth: []
+paths:
+  /v1/benchmarkrate:
+    get:
+      summary: Benchmark Rate
+      description: >-
+        Benchmark Rate is a tool for retrieving current risk-free reference
+        rates that replaced LIBOR. It returns rates for SOFR (US), SONIA (UK),
+        ESTR (EU), TONA (Japan), and SARON (Switzerland).
+      operationId: benchmarkrate
+      tags:
+        - null
+      parameters: []
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+                  data:
+                    type: object
+        '400':
+          description: Bad Request - Invalid parameters
+        '401':
+          description: Unauthorized - Invalid or missing API key
+        '429':
+          description: Too Many Requests - Rate limit exceeded
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: x-api-key
+  schemas: {}

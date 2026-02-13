@@ -2,7 +2,7 @@
 
 > Country Flag is a simple tool for getting the country's national flags. It returns the country's national flags.
 
-<img src="https://apiverve.web.app/publicapis/logos/countryflags.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/countryflags.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/countryflags.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/countryflags)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-countryflags.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-countryflags/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 662ms
-- **Health Status:** 99%
 
 ---
 

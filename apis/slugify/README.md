@@ -2,7 +2,7 @@
 
 > Slugify is a tool for converting text into URL-friendly slugs. It handles special characters, accents, and spaces to create clean, SEO-friendly URLs.
 
-<img src="https://apiverve.web.app/publicapis/logos/slugify.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/slugify.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/slugify.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/slugify)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-slugify.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-slugify/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 143ms
-- **Health Status:** 99%
 
 ---
 

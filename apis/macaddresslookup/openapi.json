@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "MAC Address Lookup is a simple tool for looking up MAC address data. It returns the MAC address vendor, conversions, and more.",
         "operationId": "macaddresslookup",
         "tags": [
-          17
+          null
         ],
         "parameters": [],
         "responses": {

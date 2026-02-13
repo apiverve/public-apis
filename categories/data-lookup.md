@@ -1,6 +1,6 @@
 # 🔍 Data Lookup
 
-> 15 APIs in this category
+> 17 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -8,7 +8,7 @@
 
 ## ASN Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/asnlookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/asnlookup.svg" width="60" height="60" />
 
 ASN Lookup is a simple tool for getting information on Autonomous System Numbers (ASNs). It returns information on various ASNs.
 
@@ -18,7 +18,7 @@ ASN Lookup is a simple tool for getting information on Autonomous System Numbers
 
 ## Bible
 
-<img src="https://apiverve.web.app/publicapis/logos/bible.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/bible.svg" width="60" height="60" />
 
 Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.
 
@@ -28,7 +28,7 @@ Bible is a simple tool for getting bible verses. Simply provide the book, chapte
 
 ## Country Calling Code
 
-<img src="https://apiverve.web.app/publicapis/logos/callingcode.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/callingcode.svg" width="60" height="60" />
 
 Country Calling Code is a simple tool for getting the country's international dialing codes. It returns the country's international dialing codes.
 
@@ -38,7 +38,7 @@ Country Calling Code is a simple tool for getting the country's international di
 
 ## Dictionary
 
-<img src="https://apiverve.web.app/publicapis/logos/dictionary.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/dictionary.svg" width="60" height="60" />
 
 Dictionary is a simple tool for getting word definitions. It returns the definition a word.
 
@@ -48,7 +48,7 @@ Dictionary is a simple tool for getting word definitions. It returns the definit
 
 ## Dog Breeds
 
-<img src="https://apiverve.web.app/publicapis/logos/dogbreeds.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/dogbreeds.svg" width="60" height="60" />
 
 Dog Breeds is a simple tool for getting information about dog breeds. It returns information such as breed name, temperament, lifespan, and more.
 
@@ -58,7 +58,7 @@ Dog Breeds is a simple tool for getting information about dog breeds. It returns
 
 ## Emoji Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/emoji.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/emoji.svg" width="60" height="60" />
 
 Emoji is a simple tool for getting emoji data. It returns the emoji name, category, and more.
 
@@ -68,7 +68,7 @@ Emoji is a simple tool for getting emoji data. It returns the emoji name, catego
 
 ## Gender Detector
 
-<img src="https://apiverve.web.app/publicapis/logos/genderdetector.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/genderdetector.svg" width="60" height="60" />
 
 Easily detect the gender of an individual based on their name. This API uses AI to predict the likely gender of a person by their name
 
@@ -78,7 +78,7 @@ Easily detect the gender of an individual based on their name. This API uses AI 
 
 ## Gravatar Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/gravatarlookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/gravatarlookup.svg" width="60" height="60" />
 
 Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns the Gravatar profile information of the email address provided.
 
@@ -86,11 +86,21 @@ Gravatar Lookup is a simple tool for looking up Gravatar profiles. It returns th
 
 ---
 
+## IP Demographics
+
+<img src="https://assets.apiverve.com/logos/ipdemographics.svg" width="60" height="60" />
+
+IP Demographics combines IP geolocation with Census demographic data to provide demographic information for any IP address. Get location, income, education, and housing data based on the IP's geographic location.
+
+**[View Documentation →](https://apiverve.com/marketplace/ipdemographics)** | **[OpenAPI Spec](../apis/ipdemographics/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Lottery Numbers
 
-<img src="https://apiverve.web.app/publicapis/logos/lottery.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/lottery.svg" width="60" height="60" />
 
-Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided.
+Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided. Supports Powerball, Mega Millions, EuroMillions, and Canada Lotto Max with historical data lookup.
 
 **[View Documentation →](https://apiverve.com/marketplace/lottery)** | **[OpenAPI Spec](../apis/lottery/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -98,7 +108,7 @@ Lottery Numbers is a simple tool for looking up winning lottery numbers. It retu
 
 ## Nobel Prizes
 
-<img src="https://apiverve.web.app/publicapis/logos/nobelprizes.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/nobelprizes.svg" width="60" height="60" />
 
 Nobel Prizes is a simple tool for getting information on Nobel Prizes. It returns information on various Nobel Prizes.
 
@@ -108,7 +118,7 @@ Nobel Prizes is a simple tool for getting information on Nobel Prizes. It return
 
 ## Open Source Licenses
 
-<img src="https://apiverve.web.app/publicapis/logos/openlicenses.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/openlicenses.svg" width="60" height="60" />
 
 Open Source Licenses is a simple tool for getting information on open source licenses. It returns information on various open source licenses.
 
@@ -118,7 +128,7 @@ Open Source Licenses is a simple tool for getting information on open source lic
 
 ## Thesaurus
 
-<img src="https://apiverve.web.app/publicapis/logos/thesaurus.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/thesaurus.svg" width="60" height="60" />
 
 Thesaurus is a simple tool for getting word synonyms. It returns a list of synonyms.
 
@@ -128,7 +138,7 @@ Thesaurus is a simple tool for getting word synonyms. It returns a list of synon
 
 ## Timezone Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/timezonelookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/timezonelookup.svg" width="60" height="60" />
 
 Timezone Lookup is a simple tool for looking up timezone data. It returns the timezone name, offset, and more.
 
@@ -138,7 +148,7 @@ Timezone Lookup is a simple tool for looking up timezone data. It returns the ti
 
 ## Unicode Character Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/unicodelookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/unicodelookup.svg" width="60" height="60" />
 
 Unicode Character Lookup is a tool for retrieving detailed information about Unicode characters. It provides codepoint, UTF-16 encoding, category, and emoji name information.
 
@@ -148,11 +158,21 @@ Unicode Character Lookup is a tool for retrieving detailed information about Uni
 
 ## World Time
 
-<img src="https://apiverve.web.app/publicapis/logos/worldtime.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/worldtime.svg" width="60" height="60" />
 
 World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.
 
 **[View Documentation →](https://apiverve.com/marketplace/worldtime)** | **[OpenAPI Spec](../apis/worldtime/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## ZIP Demographics
+
+<img src="https://assets.apiverve.com/logos/zipdemographics.svg" width="60" height="60" />
+
+ZIP Demographics provides detailed demographic data for any US ZIP code including population, income, education, housing, employment, and racial composition from the US Census American Community Survey.
+
+**[View Documentation →](https://apiverve.com/marketplace/zipdemographics)** | **[OpenAPI Spec](../apis/zipdemographics/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

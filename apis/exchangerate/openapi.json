@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Exchange Rate is a simple tool for getting the current exchange rate between two currencies. It returns the current exchange rate.",
         "operationId": "exchangerate",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

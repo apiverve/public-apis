@@ -2,7 +2,7 @@
 
 > URL Title is a simple tool for getting the title of a web page. It returns the title of the web page based on the URL provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/urltitle.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/urltitle.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/urltitle.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/urltitle)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-urltitle.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-urltitle/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1203ms
-- **Health Status:** 99%
 
 ---
 

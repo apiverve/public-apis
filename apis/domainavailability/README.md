@@ -2,7 +2,7 @@
 
 > Domain Availability Checker is a simple tool for checking the availability of a domain. It returns if the domain is available or not.
 
-<img src="https://apiverve.web.app/publicapis/logos/domainavailability.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/domainavailability.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/domainavailability.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/domainavailability)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-domainavailability.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-domainavailability/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1001ms
-- **Health Status:** 99%
 
 ---
 

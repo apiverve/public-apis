@@ -5,10 +5,12 @@ info:
   description: >-
     Lottery Numbers is a simple tool for looking up winning lottery numbers. It
     returns the winning lottery numbers based on the lottery name provided.
+    Supports Powerball, Mega Millions, EuroMillions, and Canada Lotto Max with
+    historical data lookup.
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -24,10 +26,11 @@ paths:
       description: >-
         Lottery Numbers is a simple tool for looking up winning lottery numbers.
         It returns the winning lottery numbers based on the lottery name
-        provided.
+        provided. Supports Powerball, Mega Millions, EuroMillions, and Canada
+        Lotto Max with historical data lookup.
       operationId: lottery
       tags:
-        - 4
+        - null
       parameters: []
       responses:
         '200':

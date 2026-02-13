@@ -2,7 +2,7 @@
 
 > Tor Detect is an API that checks whether a given IP address belongs to a known Tor exit node. Useful for security, access control, and analytics.
 
-<img src="https://apiverve.web.app/publicapis/logos/tordetect.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/tordetect.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/tordetect.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/tordetect)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-tordetect.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-tordetect/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 152ms
-- **Health Status:** 99%
 
 ---
 

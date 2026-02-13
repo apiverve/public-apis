@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.",
         "operationId": "metadataextractor",
         "tags": [
-          5
+          null
         ],
         "parameters": [],
         "responses": {

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Text Language is a simple tool for detecting the language of a text. It returns the language code.",
         "operationId": "textlanguage",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

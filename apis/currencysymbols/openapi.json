@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Currency Symbols is a simple tool for getting currency symbols. It returns the currency symbol, name, and more of a currency.",
         "operationId": "currencysymbols",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

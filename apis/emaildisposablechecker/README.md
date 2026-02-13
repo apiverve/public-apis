@@ -2,7 +2,7 @@
 
 > Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.
 
-<img src="https://apiverve.web.app/publicapis/logos/emaildisposablechecker.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/emaildisposablechecker.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/emaildisposablechecker.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/emaildisposablechecker)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-emaildisposablechecker.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-emaildisposablechecker/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 523ms
-- **Health Status:** 99%
 
 ---
 

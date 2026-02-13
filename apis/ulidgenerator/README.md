@@ -2,7 +2,7 @@
 
 > ULID Generator is a tool for generating Universally Unique Lexicographically Sortable Identifiers (ULIDs). ULIDs are 26-character strings that are sortable by time and collision-resistant.
 
-<img src="https://apiverve.web.app/publicapis/logos/ulidgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/ulidgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/ulidgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/ulidgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-ulidgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-ulidgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 178ms
-- **Health Status:** 99%
 
 ---
 

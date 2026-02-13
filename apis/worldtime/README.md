@@ -2,7 +2,7 @@
 
 > World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/worldtime.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/worldtime.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/worldtime.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/worldtime)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-worldtime.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-worldtime/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Data Lookup
-- **Average Latency:** 1250ms
-- **Health Status:** 99%
+- **Average Latency:** 1238ms
 
 ---
 

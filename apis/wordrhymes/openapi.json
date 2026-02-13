@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Word Rhymes is a simple tool for getting word rhymes. It returns a list of rhyming words.",
         "operationId": "wordrhymes",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

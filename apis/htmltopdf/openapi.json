@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "HTML to PDF is a simple tool for converting HTML to PDF. It returns the PDF file generated from the HTML.",
         "operationId": "htmltopdf",
         "tags": [
-          9
+          null
         ],
         "parameters": [],
         "responses": {

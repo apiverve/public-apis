@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Easily detect the gender of an individual based on their name. This API uses AI to predict the likely gender of a person by their name",
         "operationId": "genderdetector",
         "tags": [
-          4
+          null
         ],
         "parameters": [],
         "responses": {

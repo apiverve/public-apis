@@ -2,7 +2,7 @@
 
 > Thesaurus is a simple tool for getting word synonyms. It returns a list of synonyms.
 
-<img src="https://apiverve.web.app/publicapis/logos/thesaurus.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/thesaurus.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/thesaurus.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/thesaurus)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-thesaurus.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-thesaurus/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 1072ms
-- **Health Status:** 99%
 
 ---
 

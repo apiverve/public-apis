@@ -2,7 +2,7 @@
 
 > BIN Lookup is a simple tool for looking up BIN number information. It returns information such as the bank, card type, and more based on the BIN number provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/binlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/binlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/binlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/binlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-binlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-binlookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 1918ms
-- **Health Status:** 99%
 
 ---
 

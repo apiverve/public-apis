@@ -2,7 +2,7 @@
 
 > HMAC Generator creates Hash-based Message Authentication Codes for data integrity and authentication. Supports SHA-256, SHA-384, SHA-512, SHA-1, and MD5 algorithms.
 
-<img src="https://apiverve.web.app/publicapis/logos/hmac.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/hmac.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/hmac.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/hmac)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-hmac.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-hmac/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Security
 - **Average Latency:** 167ms
-- **Health Status:** 99%
 
 ---
 

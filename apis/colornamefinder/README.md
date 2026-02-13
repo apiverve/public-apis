@@ -2,7 +2,7 @@
 
 > Color Name Finder is a tool for finding the closest named color from a hex color value. It uses color distance algorithms to match hex codes to CSS/HTML named colors and provides similarity scores for accurate color identification.
 
-<img src="https://apiverve.web.app/publicapis/logos/colornamefinder.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/colornamefinder.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/colornamefinder.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/colornamefinder)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-colornamefinder.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-colornamefinder/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 389ms
-- **Health Status:** 99%
 
 ---
 

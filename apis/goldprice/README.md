@@ -2,7 +2,7 @@
 
 > Gold Price is a simple tool for getting the current price of gold. It returns the current price of gold in any currency and in various units.
 
-<img src="https://apiverve.web.app/publicapis/logos/goldprice.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/goldprice.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/goldprice.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/goldprice)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-goldprice.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-goldprice/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 702ms
-- **Health Status:** 99%
 
 ---
 

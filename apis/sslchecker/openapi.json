@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.",
         "operationId": "sslchecker",
         "tags": [
-          10
+          null
         ],
         "parameters": [],
         "responses": {

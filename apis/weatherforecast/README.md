@@ -2,7 +2,7 @@
 
 > Weather is a simple tool for getting the current weather. It returns the temperature, humidity, and more for a given location.
 
-<img src="https://apiverve.web.app/publicapis/logos/weatherforecast.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/weatherforecast.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/weatherforecast.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/weatherforecast)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-weatherforecast.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-weatherforecast/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 969ms
-- **Health Status:** 99%
 
 ---
 

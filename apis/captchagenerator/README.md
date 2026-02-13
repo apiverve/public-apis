@@ -2,7 +2,7 @@
 
 > Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.
 
-<img src="https://apiverve.web.app/publicapis/logos/captchagenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/captchagenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/captchagenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/captchagenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-captchagenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-captchagenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

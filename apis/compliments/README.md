@@ -2,7 +2,7 @@
 
 > Compliment Generator creates unique, heartfelt compliments using template-based generation with extensive word banks. Perfect for apps, chatbots, or spreading positivity.
 
-<img src="https://apiverve.web.app/publicapis/logos/compliments.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/compliments.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/compliments.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/compliments)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-compliments.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-compliments/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 127ms
-- **Health Status:** 99%
 
 ---
 

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Air Quality is a simple tool for getting air quality data. It returns the air quality index, o3, pm2, and more.",
         "operationId": "airquality",
         "tags": [
-          24
+          null
         ],
         "parameters": [],
         "responses": {

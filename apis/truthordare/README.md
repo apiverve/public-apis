@@ -2,7 +2,7 @@
 
 > Truth or Dare generates random truth questions and dare challenges for the classic party game. Features 400+ unique prompts with per-API-key tracking to avoid repeats.
 
-<img src="https://apiverve.web.app/publicapis/logos/truthordare.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/truthordare.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/truthordare.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/truthordare)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-truthordare.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-truthordare/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 184ms
-- **Health Status:** 99%
 
 ---
 

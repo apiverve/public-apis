@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.",
         "operationId": "barcodegenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

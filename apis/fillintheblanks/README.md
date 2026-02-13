@@ -2,7 +2,7 @@
 
 > Fill in the Blanks Generator creates completion puzzles from idioms, proverbs, quotes, science facts, and geography trivia.
 
-<img src="https://apiverve.web.app/publicapis/logos/fillintheblanks.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/fillintheblanks.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/fillintheblanks.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/fillintheblanks)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-fillintheblanks.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-fillintheblanks/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 145ms
-- **Health Status:** 99%
 
 ---
 

@@ -1,8 +1,8 @@
 # QR Code Generator
 
-> QR Code Generator is a simple tool for generating QR codes. It returns a PNG image of the QR code.
+> QR Code Generator creates customizable QR codes with support for colors, gradients, logos, and various styling options. Generate professional QR codes for marketing, packaging, and digital experiences.
 
-<img src="https://apiverve.web.app/publicapis/logos/qrcodegenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/qrcodegenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/qrcodegenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/qrcodegenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-qrcodegenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-qrcodegenerator/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/qrcodegenerator" \
 
 ## 📖 Description
 
-QR Code Generator is a simple tool for generating QR codes. It returns a PNG image of the QR code.
+QR Code Generator creates customizable QR codes with support for colors, gradients, logos, and various styling options. Generate professional QR codes for marketing, packaging, and digital experiences.
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1580ms
-- **Health Status:** 99%
 
 ---
 

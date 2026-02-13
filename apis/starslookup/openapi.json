@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Stars Lookup is a simple tool for looking up star data. It returns the star name, mass, diameter, and more.",
         "operationId": "starslookup",
         "tags": [
-          21
+          null
         ],
         "parameters": [],
         "responses": {

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Website to PDF is a simple tool for converting a website to PDF. It returns the PDF file generated from the website.",
         "operationId": "websitetopdf",
         "tags": [
-          9
+          null
         ],
         "parameters": [],
         "responses": {

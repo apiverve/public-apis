@@ -2,7 +2,7 @@
 
 > Scrabble Word Scorer is a tool for calculating Scrabble points for words. It supports multiple languages including English, French, Spanish, German, and Italian with language-specific letter values.
 
-<img src="https://apiverve.web.app/publicapis/logos/scrabblescorer.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/scrabblescorer.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/scrabblescorer.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/scrabblescorer)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-scrabblescorer.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-scrabblescorer/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 312ms
-- **Health Status:** 99%
 
 ---
 

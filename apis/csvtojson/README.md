@@ -2,7 +2,7 @@
 
 > CSV to JSON Converter is a powerful tool for converting CSV data into JSON format. It supports custom delimiters, header detection, and handles quoted fields properly.
 
-<img src="https://apiverve.web.app/publicapis/logos/csvtojson.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/csvtojson.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/csvtojson.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/csvtojson)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-csvtojson.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-csvtojson/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 158ms
-- **Health Status:** 99%
 
 ---
 

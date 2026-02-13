@@ -1,13 +1,13 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Recipes",
+    "title": "Recipe Generator",
     "version": "1",
-    "description": "Recipes is a simple tool for getting recipe information. It returns information on various recipes.",
+    "description": "Recipe Generator is an AI-powered tool for generating detailed recipes. It returns complete recipes with ingredients, instructions, prep time, cook time, and servings.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -28,11 +28,11 @@
   "paths": {
     "/v1/recipe": {
       "get": {
-        "summary": "Recipes",
-        "description": "Recipes is a simple tool for getting recipe information. It returns information on various recipes.",
+        "summary": "Recipe Generator",
+        "description": "Recipe Generator is an AI-powered tool for generating detailed recipes. It returns complete recipes with ingredients, instructions, prep time, cook time, and servings.",
         "operationId": "recipe",
         "tags": [
-          13
+          null
         ],
         "parameters": [],
         "responses": {

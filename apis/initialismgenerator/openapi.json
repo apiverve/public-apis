@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Initialism Generator creates initialisms from phrases by extracting first letters of significant words, with options for filtering and formatting.",
         "operationId": "initialismgenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

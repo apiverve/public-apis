@@ -2,7 +2,7 @@
 
 > Acrostic Puzzle Generator creates puzzles where the first letters of answer words spell out a hidden keyword.
 
-<img src="https://apiverve.web.app/publicapis/logos/acrostic.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/acrostic.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/acrostic.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/acrostic)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-acrostic.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-acrostic/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 267ms
-- **Health Status:** 99%
 
 ---
 

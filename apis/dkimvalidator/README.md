@@ -2,7 +2,7 @@
 
 > DKIM Validator checks the DomainKeys Identified Mail (DKIM) DNS records for a domain to verify that they are present and correctly formatted.
 
-<img src="https://apiverve.web.app/publicapis/logos/dkimvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dkimvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dkimvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dkimvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dkimvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dkimvalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 405ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Distance Calculator is a simple tool for calculating the distance between two locations. It returns the distance in miles and kilometers.
 
-<img src="https://apiverve.web.app/publicapis/logos/distancecalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/distancecalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/distancecalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/distancecalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-distancecalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-distancecalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 1023ms
-- **Health Status:** 99%
 
 ---
 

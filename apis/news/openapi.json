@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "News API is a simple tool for scraping news data. It returns the news title, description, and more.",
         "operationId": "news",
         "tags": [
-          18
+          null
         ],
         "parameters": [],
         "responses": {

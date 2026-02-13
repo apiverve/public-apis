@@ -2,7 +2,7 @@
 
 > Exercises is a simple tool for getting exercise information. It returns information on various exercises.
 
-<img src="https://apiverve.web.app/publicapis/logos/exercises.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/exercises.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/exercises.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/exercises)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-exercises.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-exercises/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Health/Wellness
 - **Average Latency:** 601ms
-- **Health Status:** 99%
 
 ---
 

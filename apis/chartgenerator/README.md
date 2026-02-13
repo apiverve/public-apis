@@ -1,8 +1,8 @@
 # Chart Generator
 
-> Chart Generator is a simple tool for generating charts from data. It returns a URL to the generated image of the chart.
+> Chart Generator creates beautiful chart images from your data. Supports bar, line, pie, doughnut, radar, and polar area charts with customizable styling.
 
-<img src="https://apiverve.web.app/publicapis/logos/chartgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/chartgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/chartgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/chartgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-chartgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-chartgenerator/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/chartgenerator" \
 
 ## 📖 Description
 
-Chart Generator is a simple tool for generating charts from data. It returns a URL to the generated image of the chart.
+Chart Generator creates beautiful chart images from your data. Supports bar, line, pie, doughnut, radar, and polar area charts with customizable styling.
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1946ms
-- **Health Status:** 99%
 
 ---
 

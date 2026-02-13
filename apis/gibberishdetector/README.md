@@ -2,7 +2,7 @@
 
 > Gibberish Detector analyzes text using bigram frequency and vowel ratios to identify nonsensical or randomly generated content.
 
-<img src="https://apiverve.web.app/publicapis/logos/gibberishdetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/gibberishdetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/gibberishdetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/gibberishdetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-gibberishdetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-gibberishdetector/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 463ms
-- **Health Status:** 99%
 
 ---
 

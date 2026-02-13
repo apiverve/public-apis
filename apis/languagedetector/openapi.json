@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Language Detector is a simple tool for detecting the language of a text. It returns the language code and the confidence level.",
         "operationId": "languagedetector",
         "tags": [
-          1
+          null
         ],
         "parameters": [],
         "responses": {

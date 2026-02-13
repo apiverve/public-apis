@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item",
         "operationId": "bucketlist",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

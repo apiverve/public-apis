@@ -2,7 +2,7 @@
 
 > UUID Generator is a tool for generating Universally Unique Identifiers (UUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options for different platform requirements.
 
-<img src="https://apiverve.web.app/publicapis/logos/uuidgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/uuidgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/uuidgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/uuidgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-uuidgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-uuidgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 152ms
-- **Health Status:** 99%
 
 ---
 

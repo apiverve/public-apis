@@ -2,7 +2,7 @@
 
 > Weather Seasons is a simple tool for getting the dates of the solstice and equinox. It returns the dates of the solstice and equinox for a given year.
 
-<img src="https://apiverve.web.app/publicapis/logos/weatherseasons.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/weatherseasons.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/weatherseasons.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/weatherseasons)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-weatherseasons.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-weatherseasons/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 1203ms
-- **Health Status:** 99%
 
 ---
 

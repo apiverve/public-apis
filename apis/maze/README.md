@@ -2,7 +2,7 @@
 
 > Maze Generator creates random mazes using recursive backtracking algorithm with customizable size and difficulty.
 
-<img src="https://apiverve.web.app/publicapis/logos/maze.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/maze.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/maze.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/maze)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-maze.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-maze/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 289ms
-- **Health Status:** 99%
 
 ---
 

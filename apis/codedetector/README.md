@@ -2,7 +2,7 @@
 
 > Code Detector is a simple tool for detecting the language of code in text. It returns details such as extension, language, family, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/codedetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/codedetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/codedetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/codedetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-codedetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-codedetector/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** AI/Computer Vision
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

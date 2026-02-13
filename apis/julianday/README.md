@@ -2,7 +2,7 @@
 
 > Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research.
 
-<img src="https://apiverve.web.app/publicapis/logos/julianday.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/julianday.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/julianday.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/julianday)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-julianday.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-julianday/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Science
 - **Average Latency:** 193ms
-- **Health Status:** 99%
 
 ---
 

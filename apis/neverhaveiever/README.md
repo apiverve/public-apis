@@ -2,7 +2,7 @@
 
 > Never Have I Ever generates random statements for the popular party game. Features 330+ unique prompts with per-API-key tracking to avoid repeats.
 
-<img src="https://apiverve.web.app/publicapis/logos/neverhaveiever.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/neverhaveiever.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/neverhaveiever.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/neverhaveiever)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-neverhaveiever.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-neverhaveiever/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 168ms
-- **Health Status:** 99%
 
 ---
 

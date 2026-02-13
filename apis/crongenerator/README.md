@@ -2,7 +2,7 @@
 
 > Cron Expression Generator is an AI-powered tool for converting natural language schedule descriptions into cron expressions. It returns valid cron syntax along with human-readable descriptions.
 
-<img src="https://apiverve.web.app/publicapis/logos/crongenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/crongenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/crongenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/crongenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-crongenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-crongenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1852ms
-- **Health Status:** 99%
 
 ---
 

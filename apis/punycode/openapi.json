@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Convert between Unicode and Punycode for internationalized domain names (IDN).",
         "operationId": "punycode",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

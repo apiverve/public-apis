@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Currency Converter is a simple tool for converting currency rates. It returns the converted currency rate based on the amount and currency provided.",
         "operationId": "currencyconverter",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

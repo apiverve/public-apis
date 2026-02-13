@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Random Word is a simple tool for getting random words. It returns a random word.",
         "operationId": "randomwords",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

@@ -3,11 +3,11 @@
   "info": {
     "title": "Color Palette Generator",
     "version": "1",
-    "description": "Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.",
+    "description": "Color Palette is a powerful tool for generating harmonious color palettes. Generate color schemes (mono, contrast, triade, tetrade, analogic) with accessibility data, CSS exports, and palette images.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -29,10 +29,10 @@
     "/v1/colorpalette": {
       "get": {
         "summary": "Color Palette Generator",
-        "description": "Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.",
+        "description": "Color Palette is a powerful tool for generating harmonious color palettes. Generate color schemes (mono, contrast, triade, tetrade, analogic) with accessibility data, CSS exports, and palette images.",
         "operationId": "colorpalette",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

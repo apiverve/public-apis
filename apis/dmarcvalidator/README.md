@@ -2,7 +2,7 @@
 
 > DMARC Validator checks the Domain-based Message Authentication, Reporting and Conformance (DMARC) record for a domain to ensure it is correctly configured.
 
-<img src="https://apiverve.web.app/publicapis/logos/dmarcvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dmarcvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dmarcvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dmarcvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dmarcvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dmarcvalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 580ms
-- **Health Status:** 99%
 
 ---
 

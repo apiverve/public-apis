@@ -2,7 +2,7 @@
 
 > Marine Weather is a simple tool for getting marine weather data. It returns the current weather conditions in coordinates within the ocean and sea.
 
-<img src="https://apiverve.web.app/publicapis/logos/marineweather.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/marineweather.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/marineweather.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/marineweather)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-marineweather.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-marineweather/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 988ms
-- **Health Status:** 99%
 
 ---
 

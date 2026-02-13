@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.",
         "operationId": "companynamegenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

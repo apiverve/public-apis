@@ -2,7 +2,7 @@
 
 > Roman Numeral Converter is a bidirectional tool for converting between Arabic numbers (1-3999) and Roman numerals. It provides detailed breakdowns of the conversion process.
 
-<img src="https://apiverve.web.app/publicapis/logos/romanconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/romanconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/romanconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/romanconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-romanconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-romanconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 201ms
-- **Health Status:** 99%
 
 ---
 

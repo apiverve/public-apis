@@ -8,7 +8,7 @@
 
 ## CSR Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/csrparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/csrparser.svg" width="60" height="60" />
 
 CSR Parser extracts and analyzes information from Certificate Signing Requests (CSRs), providing detailed subject information, public key details, and fingerprints.
 
@@ -18,7 +18,7 @@ CSR Parser extracts and analyzes information from Certificate Signing Requests (
 
 ## DANE Record Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/danevalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/danevalidator.svg" width="60" height="60" />
 
 DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations.
 
@@ -28,7 +28,7 @@ DANE Record Validator validates DANE/TLSA DNS records used for certificate authe
 
 ## Hash Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/hashgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/hashgenerator.svg" width="60" height="60" />
 
 Hash Generator is a tool for generating cryptographic hashes from text. It supports multiple algorithms including MD5, SHA-1, SHA-256, SHA-384, SHA-512, and BLAKE2 variants for data integrity and security applications.
 
@@ -38,7 +38,7 @@ Hash Generator is a tool for generating cryptographic hashes from text. It suppo
 
 ## HMAC Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/hmac.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/hmac.svg" width="60" height="60" />
 
 HMAC Generator creates Hash-based Message Authentication Codes for data integrity and authentication. Supports SHA-256, SHA-384, SHA-512, SHA-1, and MD5 algorithms.
 

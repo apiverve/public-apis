@@ -8,7 +8,7 @@
 
 ## Due Date Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/duedatecalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/duedatecalculator.svg" width="60" height="60" />
 
 Due Date Calculator estimates pregnancy due dates using either last menstrual period or conception date, providing comprehensive pregnancy timeline information.
 
@@ -18,7 +18,7 @@ Due Date Calculator estimates pregnancy due dates using either last menstrual pe
 
 ## Menstrual Cycle Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/menstrualcycle.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/menstrualcycle.svg" width="60" height="60" />
 
 Menstrual Cycle Calculator predicts future menstrual cycles, fertile windows, and ovulation dates based on cycle history and patterns.
 
@@ -28,7 +28,7 @@ Menstrual Cycle Calculator predicts future menstrual cycles, fertile windows, an
 
 ## Ovulation Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/ovulationcalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/ovulationcalculator.svg" width="60" height="60" />
 
 Ovulation Calculator estimates ovulation dates, fertile windows, and provides detailed cycle phase information based on menstrual cycle data.
 

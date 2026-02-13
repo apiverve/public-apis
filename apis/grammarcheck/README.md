@@ -2,7 +2,7 @@
 
 > Grammar Check is a simple tool for checking the grammar and spelling of a text. It returns the corrected text.
 
-<img src="https://apiverve.web.app/publicapis/logos/grammarcheck.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/grammarcheck.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/grammarcheck.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/grammarcheck)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-grammarcheck.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-grammarcheck/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 476ms
-- **Health Status:** 99%
 
 ---
 

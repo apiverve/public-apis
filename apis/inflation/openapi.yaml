@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  title: Inflation Rate
+  version: '1'
+  description: >-
+    Inflation Rate is a tool for retrieving annual inflation rate and CPI data
+    for countries worldwide. It returns the inflation rate, CPI index value, and
+    country details for any year going back to 1960.
+  contact:
+    name: APIVerve
+    url: https://apiverve.com
+    email: hello@apiverve.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.apiverve.com
+    description: Production server
+security:
+  - ApiKeyAuth: []
+paths:
+  /v1/inflation:
+    get:
+      summary: Inflation Rate
+      description: >-
+        Inflation Rate is a tool for retrieving annual inflation rate and CPI
+        data for countries worldwide. It returns the inflation rate, CPI index
+        value, and country details for any year going back to 1960.
+      operationId: inflation
+      tags:
+        - null
+      parameters: []
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+                  data:
+                    type: object
+        '400':
+          description: Bad Request - Invalid parameters
+        '401':
+          description: Unauthorized - Invalid or missing API key
+        '429':
+          description: Too Many Requests - Rate limit exceeded
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: x-api-key
+  schemas: {}

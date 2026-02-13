@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Dictionary is a simple tool for getting word definitions. It returns the definition a word.",
         "operationId": "dictionary",
         "tags": [
-          4
+          null
         ],
         "parameters": [],
         "responses": {

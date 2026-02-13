@@ -2,7 +2,7 @@
 
 > Fortune Cookie Generator creates authentic fortune cookie messages including wisdom, predictions, advice, humor, and motivational quotes.
 
-<img src="https://apiverve.web.app/publicapis/logos/fortunecookie.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/fortunecookie.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/fortunecookie.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/fortunecookie)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-fortunecookie.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-fortunecookie/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 127ms
-- **Health Status:** 99%
 
 ---
 

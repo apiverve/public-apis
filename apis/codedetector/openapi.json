@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Code Detector is a simple tool for detecting the language of code in text. It returns details such as extension, language, family, and more.",
         "operationId": "codedetector",
         "tags": [
-          1
+          null
         ],
         "parameters": [],
         "responses": {

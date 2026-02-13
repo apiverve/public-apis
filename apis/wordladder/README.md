@@ -2,7 +2,7 @@
 
 > Word Ladder Generator creates puzzles where players transform one word into another by changing one letter at a time, with each step forming a valid word.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordladder.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordladder.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordladder.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordladder)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordladder.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordladder/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 398ms
-- **Health Status:** 99%
 
 ---
 

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Silver Price is a simple tool for getting the current price of silver. It returns the current price of silver in any currency and in various units.",
         "operationId": "silverprice",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Remove Punctuation is a simple tool for removing punctuation marks from text. It strips all common punctuation characters and provides statistics about what was removed.
 
-<img src="https://apiverve.web.app/publicapis/logos/removepunctuation.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/removepunctuation.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/removepunctuation.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/removepunctuation)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-removepunctuation.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-removepunctuation/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 402ms
-- **Health Status:** 99%
 
 ---
 

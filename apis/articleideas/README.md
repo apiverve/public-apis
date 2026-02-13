@@ -2,7 +2,7 @@
 
 > Article Ideas is a simple tool for generating article ideas. It returns a list of article ideas.
 
-<img src="https://apiverve.web.app/publicapis/logos/articleideas.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/articleideas.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/articleideas.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/articleideas)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-articleideas.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-articleideas/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** AI/Computer Vision
 - **Average Latency:** 819ms
-- **Health Status:** 99%
 
 ---
 

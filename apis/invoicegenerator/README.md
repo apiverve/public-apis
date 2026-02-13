@@ -2,7 +2,7 @@
 
 > Invoice Generator is a simple tool for generating invoices. It returns a PDF of the generated invoice.
 
-<img src="https://apiverve.web.app/publicapis/logos/invoicegenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/invoicegenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/invoicegenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/invoicegenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-invoicegenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-invoicegenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Documents
 - **Average Latency:** 1302ms
-- **Health Status:** 99%
 
 ---
 

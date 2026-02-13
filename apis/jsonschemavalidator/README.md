@@ -2,7 +2,7 @@
 
 > JSON Schema Validator is a comprehensive tool for validating JSON data against JSON Schema definitions. It provides detailed error reporting with field-level validation results.
 
-<img src="https://apiverve.web.app/publicapis/logos/jsonschemavalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/jsonschemavalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/jsonschemavalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/jsonschemavalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-jsonschemavalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-jsonschemavalidator/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 198ms
-- **Health Status:** 99%
 
 ---
 

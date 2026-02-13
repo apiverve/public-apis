@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.",
         "operationId": "trivia",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

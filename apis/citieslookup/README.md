@@ -2,7 +2,7 @@
 
 > Cities Lookup is a simple tool for looking up city data. It returns the city name, population, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/citieslookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/citieslookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/citieslookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/citieslookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-citieslookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-citieslookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 1552ms
-- **Health Status:** 99%
 
 ---
 

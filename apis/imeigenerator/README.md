@@ -2,7 +2,7 @@
 
 > IMEI Generator creates valid International Mobile Equipment Identity (IMEI) numbers with proper Luhn checksum validation for mobile devices.
 
-<img src="https://apiverve.web.app/publicapis/logos/imeigenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/imeigenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/imeigenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/imeigenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-imeigenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-imeigenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 186ms
-- **Health Status:** 99%
 
 ---
 

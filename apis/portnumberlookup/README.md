@@ -2,7 +2,7 @@
 
 > Port Number Lookup is a tool for looking up well-known port numbers and network services. It provides information about ports including service name, protocol, description, and category for common network services.
 
-<img src="https://apiverve.web.app/publicapis/logos/portnumberlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/portnumberlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/portnumberlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/portnumberlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-portnumberlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-portnumberlookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 231ms
-- **Health Status:** 99%
 
 ---
 

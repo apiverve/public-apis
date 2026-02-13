@@ -2,7 +2,7 @@
 
 > Ovulation Calculator estimates ovulation dates, fertile windows, and provides detailed cycle phase information based on menstrual cycle data.
 
-<img src="https://apiverve.web.app/publicapis/logos/ovulationcalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/ovulationcalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/ovulationcalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/ovulationcalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-ovulationcalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-ovulationcalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Lifestyle
 - **Average Latency:** 198ms
-- **Health Status:** 99%
 
 ---
 

@@ -10,7 +10,7 @@ info:
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -30,7 +30,7 @@ paths:
         zodiac associations.
       operationId: birthstones
       tags:
-        - 26
+        - null
       parameters: []
       responses:
         '200':

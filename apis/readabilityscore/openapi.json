@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Readability Score is a simple tool for calculating the readability score of text. It returns the readability score based on various readability formulas.",
         "operationId": "readabilityscore",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Levenshtein Distance calculates the minimum number of single-character edits needed to transform one string into another.
 
-<img src="https://apiverve.web.app/publicapis/logos/levenshteindistance.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/levenshteindistance.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/levenshteindistance.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/levenshteindistance)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-levenshteindistance.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-levenshteindistance/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 419ms
-- **Health Status:** 99%
 
 ---
 

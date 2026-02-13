@@ -8,7 +8,7 @@
 
 ## Cloud Counter
 
-<img src="https://apiverve.web.app/publicapis/logos/counter.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/counter.svg" width="60" height="60" />
 
 Counter is a simple tool for incrementing, decrementing, and resetting a cloud counter. It returns the current value of the counter.
 
@@ -18,7 +18,7 @@ Counter is a simple tool for incrementing, decrementing, and resetting a cloud c
 
 ## HTML to Text
 
-<img src="https://apiverve.web.app/publicapis/logos/htmltotext.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/htmltotext.svg" width="60" height="60" />
 
 HTML to Text is a simple tool for converting HTML to text. It returns the text extracted from the HTML.
 
@@ -28,7 +28,7 @@ HTML to Text is a simple tool for converting HTML to text. It returns the text e
 
 ## Metadata Extractor
 
-<img src="https://apiverve.web.app/publicapis/logos/metadataextractor.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/metadataextractor.svg" width="60" height="60" />
 
 Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.
 
@@ -38,7 +38,7 @@ Metadata Extractor is a simple tool for extracting metadata from web pages. It r
 
 ## Morse Code
 
-<img src="https://apiverve.web.app/publicapis/logos/morsecode.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/morsecode.svg" width="60" height="60" />
 
 Morse Code is a simple tool for encoding and decoding Morse code. It returns the encoded or decoded Morse code.
 
@@ -48,7 +48,7 @@ Morse Code is a simple tool for encoding and decoding Morse code. It returns the
 
 ## MurmurHash
 
-<img src="https://apiverve.web.app/publicapis/logos/murmurhash.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/murmurhash.svg" width="60" height="60" />
 
 MurmurHash generates fast, non-cryptographic hashes using the MurmurHash3 algorithm. Ideal for hash tables, data partitioning, bloom filters, and checksums where cryptographic security isn't needed.
 
@@ -58,7 +58,7 @@ MurmurHash generates fast, non-cryptographic hashes using the MurmurHash3 algori
 
 ## SQL Explainer
 
-<img src="https://apiverve.web.app/publicapis/logos/sqlexplainer.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/sqlexplainer.svg" width="60" height="60" />
 
 SQL Explainer analyzes SQL queries and provides clear, plain English explanations of what they do. Perfect for learning SQL, code reviews, or documentation.
 

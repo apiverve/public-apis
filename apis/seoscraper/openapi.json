@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.",
         "operationId": "seoscraper",
         "tags": [
-          7
+          null
         ],
         "parameters": [],
         "responses": {

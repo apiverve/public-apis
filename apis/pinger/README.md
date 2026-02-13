@@ -2,7 +2,7 @@
 
 > Pinger is a simple tool for checking if a URL is up. It returns a boolean value indicating whether the URL is up or not.
 
-<img src="https://apiverve.web.app/publicapis/logos/pinger.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/pinger.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/pinger.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/pinger)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-pinger.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-pinger/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

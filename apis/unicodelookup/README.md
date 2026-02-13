@@ -2,7 +2,7 @@
 
 > Unicode Character Lookup is a tool for retrieving detailed information about Unicode characters. It provides codepoint, UTF-16 encoding, category, and emoji name information.
 
-<img src="https://apiverve.web.app/publicapis/logos/unicodelookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/unicodelookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/unicodelookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/unicodelookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-unicodelookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-unicodelookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 177ms
-- **Health Status:** 99%
 
 ---
 

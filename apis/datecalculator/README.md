@@ -2,7 +2,7 @@
 
 > Date Calculator is a simple tool for calculating date differences. It returns the calculated date difference based on the dates provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/datecalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/datecalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/datecalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/datecalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-datecalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-datecalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Calendar
 - **Average Latency:** 281ms
-- **Health Status:** 99%
 
 ---
 

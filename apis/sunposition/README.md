@@ -2,7 +2,7 @@
 
 > Sun Position is a simple tool for getting sun position data. It returns data such as altitude, azimuth, and distance of the sun from the location provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/sunposition.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sunposition.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sunposition.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sunposition)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sunposition.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sunposition/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Astrology
 - **Average Latency:** 369ms
-- **Health Status:** 99%
 
 ---
 

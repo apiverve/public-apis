@@ -2,7 +2,7 @@
 
 > Routing Number Lookup is a simple tool for looking up routing number information for USA Banks. It returns information such as the bank, location, and more based on the routing number provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/routinglookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/routinglookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/routinglookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/routinglookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-routinglookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-routinglookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 1821ms
-- **Health Status:** 99%
 
 ---
 

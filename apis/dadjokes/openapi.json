@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Dad Jokes is a simple tool for getting dad jokes. It returns a random dad joke.",
         "operationId": "dadjokes",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

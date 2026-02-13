@@ -2,7 +2,7 @@
 
 > CSR Parser extracts and analyzes information from Certificate Signing Requests (CSRs), providing detailed subject information, public key details, and fingerprints.
 
-<img src="https://apiverve.web.app/publicapis/logos/csrparser.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/csrparser.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/csrparser.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/csrparser)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-csrparser.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-csrparser/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Security
 - **Average Latency:** 289ms
-- **Health Status:** 99%
 
 ---
 

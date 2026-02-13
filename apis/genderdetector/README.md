@@ -2,7 +2,7 @@
 
 > Easily detect the gender of an individual based on their name. This API uses AI to predict the likely gender of a person by their name
 
-<img src="https://apiverve.web.app/publicapis/logos/genderdetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/genderdetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/genderdetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/genderdetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-genderdetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-genderdetector/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 529ms
-- **Health Status:** 99%
 
 ---
 

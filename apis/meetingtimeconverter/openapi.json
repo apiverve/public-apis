@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Meeting Time Converter transforms meeting times between any two timezones, calculating time differences and UTC offsets for global coordination.",
         "operationId": "meetingtimeconverter",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

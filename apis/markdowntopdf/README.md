@@ -2,7 +2,7 @@
 
 > Markdown to PDF converts markdown text into professionally formatted PDF documents with Base64-encoded output for easy downloading.
 
-<img src="https://apiverve.web.app/publicapis/logos/markdowntopdf.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/markdowntopdf.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/markdowntopdf.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/markdowntopdf)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-markdowntopdf.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-markdowntopdf/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 2147ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Meteorites is a simple tool for getting meteorite data. It returns a list of meteorites that have fallen to Earth.
 
-<img src="https://apiverve.web.app/publicapis/logos/meteorites.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/meteorites.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/meteorites.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/meteorites)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-meteorites.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-meteorites/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Science
 - **Average Latency:** 1401ms
-- **Health Status:** 99%
 
 ---
 

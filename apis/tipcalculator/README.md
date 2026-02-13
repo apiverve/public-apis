@@ -2,7 +2,7 @@
 
 > Tip Calculator is a tool for calculating tips and splitting bills among multiple people. It provides common tip percentage comparisons and per-person breakdowns.
 
-<img src="https://apiverve.web.app/publicapis/logos/tipcalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/tipcalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/tipcalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/tipcalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-tipcalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-tipcalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 189ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Word Scramble Generator creates puzzles where players unscramble letters to form words, with optional hints from dictionary definitions.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordscramble.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordscramble.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordscramble.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordscramble)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordscramble.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordscramble/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 287ms
-- **Health Status:** 99%
 
 ---
 

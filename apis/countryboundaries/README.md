@@ -2,7 +2,7 @@
 
 > Country Boundaries is a simple tool for getting the shape of a specific country's border. It returns the shape of the specified country's border.
 
-<img src="https://apiverve.web.app/publicapis/logos/countryboundaries.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/countryboundaries.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/countryboundaries.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/countryboundaries)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-countryboundaries.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-countryboundaries/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 767ms
-- **Health Status:** 99%
 
 ---
 

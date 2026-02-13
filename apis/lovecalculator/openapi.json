@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Love Calculator is a simple tool for calculating love compatibility. It returns the love compatibility percentage between two names.",
         "operationId": "lovecalculator",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Crossword Generator creates crossword puzzles with intersecting words, numbered clues, and themed word selection.
 
-<img src="https://apiverve.web.app/publicapis/logos/crossword.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/crossword.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/crossword.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/crossword)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-crossword.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-crossword/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 534ms
-- **Health Status:** 99%
 
 ---
 

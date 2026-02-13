@@ -2,7 +2,7 @@
 
 > JSON Schema Generator is a tool for automatically generating JSON schemas from sample JSON data. It creates Draft-07 compatible schemas with type inference and format detection.
 
-<img src="https://apiverve.web.app/publicapis/logos/jsonschemagenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/jsonschemagenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/jsonschemagenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/jsonschemagenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-jsonschemagenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-jsonschemagenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 253ms
-- **Health Status:** 99%
 
 ---
 

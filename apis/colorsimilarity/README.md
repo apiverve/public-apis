@@ -2,7 +2,7 @@
 
 > Color Similarity Calculator is a tool for calculating similarity between two colors. It uses multiple algorithms including RGB distance, HSL comparison, and Delta E to provide comprehensive color similarity analysis.
 
-<img src="https://apiverve.web.app/publicapis/logos/colorsimilarity.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/colorsimilarity.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/colorsimilarity.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/colorsimilarity)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-colorsimilarity.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-colorsimilarity/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 258ms
-- **Health Status:** 99%
 
 ---
 

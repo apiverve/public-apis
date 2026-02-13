@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Meteorites is a simple tool for getting meteorite data. It returns a list of meteorites that have fallen to Earth.",
         "operationId": "meteorites",
         "tags": [
-          21
+          null
         ],
         "parameters": [],
         "responses": {

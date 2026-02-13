@@ -1,8 +1,8 @@
 # IP Blacklist Lookup
 
-> IP Blacklist Lookup is a simple tool for looking up if an IP address is in a blacklist. It returns if the IP is found in a blacklist.
+> IP Blacklist Lookup checks whether a given IP address appears on known malicious IP blocklists. Identifies both inbound threats (attackers, spammers) and outbound threats (C2 servers, malware hosts).
 
-<img src="https://apiverve.web.app/publicapis/logos/ipblacklistlookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/ipblacklistlookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/ipblacklistlookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/ipblacklistlookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-ipblacklistlookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-ipblacklistlookup/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/ipblacklistlookup" \
 
 ## 📖 Description
 
-IP Blacklist Lookup is a simple tool for looking up if an IP address is in a blacklist. It returns if the IP is found in a blacklist.
+IP Blacklist Lookup checks whether a given IP address appears on known malicious IP blocklists. Identifies both inbound threats (attackers, spammers) and outbound threats (C2 servers, malware hosts).
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 636ms
-- **Health Status:** 99%
 
 ---
 

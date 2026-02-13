@@ -2,7 +2,7 @@
 
 > Number to Words is a simple tool for converting numbers to words. It returns the number in words.
 
-<img src="https://apiverve.web.app/publicapis/logos/numbertowords.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/numbertowords.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/numbertowords.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/numbertowords)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-numbertowords.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-numbertowords/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 810ms
-- **Health Status:** 99%
 
 ---
 

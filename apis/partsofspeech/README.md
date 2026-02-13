@@ -2,7 +2,7 @@
 
 > Parts Of Speech is a simple tool for extracting nouns, verbs, adjectives, adverbs, etc. from text. It returns the extracted words based on the part of speech specified.
 
-<img src="https://apiverve.web.app/publicapis/logos/partsofspeech.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/partsofspeech.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/partsofspeech.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/partsofspeech)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-partsofspeech.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-partsofspeech/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 964ms
-- **Health Status:** 99%
 
 ---
 

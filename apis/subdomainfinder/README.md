@@ -2,7 +2,7 @@
 
 > Subdomain Finder is a simple tool for finding all the available subdomains for a given domain. It returns a list of all the available subdomains for the given domain.
 
-<img src="https://apiverve.web.app/publicapis/logos/subdomainfinder.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/subdomainfinder.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/subdomainfinder.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/subdomainfinder)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-subdomainfinder.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-subdomainfinder/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 4246ms
-- **Health Status:** 99%
 
 ---
 

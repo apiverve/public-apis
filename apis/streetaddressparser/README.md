@@ -2,7 +2,7 @@
 
 > Street Address Parser is a simple tool for parsing a US street addresses. It returns the parsed components of the street address provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/streetaddressparser.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/streetaddressparser.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/streetaddressparser.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/streetaddressparser)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-streetaddressparser.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-streetaddressparser/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Parsers
 - **Average Latency:** 504ms
-- **Health Status:** 99%
 
 ---
 

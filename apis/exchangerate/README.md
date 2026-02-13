@@ -2,7 +2,7 @@
 
 > Exchange Rate is a simple tool for getting the current exchange rate between two currencies. It returns the current exchange rate.
 
-<img src="https://apiverve.web.app/publicapis/logos/exchangerate.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/exchangerate.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/exchangerate.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/exchangerate)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-exchangerate.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-exchangerate/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

@@ -1,6 +1,6 @@
 # 📦 AI/Computer Vision
 
-> 5 APIs in this category
+> 6 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -8,7 +8,7 @@
 
 ## Article Ideas Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/articleideas.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/articleideas.svg" width="60" height="60" />
 
 Article Ideas is a simple tool for generating article ideas. It returns a list of article ideas.
 
@@ -18,7 +18,7 @@ Article Ideas is a simple tool for generating article ideas. It returns a list o
 
 ## Code Detector
 
-<img src="https://apiverve.web.app/publicapis/logos/codedetector.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/codedetector.svg" width="60" height="60" />
 
 Code Detector is a simple tool for detecting the language of code in text. It returns details such as extension, language, family, and more.
 
@@ -26,9 +26,19 @@ Code Detector is a simple tool for detecting the language of code in text. It re
 
 ---
 
+## Image Caption
+
+<img src="https://assets.apiverve.com/logos/imagecaption.svg" width="60" height="60" />
+
+Image Caption is an AI-powered tool that generates descriptive captions for images. Simply upload an image and receive a natural language description of its contents.
+
+**[View Documentation →](https://apiverve.com/marketplace/imagecaption)** | **[OpenAPI Spec](../apis/imagecaption/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Image to Text
 
-<img src="https://apiverve.web.app/publicapis/logos/imagetotext.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/imagetotext.svg" width="60" height="60" />
 
 Image to Text is a simple tool for extracting text from images. It returns the extracted text.
 
@@ -38,7 +48,7 @@ Image to Text is a simple tool for extracting text from images. It returns the e
 
 ## Language Detector
 
-<img src="https://apiverve.web.app/publicapis/logos/languagedetector.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/languagedetector.svg" width="60" height="60" />
 
 Language Detector is a simple tool for detecting the language of a text. It returns the language code and the confidence level.
 
@@ -48,7 +58,7 @@ Language Detector is a simple tool for detecting the language of a text. It retu
 
 ## Sentiment Analysis
 
-<img src="https://apiverve.web.app/publicapis/logos/sentimentanalysis.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/sentimentanalysis.svg" width="60" height="60" />
 
 Sentiment Analysis is a simple tool for analyzing the sentiment of a text. It returns the sentiment score and the sentiment label.
 

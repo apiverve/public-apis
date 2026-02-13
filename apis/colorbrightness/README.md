@@ -2,7 +2,7 @@
 
 > Color Brightness Calculator is a tool for calculating color brightness and luminance. It determines if a color is light or dark using WCAG 2.0 standards and provides contrast ratios for accessibility compliance.
 
-<img src="https://apiverve.web.app/publicapis/logos/colorbrightness.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/colorbrightness.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/colorbrightness.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/colorbrightness)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-colorbrightness.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-colorbrightness/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 142ms
-- **Health Status:** 99%
 
 ---
 

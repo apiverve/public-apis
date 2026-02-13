@@ -1,14 +1,15 @@
 openapi: 3.0.0
 info:
-  title: Recipes
+  title: Recipe Generator
   version: '1'
   description: >-
-    Recipes is a simple tool for getting recipe information. It returns
-    information on various recipes.
+    Recipe Generator is an AI-powered tool for generating detailed recipes. It
+    returns complete recipes with ingredients, instructions, prep time, cook
+    time, and servings.
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -20,13 +21,14 @@ security:
 paths:
   /v1/recipe:
     get:
-      summary: Recipes
+      summary: Recipe Generator
       description: >-
-        Recipes is a simple tool for getting recipe information. It returns
-        information on various recipes.
+        Recipe Generator is an AI-powered tool for generating detailed recipes.
+        It returns complete recipes with ingredients, instructions, prep time,
+        cook time, and servings.
       operationId: recipe
       tags:
-        - 13
+        - null
       parameters: []
       responses:
         '200':

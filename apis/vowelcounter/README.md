@@ -2,7 +2,7 @@
 
 > Vowel Counter analyzes text to count vowels and consonants, providing detailed breakdowns and percentages for linguistic analysis.
 
-<img src="https://apiverve.web.app/publicapis/logos/vowelcounter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/vowelcounter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/vowelcounter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/vowelcounter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-vowelcounter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-vowelcounter/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 347ms
-- **Health Status:** 99%
 
 ---
 

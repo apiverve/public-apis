@@ -2,7 +2,7 @@
 
 > Dictionary is a simple tool for getting word definitions. It returns the definition a word.
 
-<img src="https://apiverve.web.app/publicapis/logos/dictionary.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dictionary.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dictionary.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dictionary)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dictionary.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dictionary/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 796ms
-- **Health Status:** 99%
 
 ---
 

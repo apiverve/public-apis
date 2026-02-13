@@ -2,7 +2,7 @@
 
 > Coordinates are Sea is a simple tool for checking if coordinates are in the sea. It returns if the coordinates are in the sea or not.
 
-<img src="https://apiverve.web.app/publicapis/logos/coordinatesaresea.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/coordinatesaresea.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/coordinatesaresea.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/coordinatesaresea)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-coordinatesaresea.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-coordinatesaresea/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 1401ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Spam Detector is a simple tool for detecting spam in a text. It utilize an email address or IP address to validate the given text against the spam database.
 
-<img src="https://apiverve.web.app/publicapis/logos/spamdetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/spamdetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/spamdetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/spamdetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-spamdetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-spamdetector/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 709ms
-- **Health Status:** 99%
 
 ---
 

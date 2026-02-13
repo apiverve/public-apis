@@ -2,7 +2,7 @@
 
 > Country Calling Code is a simple tool for getting the country's international dialing codes. It returns the country's international dialing codes.
 
-<img src="https://apiverve.web.app/publicapis/logos/callingcode.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/callingcode.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/callingcode.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/callingcode)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-callingcode.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-callingcode/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 201ms
-- **Health Status:** 99%
 
 ---
 

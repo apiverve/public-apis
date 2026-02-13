@@ -3,11 +3,11 @@
   "info": {
     "title": "Car Models",
     "version": "1",
-    "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models",
+    "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -29,10 +29,10 @@
     "/v1/carmodels": {
       "get": {
         "summary": "Car Models",
-        "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models",
+        "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.",
         "operationId": "carmodels",
         "tags": [
-          23
+          null
         ],
         "parameters": [],
         "responses": {

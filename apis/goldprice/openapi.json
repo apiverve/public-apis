@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Gold Price is a simple tool for getting the current price of gold. It returns the current price of gold in any currency and in various units.",
         "operationId": "goldprice",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

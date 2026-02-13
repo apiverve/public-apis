@@ -2,7 +2,7 @@
 
 > Short Code Generator is a tool for generating short alphanumeric codes. It supports multiple character sets including alphanumeric, alphabetic, numeric, hexadecimal, and Base58 with customizable length.
 
-<img src="https://apiverve.web.app/publicapis/logos/shortcodegenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/shortcodegenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/shortcodegenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/shortcodegenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-shortcodegenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-shortcodegenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 167ms
-- **Health Status:** 99%
 
 ---
 

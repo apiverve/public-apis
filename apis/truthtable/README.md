@@ -2,7 +2,7 @@
 
 > Truth Table Generator creates complete truth tables for boolean expressions with support for AND, OR, NOT, XOR, NAND, and NOR operators.
 
-<img src="https://apiverve.web.app/publicapis/logos/truthtable.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/truthtable.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/truthtable.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/truthtable)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-truthtable.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-truthtable/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 143ms
-- **Health Status:** 99%
 
 ---
 

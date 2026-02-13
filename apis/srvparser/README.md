@@ -2,7 +2,7 @@
 
 > SRV Record Parser analyzes DNS SRV records and extracts service location information including priority, weight, port, and target server details.
 
-<img src="https://apiverve.web.app/publicapis/logos/srvparser.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/srvparser.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/srvparser.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/srvparser)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-srvparser.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-srvparser/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 241ms
-- **Health Status:** 99%
 
 ---
 

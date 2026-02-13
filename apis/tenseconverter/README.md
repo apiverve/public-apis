@@ -2,7 +2,7 @@
 
 > Tense Converter is a simple tool for converting text to past or future tense. It returns the text converted to the specified tense.
 
-<img src="https://apiverve.web.app/publicapis/logos/tenseconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/tenseconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/tenseconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/tenseconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-tenseconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-tenseconverter/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 1063ms
-- **Health Status:** 99%
 
 ---
 

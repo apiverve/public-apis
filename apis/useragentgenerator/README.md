@@ -2,7 +2,7 @@
 
 > User Agent Generator is a simple tool for generating user agent strings. It returns a random user agent string.
 
-<img src="https://apiverve.web.app/publicapis/logos/useragentgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/useragentgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/useragentgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/useragentgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-useragentgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-useragentgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 411ms
-- **Health Status:** 99%
 
 ---
 

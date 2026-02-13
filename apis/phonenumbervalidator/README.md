@@ -2,7 +2,7 @@
 
 > Phone Number Validator is a simple tool for validating if a phone number is valid or not. It checks the phone number format and the country code to see if the phone number is valid.
 
-<img src="https://apiverve.web.app/publicapis/logos/phonenumbervalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/phonenumbervalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/phonenumbervalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/phonenumbervalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-phonenumbervalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-phonenumbervalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 803ms
-- **Health Status:** 99%
 
 ---
 

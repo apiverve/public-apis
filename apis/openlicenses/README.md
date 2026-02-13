@@ -2,7 +2,7 @@
 
 > Open Source Licenses is a simple tool for getting information on open source licenses. It returns information on various open source licenses.
 
-<img src="https://apiverve.web.app/publicapis/logos/openlicenses.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/openlicenses.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/openlicenses.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/openlicenses)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-openlicenses.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-openlicenses/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 297ms
-- **Health Status:** 99%
 
 ---
 

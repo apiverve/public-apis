@@ -2,7 +2,7 @@
 
 > Liturgical Calendar is a simple tool for getting the dates of the Liturgical Calendar. It returns the dates of the Liturgical Calendar for a given year.
 
-<img src="https://apiverve.web.app/publicapis/logos/liturgicalcalendar.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/liturgicalcalendar.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/liturgicalcalendar.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/liturgicalcalendar)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-liturgicalcalendar.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-liturgicalcalendar/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Calendar
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

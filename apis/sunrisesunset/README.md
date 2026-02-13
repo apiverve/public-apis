@@ -2,7 +2,7 @@
 
 > Sunrise Sunset is a simple tool for getting the sunrise and sunset times. It returns the sunrise and sunset times for a given location and date.
 
-<img src="https://apiverve.web.app/publicapis/logos/sunrisesunset.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sunrisesunset.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sunrisesunset.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sunrisesunset)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sunrisesunset.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sunrisesunset/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 730ms
-- **Health Status:** 99%
 
 ---
 

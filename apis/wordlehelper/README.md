@@ -2,7 +2,7 @@
 
 > Wordle Helper finds possible 5-letter word solutions based on known letter positions, letters in wrong positions, and eliminated letters.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordlehelper.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordlehelper.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordlehelper.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordlehelper)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordlehelper.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordlehelper/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 312ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Hash Generator is a tool for generating cryptographic hashes from text. It supports multiple algorithms including MD5, SHA-1, SHA-256, SHA-384, SHA-512, and BLAKE2 variants for data integrity and security applications.
 
-<img src="https://apiverve.web.app/publicapis/logos/hashgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/hashgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/hashgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/hashgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-hashgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-hashgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Security
 - **Average Latency:** 297ms
-- **Health Status:** 99%
 
 ---
 

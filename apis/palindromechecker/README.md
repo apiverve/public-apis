@@ -2,7 +2,7 @@
 
 > Palindrome Checker is a tool for checking if text is a palindrome. It supports options to ignore case, spaces, and punctuation, and finds the longest palindromic substring.
 
-<img src="https://apiverve.web.app/publicapis/logos/palindromechecker.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/palindromechecker.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/palindromechecker.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/palindromechecker)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-palindromechecker.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-palindromechecker/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 356ms
-- **Health Status:** 99%
 
 ---
 

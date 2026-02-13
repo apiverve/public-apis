@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Random Quote is a simple tool for getting random quotes. It returns a random quote from a collection of quotes.",
         "operationId": "randomquote",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

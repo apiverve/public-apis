@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Bingo Card Generator creates customizable bingo cards with random numbers, HTML rendering, and downloadable PNG images.",
         "operationId": "bingocardgenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Stars Lookup is a simple tool for looking up star data. It returns the star name, mass, diameter, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/starslookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/starslookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/starslookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/starslookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-starslookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-starslookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Science
 - **Average Latency:** 1424ms
-- **Health Status:** 99%
 
 ---
 

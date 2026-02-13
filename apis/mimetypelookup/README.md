@@ -2,7 +2,7 @@
 
 > MIME Type Lookup is a tool for looking up MIME types by file extension or finding file extensions by MIME type. It covers all common file types including documents, images, video, audio, and archives.
 
-<img src="https://apiverve.web.app/publicapis/logos/mimetypelookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/mimetypelookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/mimetypelookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/mimetypelookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-mimetypelookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-mimetypelookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 247ms
-- **Health Status:** 99%
 
 ---
 

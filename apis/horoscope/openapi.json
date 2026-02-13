@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Horoscope is a simple tool for getting horoscope data. It returns the horoscope for the day.",
         "operationId": "horoscope",
         "tags": [
-          0
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Cron Expression Parser is a comprehensive tool for parsing and validating cron expressions. It supports both 5-field and 6-field formats and returns detailed information about each field.
 
-<img src="https://apiverve.web.app/publicapis/logos/cronparser.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/cronparser.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/cronparser.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/cronparser)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-cronparser.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-cronparser/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 206ms
-- **Health Status:** 99%
 
 ---
 

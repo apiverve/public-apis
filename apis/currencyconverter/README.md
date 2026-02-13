@@ -2,7 +2,7 @@
 
 > Currency Converter is a simple tool for converting currency rates. It returns the converted currency rate based on the amount and currency provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/currencyconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/currencyconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/currencyconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/currencyconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-currencyconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-currencyconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 903ms
-- **Health Status:** 99%
 
 ---
 

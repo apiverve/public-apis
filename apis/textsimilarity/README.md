@@ -2,7 +2,7 @@
 
 > Text Similarity is a simple tool for checking the similarity between two texts. It returns the similarity score.
 
-<img src="https://apiverve.web.app/publicapis/logos/textsimilarity.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/textsimilarity.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/textsimilarity.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/textsimilarity)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-textsimilarity.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-textsimilarity/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 1751ms
-- **Health Status:** 99%
 
 ---
 

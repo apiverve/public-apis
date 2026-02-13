@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Age Calculator is a simple tool for calculating age from the date of birth. It returns the calculated age based on the date of birth provided.",
         "operationId": "agecalculator",
         "tags": [
-          2
+          null
         ],
         "parameters": [],
         "responses": {

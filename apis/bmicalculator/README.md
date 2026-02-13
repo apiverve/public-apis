@@ -2,7 +2,7 @@
 
 > BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/bmicalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/bmicalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/bmicalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/bmicalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-bmicalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-bmicalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Health/Wellness
 - **Average Latency:** 602ms
-- **Health Status:** 99%
 
 ---
 

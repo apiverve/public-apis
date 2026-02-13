@@ -2,7 +2,7 @@
 
 > Random Facts is a simple tool for getting random facts. It returns a random fact.
 
-<img src="https://apiverve.web.app/publicapis/logos/randomfacts.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/randomfacts.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/randomfacts.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/randomfacts)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-randomfacts.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-randomfacts/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 302ms
-- **Health Status:** 99%
 
 ---
 

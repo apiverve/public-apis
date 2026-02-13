@@ -2,7 +2,7 @@
 
 > Reverse Geocode is a simple tool for getting the location of a set of coordinates. Only supports USA and Canada Coordinates. It returns the city, state, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/reversegeocode.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/reversegeocode.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/reversegeocode.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/reversegeocode)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-reversegeocode.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-reversegeocode/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 906ms
-- **Health Status:** 99%
 
 ---
 

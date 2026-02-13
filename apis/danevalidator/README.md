@@ -2,7 +2,7 @@
 
 > DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations.
 
-<img src="https://apiverve.web.app/publicapis/logos/danevalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/danevalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/danevalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/danevalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-danevalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-danevalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Security
 - **Average Latency:** 314ms
-- **Health Status:** 99%
 
 ---
 

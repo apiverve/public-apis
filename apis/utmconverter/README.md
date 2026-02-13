@@ -2,7 +2,7 @@
 
 > UTM Coordinate Converter provides bidirectional conversion between UTM (Universal Transverse Mercator) coordinates and latitude/longitude using WGS84 datum.
 
-<img src="https://apiverve.web.app/publicapis/logos/utmconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/utmconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/utmconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/utmconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-utmconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-utmconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 278ms
-- **Health Status:** 99%
 
 ---
 

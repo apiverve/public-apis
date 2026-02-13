@@ -2,7 +2,7 @@
 
 > Pictionary Generator creates random drawing prompts filtered by difficulty level for the classic Pictionary sketching game.
 
-<img src="https://apiverve.web.app/publicapis/logos/pictionary.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/pictionary.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/pictionary.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/pictionary)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-pictionary.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-pictionary/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 691ms
-- **Health Status:** 99%
 
 ---
 

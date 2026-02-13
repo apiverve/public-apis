@@ -2,7 +2,7 @@
 
 > Number Base Converter is a tool for converting numbers between different bases (2-36). It supports binary, octal, decimal, hexadecimal, and custom bases with comprehensive conversion results.
 
-<img src="https://apiverve.web.app/publicapis/logos/numberbaseconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/numberbaseconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/numberbaseconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/numberbaseconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-numberbaseconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-numberbaseconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 234ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Country Languages is a simple tool for getting the list of official and commonly spoken languages in a specific country.
 
-<img src="https://apiverve.web.app/publicapis/logos/countrylanguages.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/countrylanguages.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/countrylanguages.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/countrylanguages)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-countrylanguages.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-countrylanguages/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 505ms
-- **Health Status:** 99%
 
 ---
 

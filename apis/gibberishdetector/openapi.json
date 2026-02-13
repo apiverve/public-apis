@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Gibberish Detector analyzes text using bigram frequency and vowel ratios to identify nonsensical or randomly generated content.",
         "operationId": "gibberishdetector",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.",
         "operationId": "emaildisposablechecker",
         "tags": [
-          8
+          null
         ],
         "parameters": [],
         "responses": {

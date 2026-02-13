@@ -2,7 +2,7 @@
 
 > Text Language is a simple tool for detecting the language of a text. It returns the language code.
 
-<img src="https://apiverve.web.app/publicapis/logos/textlanguage.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/textlanguage.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/textlanguage.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/textlanguage)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-textlanguage.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-textlanguage/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 1657ms
-- **Health Status:** 99%
 
 ---
 

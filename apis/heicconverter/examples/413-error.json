@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "error": "Payload Too Large",
+  "message": "File size exceeds maximum allowed limit"
+}

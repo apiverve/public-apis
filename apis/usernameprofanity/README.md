@@ -2,7 +2,7 @@
 
 > Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.
 
-<img src="https://apiverve.web.app/publicapis/logos/usernameprofanity.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/usernameprofanity.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/usernameprofanity.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/usernameprofanity)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-usernameprofanity.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-usernameprofanity/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 507ms
-- **Health Status:** 99%
 
 ---
 

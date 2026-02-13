@@ -2,7 +2,7 @@
 
 > Moon Phases is a simple tool for getting the moon phases. It returns the moon phase for a given date.
 
-<img src="https://apiverve.web.app/publicapis/logos/moonphases.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/moonphases.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/moonphases.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/moonphases)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-moonphases.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-moonphases/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Astrology
 - **Average Latency:** 796ms
-- **Health Status:** 99%
 
 ---
 

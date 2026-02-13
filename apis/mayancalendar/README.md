@@ -2,7 +2,7 @@
 
 > Mayan Calendar converts Gregorian dates to the ancient Mayan calendar system. Returns the Long Count, Tzolkin (260-day sacred calendar), and Haab (365-day civil calendar) dates.
 
-<img src="https://apiverve.web.app/publicapis/logos/mayancalendar.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/mayancalendar.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/mayancalendar.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/mayancalendar)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-mayancalendar.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-mayancalendar/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 231ms
-- **Health Status:** 99%
 
 ---
 

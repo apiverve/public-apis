@@ -1,8 +1,8 @@
 # Car Models
 
-> Car Models is a simple tool for getting information on cars. It returns information on various car models
+> Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.
 
-<img src="https://apiverve.web.app/publicapis/logos/carmodels.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/carmodels.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/carmodels.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/carmodels)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-carmodels.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-carmodels/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/carmodels" \
 
 ## 📖 Description
 
-Car Models is a simple tool for getting information on cars. It returns information on various car models
+Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Transportation
 - **Average Latency:** 875ms
-- **Health Status:** 99%
 
 ---
 

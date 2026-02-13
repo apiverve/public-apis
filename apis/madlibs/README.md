@@ -2,7 +2,7 @@
 
 > Mad Libs Generator creates fill-in-the-blank story templates with prompts for nouns, verbs, adjectives, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/madlibs.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/madlibs.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/madlibs.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/madlibs)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-madlibs.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-madlibs/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 134ms
-- **Health Status:** 99%
 
 ---
 

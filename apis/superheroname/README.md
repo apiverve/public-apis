@@ -2,7 +2,7 @@
 
 > Generate unique superhero names using dynamic templates and word combinations.
 
-<img src="https://apiverve.web.app/publicapis/logos/superheroname.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/superheroname.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/superheroname.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/superheroname)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-superheroname.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-superheroname/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Games
-- **Average Latency:** 15ms
-- **Health Status:** 99%
+- **Average Latency:** 118ms
 
 ---
 

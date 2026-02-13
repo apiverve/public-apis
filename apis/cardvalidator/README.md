@@ -2,7 +2,7 @@
 
 > Card Validator is a simple tool for validating if a card number is valid or not. It checks the card number format and the Luhn algorithm to see if the card number is valid.
 
-<img src="https://apiverve.web.app/publicapis/logos/cardvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/cardvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/cardvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/cardvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-cardvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-cardvalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Validation
 - **Average Latency:** 809ms
-- **Health Status:** 99%
 
 ---
 

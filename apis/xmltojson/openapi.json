@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "XML to JSON is a simple tool for converting XML to JSON. It returns the JSON representation of the XML provided.",
         "operationId": "xmltojson",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

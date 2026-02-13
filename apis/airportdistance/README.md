@@ -2,7 +2,7 @@
 
 > Airport Distance is a simple tool for getting the distance between two airports. It returns the distance between the two airports.
 
-<img src="https://apiverve.web.app/publicapis/logos/airportdistance.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/airportdistance.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/airportdistance.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/airportdistance)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-airportdistance.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-airportdistance/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Transportation
 - **Average Latency:** 1312ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Sentiment Analysis is a simple tool for analyzing the sentiment of a text. It returns the sentiment score and the sentiment label.
 
-<img src="https://apiverve.web.app/publicapis/logos/sentimentanalysis.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sentimentanalysis.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sentimentanalysis.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sentimentanalysis)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sentimentanalysis.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sentimentanalysis/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** AI/Computer Vision
 - **Average Latency:** 1033ms
-- **Health Status:** 99%
 
 ---
 

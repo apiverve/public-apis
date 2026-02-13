@@ -2,7 +2,7 @@
 
 > SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.
 
-<img src="https://apiverve.web.app/publicapis/logos/sslchecker.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sslchecker.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sslchecker.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sslchecker)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sslchecker.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sslchecker/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 859ms
-- **Health Status:** 99%
 
 ---
 

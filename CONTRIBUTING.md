@@ -17,7 +17,7 @@ Found a bug or have a feature request?
 ## Questions & Support
 
 - **Documentation:** [https://docs.apiverve.com](https://docs.apiverve.com)
-- **Email:** support@apiverve.com
+- **Email:** hello@apiverve.com
 - **Dashboard:** [https://dashboard.apiverve.com](https://dashboard.apiverve.com)
 
 ## API Requests

@@ -2,7 +2,7 @@
 
 > Chess Move Validator verifies algebraic chess notation and identifies move types including castling, captures, checks, and promotions.
 
-<img src="https://apiverve.web.app/publicapis/logos/chessmovevalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/chessmovevalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/chessmovevalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/chessmovevalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-chessmovevalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-chessmovevalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 267ms
-- **Health Status:** 99%
 
 ---
 

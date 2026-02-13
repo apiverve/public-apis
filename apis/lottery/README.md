@@ -1,8 +1,8 @@
 # Lottery Numbers
 
-> Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided.
+> Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided. Supports Powerball, Mega Millions, EuroMillions, and Canada Lotto Max with historical data lookup.
 
-<img src="https://apiverve.web.app/publicapis/logos/lottery.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/lottery.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/lottery.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/lottery)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-lottery.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-lottery/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/lottery" \
 
 ## 📖 Description
 
-Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided.
+Lottery Numbers is a simple tool for looking up winning lottery numbers. It returns the winning lottery numbers based on the lottery name provided. Supports Powerball, Mega Millions, EuroMillions, and Canada Lotto Max with historical data lookup.
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 701ms
-- **Health Status:** 99%
 
 ---
 

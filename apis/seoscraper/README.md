@@ -2,7 +2,7 @@
 
 > SEO Scraper is a simple tool for scraping SEO data. It returns the meta title, meta description, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/seoscraper.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/seoscraper.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/seoscraper.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/seoscraper)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-seoscraper.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-seoscraper/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Scraping
 - **Average Latency:** 1899ms
-- **Health Status:** 99%
 
 ---
 

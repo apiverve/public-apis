@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Words to Numbers is a simple tool for converting words to numbers. It returns the words in numbers.",
         "operationId": "wordstonumbers",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

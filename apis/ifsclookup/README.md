@@ -2,7 +2,7 @@
 
 > IFSC Lookup is a simple tool for getting information on IFSC codes. It returns information on various IFSC codes.
 
-<img src="https://apiverve.web.app/publicapis/logos/ifsclookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/ifsclookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/ifsclookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/ifsclookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-ifsclookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-ifsclookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 1417ms
-- **Health Status:** 99%
 
 ---
 

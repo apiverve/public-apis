@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.",
         "operationId": "bible",
         "tags": [
-          4
+          null
         ],
         "parameters": [],
         "responses": {

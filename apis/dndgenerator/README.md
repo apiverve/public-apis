@@ -2,7 +2,7 @@
 
 > D&D Generator creates random content for tabletop role-playing games including characters, NPCs, monsters, treasure, encounters, taverns, and quests.
 
-<img src="https://apiverve.web.app/publicapis/logos/dndgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dndgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dndgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dndgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dndgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dndgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 234ms
-- **Health Status:** 99%
 
 ---
 

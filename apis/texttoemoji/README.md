@@ -2,7 +2,7 @@
 
 > Text to Emoji is a simple tool for converting text into emojis. It returns the emojis that represent the given text.
 
-<img src="https://apiverve.web.app/publicapis/logos/texttoemoji.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/texttoemoji.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/texttoemoji.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/texttoemoji)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-texttoemoji.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-texttoemoji/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

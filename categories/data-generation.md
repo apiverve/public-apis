@@ -8,7 +8,7 @@
 
 ## Acronym Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/acronymgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="60" height="60" />
 
 Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
 
@@ -18,7 +18,7 @@ Acronym Generator is an AI-powered tool for creating creative acronyms from text
 
 ## Baby Name Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/babynamegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/babynamegenerator.svg" width="60" height="60" />
 
 Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.
 
@@ -28,7 +28,7 @@ Baby Name Generator is a simple tool for generating baby names. It returns a lis
 
 ## Barcode Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/barcodegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/barcodegenerator.svg" width="60" height="60" />
 
 Barcode Generator is a simple tool for generating barcodes from data. It returns a URL to the generated image of the barcode.
 
@@ -38,7 +38,7 @@ Barcode Generator is a simple tool for generating barcodes from data. It returns
 
 ## Bingo Card Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/bingocardgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/bingocardgenerator.svg" width="60" height="60" />
 
 Bingo Card Generator creates customizable bingo cards with random numbers, HTML rendering, and downloadable PNG images.
 
@@ -48,7 +48,7 @@ Bingo Card Generator creates customizable bingo cards with random numbers, HTML 
 
 ## Boggle Board Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/boggleboardgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/boggleboardgenerator.svg" width="60" height="60" />
 
 Boggle Board Generator creates random Boggle game boards with authentic dice configurations, HTML rendering, and downloadable PNG images.
 
@@ -58,7 +58,7 @@ Boggle Board Generator creates random Boggle game boards with authentic dice con
 
 ## Captcha Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/captchagenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/captchagenerator.svg" width="60" height="60" />
 
 Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.
 
@@ -68,7 +68,7 @@ Captcha Generator is a simple tool for generating captchas. It returns a random 
 
 ## Card Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/cardgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/cardgenerator.svg" width="60" height="60" />
 
 Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
 
@@ -78,9 +78,9 @@ Card Generator is a simple tool for generating test/sample card numbers. It retu
 
 ## Chart Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/chartgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/chartgenerator.svg" width="60" height="60" />
 
-Chart Generator is a simple tool for generating charts from data. It returns a URL to the generated image of the chart.
+Chart Generator creates beautiful chart images from your data. Supports bar, line, pie, doughnut, radar, and polar area charts with customizable styling.
 
 **[View Documentation →](https://apiverve.com/marketplace/chartgenerator)** | **[OpenAPI Spec](../apis/chartgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -88,9 +88,9 @@ Chart Generator is a simple tool for generating charts from data. It returns a U
 
 ## Color Palette Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/colorpalette.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/colorpalette.svg" width="60" height="60" />
 
-Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.
+Color Palette is a powerful tool for generating harmonious color palettes. Generate color schemes (mono, contrast, triade, tetrade, analogic) with accessibility data, CSS exports, and palette images.
 
 **[View Documentation →](https://apiverve.com/marketplace/colorpalette)** | **[OpenAPI Spec](../apis/colorpalette/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -98,7 +98,7 @@ Color Palette is a simple tool for generating color palettes. It returns a list 
 
 ## Comment Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/commentgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/commentgenerator.svg" width="60" height="60" />
 
 Comment Generator is a simple tool for generating comments for social media. It returns a list of comments based on the input parameters.
 
@@ -108,7 +108,7 @@ Comment Generator is a simple tool for generating comments for social media. It 
 
 ## Company Name Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/companynamegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/companynamegenerator.svg" width="60" height="60" />
 
 Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
 
@@ -118,7 +118,7 @@ Company Name Generator is a simple tool for generating company names. It returns
 
 ## Cron Expression Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/crongenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/crongenerator.svg" width="60" height="60" />
 
 Cron Expression Generator is an AI-powered tool for converting natural language schedule descriptions into cron expressions. It returns valid cron syntax along with human-readable descriptions.
 
@@ -128,7 +128,7 @@ Cron Expression Generator is an AI-powered tool for converting natural language 
 
 ## Cuid Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/cuidgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/cuidgenerator.svg" width="60" height="60" />
 
 Cuid Generator is a tool for generating collision-resistant unique identifiers (Cuids). Cuids are optimized for horizontal scaling and sequential lookup performance in distributed systems.
 
@@ -138,7 +138,7 @@ Cuid Generator is a tool for generating collision-resistant unique identifiers (
 
 ## GUID Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/guidgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/guidgenerator.svg" width="60" height="60" />
 
 GUID Generator is a tool for generating Globally Unique Identifiers (GUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options including uppercase, no hyphens, and braces.
 
@@ -148,7 +148,7 @@ GUID Generator is a tool for generating Globally Unique Identifiers (GUIDs). It 
 
 ## Hashtag Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/hashtaggenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/hashtaggenerator.svg" width="60" height="60" />
 
 Hashtag Generator is a simple tool for generating hashtags. It returns a list of hashtags based on the text provided.
 
@@ -158,7 +158,7 @@ Hashtag Generator is a simple tool for generating hashtags. It returns a list of
 
 ## IMEI Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/imeigenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/imeigenerator.svg" width="60" height="60" />
 
 IMEI Generator creates valid International Mobile Equipment Identity (IMEI) numbers with proper Luhn checksum validation for mobile devices.
 
@@ -168,7 +168,7 @@ IMEI Generator creates valid International Mobile Equipment Identity (IMEI) numb
 
 ## Initialism Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/initialismgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/initialismgenerator.svg" width="60" height="60" />
 
 Initialism Generator creates initialisms from phrases by extracting first letters of significant words, with options for filtering and formatting.
 
@@ -178,7 +178,7 @@ Initialism Generator creates initialisms from phrases by extracting first letter
 
 ## JSON Schema Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/jsonschemagenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/jsonschemagenerator.svg" width="60" height="60" />
 
 JSON Schema Generator is a tool for automatically generating JSON schemas from sample JSON data. It creates Draft-07 compatible schemas with type inference and format detection.
 
@@ -188,7 +188,7 @@ JSON Schema Generator is a tool for automatically generating JSON schemas from s
 
 ## Lorem Ipsum Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/loremipsumgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/loremipsumgenerator.svg" width="60" height="60" />
 
 Lorem Ipsum Generator is a simple tool for generating lorem ipsum text. It returns the generated text.
 
@@ -198,7 +198,7 @@ Lorem Ipsum Generator is a simple tool for generating lorem ipsum text. It retur
 
 ## Password Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/passwordgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/passwordgenerator.svg" width="60" height="60" />
 
 Password Generator is a simple tool for generating passwords. It returns the generated password.
 
@@ -208,9 +208,9 @@ Password Generator is a simple tool for generating passwords. It returns the gen
 
 ## QR Code Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/qrcodegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/qrcodegenerator.svg" width="60" height="60" />
 
-QR Code Generator is a simple tool for generating QR codes. It returns a PNG image of the QR code.
+QR Code Generator creates customizable QR codes with support for colors, gradients, logos, and various styling options. Generate professional QR codes for marketing, packaging, and digital experiences.
 
 **[View Documentation →](https://apiverve.com/marketplace/qrcodegenerator)** | **[OpenAPI Spec](../apis/qrcodegenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -218,7 +218,7 @@ QR Code Generator is a simple tool for generating QR codes. It returns a PNG ima
 
 ## Random Data Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/randomgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/randomgenerator.svg" width="60" height="60" />
 
 Random Generator is a simple tool for generating random data. It returns random data such as numbers, strings, and more.
 
@@ -228,7 +228,7 @@ Random Generator is a simple tool for generating random data. It returns random 
 
 ## Random Identity Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/randomidentitygenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/randomidentitygenerator.svg" width="60" height="60" />
 
 Random Identity is a simple tool for generating random identities. It returns a random name, address, and more.
 
@@ -238,7 +238,7 @@ Random Identity is a simple tool for generating random identities. It returns a 
 
 ## Random User Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/randomusergenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/randomusergenerator.svg" width="60" height="60" />
 
 Random User Generator is a simple tool for generating random user data. It returns the user's name, email, and more.
 
@@ -248,7 +248,7 @@ Random User Generator is a simple tool for generating random user data. It retur
 
 ## Random Word
 
-<img src="https://apiverve.web.app/publicapis/logos/randomwords.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/randomwords.svg" width="60" height="60" />
 
 Random Word is a simple tool for getting random words. It returns a random word.
 
@@ -258,7 +258,7 @@ Random Word is a simple tool for getting random words. It returns a random word.
 
 ## Short Code Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/shortcodegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/shortcodegenerator.svg" width="60" height="60" />
 
 Short Code Generator is a tool for generating short alphanumeric codes. It supports multiple character sets including alphanumeric, alphabetic, numeric, hexadecimal, and Base58 with customizable length.
 
@@ -268,7 +268,7 @@ Short Code Generator is a tool for generating short alphanumeric codes. It suppo
 
 ## Sitemap Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/sitemapgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/sitemapgenerator.svg" width="60" height="60" />
 
 Sitemap Generator creates valid XML sitemaps from URL lists following the sitemaps.org protocol for search engine optimization.
 
@@ -278,7 +278,7 @@ Sitemap Generator creates valid XML sitemaps from URL lists following the sitema
 
 ## TOTP Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/totpgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/totpgenerator.svg" width="60" height="60" />
 
 TOTP Generator creates time-based one-time passwords compatible with authenticator apps using standard TOTP algorithms.
 
@@ -288,7 +288,7 @@ TOTP Generator creates time-based one-time passwords compatible with authenticat
 
 ## ULID Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/ulidgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/ulidgenerator.svg" width="60" height="60" />
 
 ULID Generator is a tool for generating Universally Unique Lexicographically Sortable Identifiers (ULIDs). ULIDs are 26-character strings that are sortable by time and collision-resistant.
 
@@ -298,7 +298,7 @@ ULID Generator is a tool for generating Universally Unique Lexicographically Sor
 
 ## User Agent Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/useragentgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/useragentgenerator.svg" width="60" height="60" />
 
 User Agent Generator is a simple tool for generating user agent strings. It returns a random user agent string.
 
@@ -308,7 +308,7 @@ User Agent Generator is a simple tool for generating user agent strings. It retu
 
 ## Username Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/usernamegenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/usernamegenerator.svg" width="60" height="60" />
 
 Username Generator is a simple tool for generating usernames. It returns a list of usernames based on the specified criteria.
 
@@ -318,7 +318,7 @@ Username Generator is a simple tool for generating usernames. It returns a list 
 
 ## UUID Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/uuidgenerator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/uuidgenerator.svg" width="60" height="60" />
 
 UUID Generator is a tool for generating Universally Unique Identifiers (UUIDs). It creates RFC 4122 version 4 UUIDs with multiple formatting options for different platform requirements.
 

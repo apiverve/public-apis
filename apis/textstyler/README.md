@@ -2,7 +2,7 @@
 
 > Text Styler is a simple tool for styling text in various ways. It returns the styled text.
 
-<img src="https://apiverve.web.app/publicapis/logos/textstyler.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/textstyler.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/textstyler.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/textstyler)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-textstyler.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-textstyler/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

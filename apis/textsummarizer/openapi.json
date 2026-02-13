@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Text Summarizer is a simple tool for summarizing text. It returns a summary of the text.",
         "operationId": "textsummarizer",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

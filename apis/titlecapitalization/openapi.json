@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Title Capitalization is a simple tool for converting title text to various cases. It returns the text converted to your desired case.",
         "operationId": "titlecapitalization",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

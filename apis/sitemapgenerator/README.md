@@ -2,7 +2,7 @@
 
 > Sitemap Generator creates valid XML sitemaps from URL lists following the sitemaps.org protocol for search engine optimization.
 
-<img src="https://apiverve.web.app/publicapis/logos/sitemapgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sitemapgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sitemapgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sitemapgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sitemapgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sitemapgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 189ms
-- **Health Status:** 99%
 
 ---
 

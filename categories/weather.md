@@ -8,7 +8,7 @@
 
 ## Air Quality
 
-<img src="https://apiverve.web.app/publicapis/logos/airquality.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/airquality.svg" width="60" height="60" />
 
 Air Quality is a simple tool for getting air quality data. It returns the air quality index, o3, pm2, and more.
 
@@ -18,7 +18,7 @@ Air Quality is a simple tool for getting air quality data. It returns the air qu
 
 ## Marine Weather
 
-<img src="https://apiverve.web.app/publicapis/logos/marineweather.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/marineweather.svg" width="60" height="60" />
 
 Marine Weather is a simple tool for getting marine weather data. It returns the current weather conditions in coordinates within the ocean and sea.
 
@@ -28,7 +28,7 @@ Marine Weather is a simple tool for getting marine weather data. It returns the 
 
 ## Moonrise Moonset
 
-<img src="https://apiverve.web.app/publicapis/logos/moonrisemoonset.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/moonrisemoonset.svg" width="60" height="60" />
 
 Moonrise Moonset is a simple tool for getting moonrise and moonset times. It returns the moonrise and moonset times based on the location provided.
 
@@ -38,7 +38,7 @@ Moonrise Moonset is a simple tool for getting moonrise and moonset times. It ret
 
 ## Solar Potential
 
-<img src="https://apiverve.web.app/publicapis/logos/solarpotential.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/solarpotential.svg" width="60" height="60" />
 
 Solar Potential is a simple tool for getting the estimated annual energy production of a PV system. It returns the estimated annual energy production of a PV system.
 
@@ -48,7 +48,7 @@ Solar Potential is a simple tool for getting the estimated annual energy product
 
 ## Sunrise Sunset
 
-<img src="https://apiverve.web.app/publicapis/logos/sunrisesunset.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/sunrisesunset.svg" width="60" height="60" />
 
 Sunrise Sunset is a simple tool for getting the sunrise and sunset times. It returns the sunrise and sunset times for a given location and date.
 
@@ -58,7 +58,7 @@ Sunrise Sunset is a simple tool for getting the sunrise and sunset times. It ret
 
 ## Weather
 
-<img src="https://apiverve.web.app/publicapis/logos/weatherforecast.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/weatherforecast.svg" width="60" height="60" />
 
 Weather is a simple tool for getting the current weather. It returns the temperature, humidity, and more for a given location.
 
@@ -68,7 +68,7 @@ Weather is a simple tool for getting the current weather. It returns the tempera
 
 ## Weather Seasons
 
-<img src="https://apiverve.web.app/publicapis/logos/weatherseasons.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/weatherseasons.svg" width="60" height="60" />
 
 Weather Seasons is a simple tool for getting the dates of the solstice and equinox. It returns the dates of the solstice and equinox for a given year.
 
@@ -78,7 +78,7 @@ Weather Seasons is a simple tool for getting the dates of the solstice and equin
 
 ## Worldwide Earthquakes
 
-<img src="https://apiverve.web.app/publicapis/logos/earthquake.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/earthquake.svg" width="60" height="60" />
 
 Earthquake is a simple tool for getting earthquake data. It returns the earthquake data for the past hour.
 

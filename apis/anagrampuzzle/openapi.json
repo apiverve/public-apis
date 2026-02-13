@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Anagram Puzzle Generator creates word puzzles where players rearrange scrambled letters to form valid words, with optional hints.",
         "operationId": "anagrampuzzle",
         "tags": [
-          27
+          null
         ],
         "parameters": [],
         "responses": {

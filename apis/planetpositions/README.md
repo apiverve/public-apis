@@ -2,7 +2,7 @@
 
 > Planet Positions is a simple tool for getting the position of planets in the solar system. It returns the position of planets in the solar system.
 
-<img src="https://apiverve.web.app/publicapis/logos/planetpositions.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/planetpositions.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/planetpositions.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/planetpositions)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-planetpositions.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-planetpositions/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Astrology
 - **Average Latency:** 301ms
-- **Health Status:** 99%
 
 ---
 

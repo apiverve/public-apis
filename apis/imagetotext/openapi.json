@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -27,14 +27,33 @@
   ],
   "paths": {
     "/v1/imagetotext": {
-      "get": {
+      "post": {
         "summary": "Image to Text",
         "description": "Image to Text is a simple tool for extracting text from images. It returns the extracted text.",
         "operationId": "imagetotext",
         "tags": [
-          1
+          null
         ],
-        "parameters": [],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "image"
+                ],
+                "properties": {
+                  "image": {
+                    "type": "string",
+                    "format": "binary",
+                    "description": "Upload an image file (supported formats: .jpg, .jpeg, .png, .gif, max 5MB)"
+                  }
+                }
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "Successful response",
@@ -56,10 +75,13 @@
             }
           },
           "400": {
-            "description": "Bad Request - Invalid parameters"
+            "description": "Bad Request - Invalid parameters or file"
           },
           "401": {
             "description": "Unauthorized - Invalid or missing API key"
+          },
+          "413": {
+            "description": "Payload Too Large - File size exceeds limit"
           },
           "429": {
             "description": "Too Many Requests - Rate limit exceeded"

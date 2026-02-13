@@ -2,7 +2,7 @@
 
 > ISBN Validator is a comprehensive tool for validating and parsing ISBN-10 and ISBN-13 book identification numbers. It validates checksums and provides detailed information about each ISBN component.
 
-<img src="https://apiverve.web.app/publicapis/logos/isbnvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/isbnvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/isbnvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/isbnvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-isbnvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-isbnvalidator/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 361ms
-- **Health Status:** 99%
 
 ---
 

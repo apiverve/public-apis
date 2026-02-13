@@ -2,7 +2,7 @@
 
 > Country Lookup is a simple tool for looking up country data. It returns the country name, capital, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/countrylookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/countrylookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/countrylookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/countrylookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-countrylookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-countrylookup/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Geography
-- **Average Latency:** 1403ms
-- **Health Status:** 99%
+- **Average Latency:** 1803ms
 
 ---
 

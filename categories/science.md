@@ -8,7 +8,7 @@
 
 ## Julian Day Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/julianday.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/julianday.svg" width="60" height="60" />
 
 Julian Day Calculator converts between Gregorian calendar dates and Julian Day Numbers (JDN). Julian Day is a continuous count of days used in astronomy and historical research.
 
@@ -18,7 +18,7 @@ Julian Day Calculator converts between Gregorian calendar dates and Julian Day N
 
 ## Meteorite Landings
 
-<img src="https://apiverve.web.app/publicapis/logos/meteorites.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/meteorites.svg" width="60" height="60" />
 
 Meteorites is a simple tool for getting meteorite data. It returns a list of meteorites that have fallen to Earth.
 
@@ -28,7 +28,7 @@ Meteorites is a simple tool for getting meteorite data. It returns a list of met
 
 ## Periodic Table
 
-<img src="https://apiverve.web.app/publicapis/logos/periodictable.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/periodictable.svg" width="60" height="60" />
 
 Periodic Table is a simple tool for getting information about chemical elements. It returns information such as the atomic number, symbol, and more based on the element provided.
 
@@ -38,7 +38,7 @@ Periodic Table is a simple tool for getting information about chemical elements.
 
 ## Stars Lookup
 
-<img src="https://apiverve.web.app/publicapis/logos/starslookup.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/starslookup.svg" width="60" height="60" />
 
 Stars Lookup is a simple tool for looking up star data. It returns the star name, mass, diameter, and more.
 

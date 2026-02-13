@@ -8,7 +8,7 @@
 
 ## Human Name Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/humannameparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/humannameparser.svg" width="60" height="60" />
 
 Human Name Parser is a simple tool for parsing human names into their components. It returns the parsed components of the human name.
 
@@ -18,7 +18,7 @@ Human Name Parser is a simple tool for parsing human names into their components
 
 ## RSS to JSON
 
-<img src="https://apiverve.web.app/publicapis/logos/rsstojson.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/rsstojson.svg" width="60" height="60" />
 
 RSS to JSON is a simple tool for converting RSS feeds into JSON format. It returns the RSS feed in JSON format.
 
@@ -28,7 +28,7 @@ RSS to JSON is a simple tool for converting RSS feeds into JSON format. It retur
 
 ## Street Address Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/streetaddressparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/streetaddressparser.svg" width="60" height="60" />
 
 Street Address Parser is a simple tool for parsing a US street addresses. It returns the parsed components of the street address provided.
 
@@ -38,7 +38,7 @@ Street Address Parser is a simple tool for parsing a US street addresses. It ret
 
 ## User Agent Parser
 
-<img src="https://apiverve.web.app/publicapis/logos/useragentparser.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/useragentparser.svg" width="60" height="60" />
 
 User Agent Parser is a simple tool for parsing user agent strings. It returns the browser, operating system, and more from the user agent string.
 

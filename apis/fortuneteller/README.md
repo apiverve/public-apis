@@ -2,7 +2,7 @@
 
 > Fortune Teller uses AI to generate personalized mystical fortunes across multiple categories including love, career, health, wealth, and travel.
 
-<img src="https://apiverve.web.app/publicapis/logos/fortuneteller.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/fortuneteller.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/fortuneteller.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/fortuneteller)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-fortuneteller.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-fortuneteller/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 2843ms
-- **Health Status:** 99%
 
 ---
 

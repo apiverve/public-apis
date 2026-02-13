@@ -2,7 +2,7 @@
 
 > Syllable Counter is a tool for counting syllables in words and text. It uses the CMU Pronouncing Dictionary for accurate syllable counting with rule-based fallback for unknown words.
 
-<img src="https://apiverve.web.app/publicapis/logos/syllablecounter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/syllablecounter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/syllablecounter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/syllablecounter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-syllablecounter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-syllablecounter/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 221ms
-- **Health Status:** 99%
 
 ---
 

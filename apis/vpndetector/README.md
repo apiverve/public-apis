@@ -2,7 +2,7 @@
 
 > VPN Detector is a simple tool for detecting VPN usage. It returns a boolean value indicating whether the IP address is using a VPN or not.
 
-<img src="https://apiverve.web.app/publicapis/logos/vpndetector.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/vpndetector.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/vpndetector.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/vpndetector)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-vpndetector.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-vpndetector/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 342ms
-- **Health Status:** 99%
 
 ---
 

@@ -1,8 +1,8 @@
 # Color Palette Generator
 
-> Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.
+> Color Palette is a powerful tool for generating harmonious color palettes. Generate color schemes (mono, contrast, triade, tetrade, analogic) with accessibility data, CSS exports, and palette images.
 
-<img src="https://apiverve.web.app/publicapis/logos/colorpalette.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/colorpalette.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/colorpalette.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/colorpalette)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-colorpalette.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-colorpalette/)
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/colorpalette" \
 
 ## 📖 Description
 
-Color Palette is a simple tool for generating color palettes. It returns a list of colors based on a given color input.
+Color Palette is a powerful tool for generating harmonious color palettes. Generate color schemes (mono, contrast, triade, tetrade, analogic) with accessibility data, CSS exports, and palette images.
 
 ---
 
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 877ms
-- **Health Status:** 99%
 
 ---
 

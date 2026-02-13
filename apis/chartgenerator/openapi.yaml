@@ -3,12 +3,12 @@ info:
   title: Chart Generator
   version: '1'
   description: >-
-    Chart Generator is a simple tool for generating charts from data. It returns
-    a URL to the generated image of the chart.
+    Chart Generator creates beautiful chart images from your data. Supports bar,
+    line, pie, doughnut, radar, and polar area charts with customizable styling.
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -22,11 +22,12 @@ paths:
     get:
       summary: Chart Generator
       description: >-
-        Chart Generator is a simple tool for generating charts from data. It
-        returns a URL to the generated image of the chart.
+        Chart Generator creates beautiful chart images from your data. Supports
+        bar, line, pie, doughnut, radar, and polar area charts with customizable
+        styling.
       operationId: chartgenerator
       tags:
-        - 6
+        - null
       parameters: []
       responses:
         '200':

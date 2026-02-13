@@ -2,7 +2,7 @@
 
 > HTML Entities Encoder/Decoder is a tool for encoding and decoding HTML entities. It converts special characters to HTML entities and vice versa to prevent XSS attacks and display special characters properly.
 
-<img src="https://apiverve.web.app/publicapis/logos/htmlentities.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/htmlentities.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/htmlentities.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/htmlentities)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-htmlentities.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-htmlentities/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 247ms
-- **Health Status:** 99%
 
 ---
 

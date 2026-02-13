@@ -2,7 +2,7 @@
 
 > HTML to Text is a simple tool for converting HTML to text. It returns the text extracted from the HTML.
 
-<img src="https://apiverve.web.app/publicapis/logos/htmltotext.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/htmltotext.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/htmltotext.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/htmltotext)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-htmltotext.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-htmltotext/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Processing
 - **Average Latency:** 2008ms
-- **Health Status:** 99%
 
 ---
 

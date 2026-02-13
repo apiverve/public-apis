@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Comment Generator is a simple tool for generating comments for social media. It returns a list of comments based on the input parameters.",
         "operationId": "commentgenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Chinese Zodiac returns the zodiac animal, element, and characteristics for any birth date. Accurately accounts for the Chinese lunar calendar - the zodiac year starts on Chinese New Year, not January 1st.
 
-<img src="https://apiverve.web.app/publicapis/logos/chinesezodiac.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/chinesezodiac.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/chinesezodiac.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/chinesezodiac)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-chinesezodiac.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-chinesezodiac/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Astrology
 - **Average Latency:** 178ms
-- **Health Status:** 99%
 
 ---
 

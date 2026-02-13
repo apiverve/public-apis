@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "JWT Decoder decodes JWT tokens to reveal header and payload information without performing signature verification.",
         "operationId": "jwtdecoder",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

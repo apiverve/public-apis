@@ -2,7 +2,7 @@
 
 > DNS Lookup is a simple tool for looking up the DNS records of a domain. It returns the A, MX, and other records of the domain.
 
-<img src="https://apiverve.web.app/publicapis/logos/dnslookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/dnslookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/dnslookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/dnslookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-dnslookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-dnslookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1941ms
-- **Health Status:** 99%
 
 ---
 

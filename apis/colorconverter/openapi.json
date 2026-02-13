@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.",
         "operationId": "colorconverter",
         "tags": [
-          3
+          null
         ],
         "parameters": [],
         "responses": {

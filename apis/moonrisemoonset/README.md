@@ -2,7 +2,7 @@
 
 > Moonrise Moonset is a simple tool for getting moonrise and moonset times. It returns the moonrise and moonset times based on the location provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/moonrisemoonset.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/moonrisemoonset.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/moonrisemoonset.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/moonrisemoonset)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-moonrisemoonset.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-moonrisemoonset/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 906ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Base64 Encoder/Decoder is a simple tool for encoding and decoding Base64 strings. It supports both encoding text to Base64 and decoding Base64 back to text.
 
-<img src="https://apiverve.web.app/publicapis/logos/base64.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/base64.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/base64.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/base64)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-base64.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-base64/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 366ms
-- **Health Status:** 99%
 
 ---
 

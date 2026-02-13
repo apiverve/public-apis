@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Loan Payment Calculator is a simple tool for calculating loan payments. It returns the monthly payment, total interest, and more.",
         "operationId": "loanpaymentcalculator",
         "tags": [
-          12
+          null
         ],
         "parameters": [],
         "responses": {

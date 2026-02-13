@@ -2,7 +2,7 @@
 
 > Unit Converter is a simple tool for converting units. It returns the converted value.
 
-<img src="https://apiverve.web.app/publicapis/logos/unitconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/unitconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/unitconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/unitconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-unitconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-unitconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 872ms
-- **Health Status:** 99%
 
 ---
 

@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "TOTP Generator creates time-based one-time passwords compatible with authenticator apps using standard TOTP algorithms.",
         "operationId": "totpgenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

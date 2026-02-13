@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Random Joke is a simple tool for getting random jokes. It returns a random joke from a collection of jokes.",
         "operationId": "randomjoke",
         "tags": [
-          11
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Placeholder Text Generator is a tool for generating placeholder text in various styles including lorem ipsum, tech jargon, hipster, corporate, pirate, fantasy, and sci-fi.
 
-<img src="https://apiverve.web.app/publicapis/logos/placeholdertext.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/placeholdertext.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/placeholdertext.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/placeholdertext)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-placeholdertext.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-placeholdertext/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 183ms
-- **Health Status:** 99%
 
 ---
 

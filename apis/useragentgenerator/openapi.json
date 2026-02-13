@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "User Agent Generator is a simple tool for generating user agent strings. It returns a random user agent string.",
         "operationId": "useragentgenerator",
         "tags": [
-          6
+          null
         ],
         "parameters": [],
         "responses": {

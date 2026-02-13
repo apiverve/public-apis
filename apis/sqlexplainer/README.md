@@ -2,7 +2,7 @@
 
 > SQL Explainer analyzes SQL queries and provides clear, plain English explanations of what they do. Perfect for learning SQL, code reviews, or documentation.
 
-<img src="https://apiverve.web.app/publicapis/logos/sqlexplainer.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/sqlexplainer.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/sqlexplainer.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/sqlexplainer)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-sqlexplainer.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-sqlexplainer/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Data Processing
-- **Average Latency:** 850ms
-- **Health Status:** 99%
+- **Average Latency:** 847ms
 
 ---
 

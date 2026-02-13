@@ -2,7 +2,7 @@
 
 > Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.
 
-<img src="https://apiverve.web.app/publicapis/logos/trivia.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/trivia.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/trivia.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/trivia)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-trivia.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-trivia/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 1009ms
-- **Health Status:** 99%
 
 ---
 

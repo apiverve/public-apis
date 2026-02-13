@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Did You Mean is a simple tool for correcting spelling mistakes. It returns the corrected text.",
         "operationId": "didyoumean",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

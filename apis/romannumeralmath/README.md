@@ -2,7 +2,7 @@
 
 > Roman Numeral Math is a tool for performing mathematical operations (add, subtract, multiply, divide) with Roman numerals. It shows both numeric and Roman numeral equations.
 
-<img src="https://apiverve.web.app/publicapis/logos/romannumeralmath.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/romannumeralmath.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/romannumeralmath.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/romannumeralmath)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-romannumeralmath.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-romannumeralmath/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Math/Calculations
 - **Average Latency:** 387ms
-- **Health Status:** 99%
 
 ---
 

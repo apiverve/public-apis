@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Cocktail is a simple tool for getting cocktail recipes. It returns the ingredients, instructions, and more of the cocktail.",
         "operationId": "cocktail",
         "tags": [
-          13
+          null
         ],
         "parameters": [],
         "responses": {

@@ -8,7 +8,7 @@
 
 ## World News
 
-<img src="https://apiverve.web.app/publicapis/logos/news.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/news.svg" width="60" height="60" />
 
 News API is a simple tool for scraping news data. It returns the news title, description, and more.
 

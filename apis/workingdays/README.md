@@ -2,7 +2,7 @@
 
 > Working Days is a simple tool for getting the number of working days in a month. It returns the number of working days in the given month.
 
-<img src="https://apiverve.web.app/publicapis/logos/workingdays.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/workingdays.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/workingdays.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/workingdays)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-workingdays.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-workingdays/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Calendar
 - **Average Latency:** 246ms
-- **Health Status:** 99%
 
 ---
 

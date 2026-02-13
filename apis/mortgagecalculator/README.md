@@ -2,7 +2,7 @@
 
 > Mortgage Calculator is a simple tool for calculating mortgage payments. It returns the monthly payment, total interest, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/mortgagecalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/mortgagecalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/mortgagecalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/mortgagecalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-mortgagecalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-mortgagecalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 977ms
-- **Health Status:** 99%
 
 ---
 

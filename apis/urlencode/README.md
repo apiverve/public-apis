@@ -2,7 +2,7 @@
 
 > URL Encoder/Decoder is a tool for encoding and decoding URL strings. It converts special characters to percent-encoded format and decodes them back for safe URL transmission.
 
-<img src="https://apiverve.web.app/publicapis/logos/urlencode.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/urlencode.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/urlencode.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/urlencode)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-urlencode.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-urlencode/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 192ms
-- **Health Status:** 99%
 
 ---
 

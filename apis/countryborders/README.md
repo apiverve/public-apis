@@ -2,7 +2,7 @@
 
 > Country Borders is a simple tool for getting the list of neighboring countries for a specific country. It returns the list of neighboring countries for the specified country.
 
-<img src="https://apiverve.web.app/publicapis/logos/countryborders.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/countryborders.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/countryborders.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/countryborders)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-countryborders.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-countryborders/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Geography
 - **Average Latency:** 612ms
-- **Health Status:** 99%
 
 ---
 

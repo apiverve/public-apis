@@ -2,7 +2,7 @@
 
 > Airline Lookup is a simple tool for getting information on airlines. It returns information on various airlines.
 
-<img src="https://apiverve.web.app/publicapis/logos/airlinelookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/airlinelookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/airlinelookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/airlinelookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-airlinelookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-airlinelookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Transportation
 - **Average Latency:** 214ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Cuid Generator is a tool for generating collision-resistant unique identifiers (Cuids). Cuids are optimized for horizontal scaling and sequential lookup performance in distributed systems.
 
-<img src="https://apiverve.web.app/publicapis/logos/cuidgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/cuidgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/cuidgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/cuidgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-cuidgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-cuidgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 183ms
-- **Health Status:** 99%
 
 ---
 

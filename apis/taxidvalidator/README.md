@@ -2,7 +2,7 @@
 
 > Tax ID Validator is a comprehensive tool for validating US Tax IDs including Social Security Numbers (SSN), Employer Identification Numbers (EIN), and Individual Taxpayer Identification Numbers (ITIN).
 
-<img src="https://apiverve.web.app/publicapis/logos/taxidvalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/taxidvalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/taxidvalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/taxidvalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-taxidvalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-taxidvalidator/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 153ms
-- **Health Status:** 99%
 
 ---
 

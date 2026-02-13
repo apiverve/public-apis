@@ -2,7 +2,7 @@
 
 > HTTP Status Code Lookup is a tool for looking up HTTP status code information. It provides descriptions, categories, and common causes for all standard HTTP status codes from 1xx to 5xx.
 
-<img src="https://apiverve.web.app/publicapis/logos/httpstatuslookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/httpstatuslookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/httpstatuslookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/httpstatuslookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-httpstatuslookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-httpstatuslookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 219ms
-- **Health Status:** 99%
 
 ---
 

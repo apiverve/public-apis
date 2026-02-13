@@ -2,7 +2,7 @@
 
 > Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
 
-<img src="https://apiverve.web.app/publicapis/logos/cardgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/cardgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/cardgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/cardgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-cardgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-cardgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 828ms
-- **Health Status:** 99%
 
 ---
 

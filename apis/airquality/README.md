@@ -2,7 +2,7 @@
 
 > Air Quality is a simple tool for getting air quality data. It returns the air quality index, o3, pm2, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/airquality.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/airquality.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/airquality.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/airquality)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-airquality.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-airquality/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 1012ms
-- **Health Status:** 99%
 
 ---
 

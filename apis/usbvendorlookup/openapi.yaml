@@ -1,0 +1,59 @@
+openapi: 3.0.0
+info:
+  title: USB Vendor Lookup
+  version: '1'
+  description: >-
+    USB Vendor Lookup allows you to identify USB device manufacturers and
+    products by their vendor ID and product ID. It uses the Linux USB ID
+    Repository, which contains thousands of USB vendor and product identifiers.
+  contact:
+    name: APIVerve
+    url: https://apiverve.com
+    email: hello@apiverve.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.apiverve.com
+    description: Production server
+security:
+  - ApiKeyAuth: []
+paths:
+  /v1/usbvendorlookup:
+    get:
+      summary: USB Vendor Lookup
+      description: >-
+        USB Vendor Lookup allows you to identify USB device manufacturers and
+        products by their vendor ID and product ID. It uses the Linux USB ID
+        Repository, which contains thousands of USB vendor and product
+        identifiers.
+      operationId: usbvendorlookup
+      tags:
+        - null
+      parameters: []
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+                  data:
+                    type: object
+        '400':
+          description: Bad Request - Invalid parameters
+        '401':
+          description: Unauthorized - Invalid or missing API key
+        '429':
+          description: Too Many Requests - Rate limit exceeded
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: x-api-key
+  schemas: {}

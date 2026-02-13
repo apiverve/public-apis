@@ -2,7 +2,7 @@
 
 > Dice Roller is a tool for rolling dice using standard RPG notation (XdY format). It supports multiple dice, various die sizes, modifiers, and provides statistics including min, max, average, and theoretical values for gaming and simulations.
 
-<img src="https://apiverve.web.app/publicapis/logos/diceroller.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/diceroller.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/diceroller.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/diceroller)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-diceroller.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-diceroller/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 119ms
-- **Health Status:** 99%
 
 ---
 

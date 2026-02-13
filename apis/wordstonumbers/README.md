@@ -2,7 +2,7 @@
 
 > Words to Numbers is a simple tool for converting words to numbers. It returns the words in numbers.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordstonumbers.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordstonumbers.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordstonumbers.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordstonumbers)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordstonumbers.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordstonumbers/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 842ms
-- **Health Status:** 99%
 
 ---
 

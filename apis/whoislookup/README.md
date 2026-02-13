@@ -2,7 +2,7 @@
 
 > Whois Lookup is a simple tool for checking the registration of a domain name. It returns the name and contact information of the domain owner, the domain registrar, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/whoislookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/whoislookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/whoislookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/whoislookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-whoislookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-whoislookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 1706ms
-- **Health Status:** 99%
 
 ---
 

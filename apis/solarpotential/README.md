@@ -2,7 +2,7 @@
 
 > Solar Potential is a simple tool for getting the estimated annual energy production of a PV system. It returns the estimated annual energy production of a PV system.
 
-<img src="https://apiverve.web.app/publicapis/logos/solarpotential.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/solarpotential.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/solarpotential.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/solarpotential)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-solarpotential.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-solarpotential/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Weather
 - **Average Latency:** 295ms
-- **Health Status:** 99%
 
 ---
 

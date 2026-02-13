@@ -2,7 +2,7 @@
 
 > Title Capitalization is a simple tool for converting title text to various cases. It returns the text converted to your desired case.
 
-<img src="https://apiverve.web.app/publicapis/logos/titlecapitalization.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/titlecapitalization.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/titlecapitalization.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/titlecapitalization)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-titlecapitalization.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-titlecapitalization/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 904ms
-- **Health Status:** 99%
 
 ---
 

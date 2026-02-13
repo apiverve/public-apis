@@ -8,7 +8,7 @@
 
 ## BMI Calculator
 
-<img src="https://apiverve.web.app/publicapis/logos/bmicalculator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/bmicalculator.svg" width="60" height="60" />
 
 BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.
 
@@ -18,7 +18,7 @@ BMI Calculator is a simple tool for calculating body mass index. It returns the 
 
 ## Exercises
 
-<img src="https://apiverve.web.app/publicapis/logos/exercises.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/exercises.svg" width="60" height="60" />
 
 Exercises is a simple tool for getting exercise information. It returns information on various exercises.
 

@@ -2,7 +2,7 @@
 
 > Shoe Size Converter is a tool for converting shoe sizes between US, UK, EU, CM, JP, AU, MX, and KR standards. It supports men, women, unisex, and child sizes.
 
-<img src="https://apiverve.web.app/publicapis/logos/shoesizeconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/shoesizeconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/shoesizeconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/shoesizeconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-shoesizeconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-shoesizeconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 243ms
-- **Health Status:** 99%
 
 ---
 

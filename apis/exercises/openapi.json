@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Exercises is a simple tool for getting exercise information. It returns information on various exercises.",
         "operationId": "exercises",
         "tags": [
-          15
+          null
         ],
         "parameters": [],
         "responses": {

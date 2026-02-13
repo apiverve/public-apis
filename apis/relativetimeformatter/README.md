@@ -2,7 +2,7 @@
 
 > Relative Time Formatter is a tool for converting timestamps and dates to human-readable relative time formats like '2 hours ago' or 'in 3 days'. It supports multiple styles and custom reference times for flexible time representation.
 
-<img src="https://apiverve.web.app/publicapis/logos/relativetimeformatter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/relativetimeformatter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/relativetimeformatter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/relativetimeformatter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-relativetimeformatter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-relativetimeformatter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 176ms
-- **Health Status:** 99%
 
 ---
 

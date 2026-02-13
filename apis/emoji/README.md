@@ -2,7 +2,7 @@
 
 > Emoji is a simple tool for getting emoji data. It returns the emoji name, category, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/emoji.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/emoji.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/emoji.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/emoji)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-emoji.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-emoji/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 741ms
-- **Health Status:** 99%
 
 ---
 

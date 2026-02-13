@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Mad Libs Generator creates fill-in-the-blank story templates with prompts for nouns, verbs, adjectives, and more.",
         "operationId": "madlibs",
         "tags": [
-          27
+          null
         ],
         "parameters": [],
         "responses": {

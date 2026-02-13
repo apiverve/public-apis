@@ -2,7 +2,7 @@
 
 > BIMI Validator checks if a domain has a valid BIMI record published in DNS. BIMI enables domain owners to display verified logos in supported email clients.
 
-<img src="https://apiverve.web.app/publicapis/logos/bimivalidator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/bimivalidator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/bimivalidator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/bimivalidator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-bimivalidator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-bimivalidator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Domain Data
 - **Average Latency:** 210ms
-- **Health Status:** 99%
 
 ---
 

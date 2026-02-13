@@ -1,6 +1,6 @@
 # 📦 Data Validation
 
-> 8 APIs in this category
+> 9 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -8,7 +8,7 @@
 
 ## Card Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/cardvalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/cardvalidator.svg" width="60" height="60" />
 
 Card Validator is a simple tool for validating if a card number is valid or not. It checks the card number format and the Luhn algorithm to see if the card number is valid.
 
@@ -18,7 +18,7 @@ Card Validator is a simple tool for validating if a card number is valid or not.
 
 ## Disposable Email Checker
 
-<img src="https://apiverve.web.app/publicapis/logos/emaildisposablechecker.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/emaildisposablechecker.svg" width="60" height="60" />
 
 Email Disposable Checker is a simple tool for checking if an email address is disposable. It returns if the email address is disposable or not.
 
@@ -26,9 +26,19 @@ Email Disposable Checker is a simple tool for checking if an email address is di
 
 ---
 
+## Disposable Phone Number Checker
+
+<img src="https://assets.apiverve.com/logos/disposablephone.svg" width="60" height="60" />
+
+Disposable Phone Number Checker is an API that checks whether a given phone number is a known disposable or temporary number. Useful for fraud prevention, user verification, and security.
+
+**[View Documentation →](https://apiverve.com/marketplace/disposablephone)** | **[OpenAPI Spec](../apis/disposablephone/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## Email Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/emailvalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/emailvalidator.svg" width="60" height="60" />
 
 Email Validator is a simple tool for validating if an email address is valid or not. It checks the email address format and the domain records to see if the email address is valid.
 
@@ -38,7 +48,7 @@ Email Validator is a simple tool for validating if an email address is valid or 
 
 ## Password Strength
 
-<img src="https://apiverve.web.app/publicapis/logos/passwordstrength.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/passwordstrength.svg" width="60" height="60" />
 
 Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
 
@@ -48,7 +58,7 @@ Password Strength is a simple tool for checking the strength of a password. It r
 
 ## Phone Number Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/phonenumbervalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/phonenumbervalidator.svg" width="60" height="60" />
 
 Phone Number Validator is a simple tool for validating if a phone number is valid or not. It checks the phone number format and the country code to see if the phone number is valid.
 
@@ -56,9 +66,9 @@ Phone Number Validator is a simple tool for validating if a phone number is vali
 
 ---
 
-## SEO Validator
+## SEO Quick Validator
 
-<img src="https://apiverve.web.app/publicapis/logos/seovalidator.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/seovalidator.svg" width="60" height="60" />
 
 SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
 
@@ -68,7 +78,7 @@ SEO Validator is a simple tool for validating SEO metrics. It returns a list of 
 
 ## Spam Detector
 
-<img src="https://apiverve.web.app/publicapis/logos/spamdetector.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/spamdetector.svg" width="60" height="60" />
 
 Spam Detector is a simple tool for detecting spam in a text. It utilize an email address or IP address to validate the given text against the spam database.
 
@@ -78,7 +88,7 @@ Spam Detector is a simple tool for detecting spam in a text. It utilize an email
 
 ## Username Profanity
 
-<img src="https://apiverve.web.app/publicapis/logos/usernameprofanity.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/usernameprofanity.svg" width="60" height="60" />
 
 Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.
 

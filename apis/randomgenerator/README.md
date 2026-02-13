@@ -2,7 +2,7 @@
 
 > Random Generator is a simple tool for generating random data. It returns random data such as numbers, strings, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/randomgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/randomgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/randomgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/randomgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-randomgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-randomgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 2057ms
-- **Health Status:** 99%
 
 ---
 

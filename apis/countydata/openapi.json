@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "County Data is a simple tool for getting data about US counties. It returns information such as average income, area, and more based on the county name provided.",
         "operationId": "countydata",
         "tags": [
-          14
+          null
         ],
         "parameters": [],
         "responses": {

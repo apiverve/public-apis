@@ -2,7 +2,7 @@
 
 > Unicode Escape/Unescape is a tool for converting characters to Unicode escape sequences and vice versa. It handles all Unicode characters including emojis and surrogate pairs.
 
-<img src="https://apiverve.web.app/publicapis/logos/unicodeescape.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/unicodeescape.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/unicodeescape.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/unicodeescape)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-unicodeescape.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-unicodeescape/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Conversion
 - **Average Latency:** 182ms
-- **Health Status:** 99%
 
 ---
 

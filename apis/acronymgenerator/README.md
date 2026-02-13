@@ -2,7 +2,7 @@
 
 > Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
 
-<img src="https://apiverve.web.app/publicapis/logos/acronymgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/acronymgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/acronymgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-acronymgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-acronymgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1944ms
-- **Health Status:** 99%
 
 ---
 

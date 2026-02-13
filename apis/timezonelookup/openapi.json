@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Timezone Lookup is a simple tool for looking up timezone data. It returns the timezone name, offset, and more.",
         "operationId": "timezonelookup",
         "tags": [
-          4
+          null
         ],
         "parameters": [],
         "responses": {

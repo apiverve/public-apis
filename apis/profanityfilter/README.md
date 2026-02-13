@@ -2,7 +2,7 @@
 
 > Profanity Filter is a simple tool for filtering out profanity words from a text. It returns the text with the profanity words replaced by placeholders.
 
-<img src="https://apiverve.web.app/publicapis/logos/profanityfilter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/profanityfilter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/profanityfilter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/profanityfilter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-profanityfilter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-profanityfilter/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
-- **Average Latency:** 1050ms
-- **Health Status:** 99%
+- **Category:** Text Processing
+- **Average Latency:** 1063ms
 
 ---
 

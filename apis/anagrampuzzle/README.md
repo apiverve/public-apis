@@ -2,7 +2,7 @@
 
 > Anagram Puzzle Generator creates word puzzles where players rearrange scrambled letters to form valid words, with optional hints.
 
-<img src="https://apiverve.web.app/publicapis/logos/anagrampuzzle.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/anagrampuzzle.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/anagrampuzzle.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/anagrampuzzle)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-anagrampuzzle.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-anagrampuzzle/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 324ms
-- **Health Status:** 99%
 
 ---
 

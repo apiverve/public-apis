@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Lexicon is a simple tool for analyzing words. It returns various properties of the word.",
         "operationId": "lexicon",
         "tags": [
-          22
+          null
         ],
         "parameters": [],
         "responses": {

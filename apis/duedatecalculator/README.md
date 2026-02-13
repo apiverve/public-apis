@@ -2,7 +2,7 @@
 
 > Due Date Calculator estimates pregnancy due dates using either last menstrual period or conception date, providing comprehensive pregnancy timeline information.
 
-<img src="https://apiverve.web.app/publicapis/logos/duedatecalculator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/duedatecalculator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/duedatecalculator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/duedatecalculator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-duedatecalculator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-duedatecalculator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Lifestyle
 - **Average Latency:** 211ms
-- **Health Status:** 99%
 
 ---
 

@@ -9,7 +9,7 @@ info:
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -28,7 +28,7 @@ paths:
         numeric, hexadecimal, and Base58 with customizable length.
       operationId: shortcodegenerator
       tags:
-        - 6
+        - null
       parameters: []
       responses:
         '200':

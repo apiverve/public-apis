@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Zip Codes Lookup is a simple tool for looking up the zip codes of a city. It returns the zip codes of the city.",
         "operationId": "zipcodes",
         "tags": [
-          14
+          null
         ],
         "parameters": [],
         "responses": {

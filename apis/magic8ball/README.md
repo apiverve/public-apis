@@ -2,7 +2,7 @@
 
 > Magic 8-Ball is a fun tool that provides random predictions and answers like the classic toy. It returns one of 20 classic Magic 8-Ball responses categorized as affirmative, negative, or non-committal.
 
-<img src="https://apiverve.web.app/publicapis/logos/magic8ball.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/magic8ball.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/magic8ball.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/magic8ball)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-magic8ball.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-magic8ball/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 118ms
-- **Health Status:** 99%
 
 ---
 

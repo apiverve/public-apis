@@ -2,7 +2,7 @@
 
 > Silver Price is a simple tool for getting the current price of silver. It returns the current price of silver in any currency and in various units.
 
-<img src="https://apiverve.web.app/publicapis/logos/silverprice.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/silverprice.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/silverprice.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/silverprice)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-silverprice.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-silverprice/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 693ms
-- **Health Status:** 99%
 
 ---
 

@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  title: ZIP Demographics
+  version: '1'
+  description: >-
+    ZIP Demographics provides detailed demographic data for any US ZIP code
+    including population, income, education, housing, employment, and racial
+    composition from the US Census American Community Survey.
+  contact:
+    name: APIVerve
+    url: https://apiverve.com
+    email: hello@apiverve.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.apiverve.com
+    description: Production server
+security:
+  - ApiKeyAuth: []
+paths:
+  /v1/zipdemographics:
+    get:
+      summary: ZIP Demographics
+      description: >-
+        ZIP Demographics provides detailed demographic data for any US ZIP code
+        including population, income, education, housing, employment, and racial
+        composition from the US Census American Community Survey.
+      operationId: zipdemographics
+      tags:
+        - null
+      parameters: []
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+                  data:
+                    type: object
+        '400':
+          description: Bad Request - Invalid parameters
+        '401':
+          description: Unauthorized - Invalid or missing API key
+        '429':
+          description: Too Many Requests - Rate limit exceeded
+components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: x-api-key
+  schemas: {}

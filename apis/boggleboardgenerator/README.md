@@ -2,7 +2,7 @@
 
 > Boggle Board Generator creates random Boggle game boards with authentic dice configurations, HTML rendering, and downloadable PNG images.
 
-<img src="https://apiverve.web.app/publicapis/logos/boggleboardgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/boggleboardgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/boggleboardgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/boggleboardgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-boggleboardgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-boggleboardgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1543ms
-- **Health Status:** 99%
 
 ---
 

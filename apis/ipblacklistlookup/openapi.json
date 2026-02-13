@@ -3,11 +3,11 @@
   "info": {
     "title": "IP Blacklist Lookup",
     "version": "1",
-    "description": "IP Blacklist Lookup is a simple tool for looking up if an IP address is in a blacklist. It returns if the IP is found in a blacklist.",
+    "description": "IP Blacklist Lookup checks whether a given IP address appears on known malicious IP blocklists. Identifies both inbound threats (attackers, spammers) and outbound threats (C2 servers, malware hosts).",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -29,10 +29,10 @@
     "/v1/ipblacklistlookup": {
       "get": {
         "summary": "IP Blacklist Lookup",
-        "description": "IP Blacklist Lookup is a simple tool for looking up if an IP address is in a blacklist. It returns if the IP is found in a blacklist.",
+        "description": "IP Blacklist Lookup checks whether a given IP address appears on known malicious IP blocklists. Identifies both inbound threats (attackers, spammers) and outbound threats (C2 servers, malware hosts).",
         "operationId": "ipblacklistlookup",
         "tags": [
-          17
+          null
         ],
         "parameters": [],
         "responses": {

@@ -2,7 +2,7 @@
 
 > Word Pronunciation is a simple tool for getting the pronunciation of a word. It returns the pronunciation of the word provided.
 
-<img src="https://apiverve.web.app/publicapis/logos/wordpronunciation.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/wordpronunciation.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/wordpronunciation.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/wordpronunciation)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-wordpronunciation.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-wordpronunciation/)
@@ -77,9 +77,8 @@ This API is also available via:
 
 ## 📊 API Information
 
-- **Category:** Text Analysis
+- **Category:** Text Processing
 - **Average Latency:** 554ms
-- **Health Status:** 99%
 
 ---
 

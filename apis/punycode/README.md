@@ -2,7 +2,7 @@
 
 > Convert between Unicode and Punycode for internationalized domain names (IDN).
 
-<img src="https://apiverve.web.app/publicapis/logos/punycode.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/punycode.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/punycode.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/punycode)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-punycode.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-punycode/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Data Conversion
-- **Average Latency:** 20ms
-- **Health Status:** 99%
+- **Average Latency:** 105ms
 
 ---
 

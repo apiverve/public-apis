@@ -2,7 +2,7 @@
 
 > Sales Tax Lookup is a simple tool for looking up the sales tax rate of a location. It returns the sales tax rate.
 
-<img src="https://apiverve.web.app/publicapis/logos/salestax.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/salestax.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/salestax.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/salestax)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-salestax.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-salestax/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Finance
 - **Average Latency:** 968ms
-- **Health Status:** 99%
 
 ---
 

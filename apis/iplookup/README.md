@@ -2,7 +2,7 @@
 
 > IP Lookup is a simple tool for looking up the location of an IP address. It returns the country, city, and more.
 
-<img src="https://apiverve.web.app/publicapis/logos/iplookup.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/iplookup.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/iplookup.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/iplookup)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-iplookup.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-iplookup/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Networking
 - **Average Latency:** 1008ms
-- **Health Status:** 99%
 
 ---
 

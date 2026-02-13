@@ -2,7 +2,7 @@
 
 > Generate complete RPG-style characters with race, class, background, stats, and personality.
 
-<img src="https://apiverve.web.app/publicapis/logos/gamecharacter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/gamecharacter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/gamecharacter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/gamecharacter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-gamecharacter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-gamecharacter/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Games
-- **Average Latency:** 20ms
-- **Health Status:** 99%
+- **Average Latency:** 148ms
 
 ---
 

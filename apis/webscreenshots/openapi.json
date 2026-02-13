@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Web Screenshots is a simple tool for capturing screenshots of web pages. It returns an image screenshot of the web page provided.",
         "operationId": "webscreenshots",
         "tags": [
-          7
+          null
         ],
         "parameters": [],
         "responses": {

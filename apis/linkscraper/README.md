@@ -2,7 +2,7 @@
 
 > Link Scraper is a simple tool for scraping web page links. It returns all the links on a web page.
 
-<img src="https://apiverve.web.app/publicapis/logos/linkscraper.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/linkscraper.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/linkscraper.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/linkscraper)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-linkscraper.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-linkscraper/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Scraping
 - **Average Latency:** 1906ms
-- **Health Status:** 99%
 
 ---
 

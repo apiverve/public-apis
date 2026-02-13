@@ -2,7 +2,7 @@
 
 > Initialism Generator creates initialisms from phrases by extracting first letters of significant words, with options for filtering and formatting.
 
-<img src="https://apiverve.web.app/publicapis/logos/initialismgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/initialismgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/initialismgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/initialismgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-initialismgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-initialismgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 324ms
-- **Health Status:** 99%
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Bingo Card Generator creates customizable bingo cards with random numbers, HTML rendering, and downloadable PNG images.
 
-<img src="https://apiverve.web.app/publicapis/logos/bingocardgenerator.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/bingocardgenerator.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/bingocardgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/bingocardgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-bingocardgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-bingocardgenerator/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Generation
 - **Average Latency:** 1847ms
-- **Health Status:** 99%
 
 ---
 

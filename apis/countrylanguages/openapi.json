@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "Country Languages is a simple tool for getting the list of official and commonly spoken languages in a specific country.",
         "operationId": "countrylanguages",
         "tags": [
-          14
+          null
         ],
         "parameters": [],
         "responses": {

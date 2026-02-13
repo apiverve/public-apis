@@ -7,7 +7,7 @@
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
-      "email": "support@apiverve.com"
+      "email": "hello@apiverve.com"
     },
     "license": {
       "name": "MIT",
@@ -32,7 +32,7 @@
         "description": "World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.",
         "operationId": "worldtime",
         "tags": [
-          4
+          null
         ],
         "parameters": [],
         "responses": {

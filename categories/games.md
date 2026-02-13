@@ -8,7 +8,7 @@
 
 ## Acrostic Puzzle Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/acrostic.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/acrostic.svg" width="60" height="60" />
 
 Acrostic Puzzle Generator creates puzzles where the first letters of answer words spell out a hidden keyword.
 
@@ -18,7 +18,7 @@ Acrostic Puzzle Generator creates puzzles where the first letters of answer word
 
 ## Anagram Puzzle Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/anagrampuzzle.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/anagrampuzzle.svg" width="60" height="60" />
 
 Anagram Puzzle Generator creates word puzzles where players rearrange scrambled letters to form valid words, with optional hints.
 
@@ -28,7 +28,7 @@ Anagram Puzzle Generator creates word puzzles where players rearrange scrambled 
 
 ## Card Deck Shuffler
 
-<img src="https://apiverve.web.app/publicapis/logos/carddeckshuffler.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/carddeckshuffler.svg" width="60" height="60" />
 
 Card Deck Shuffler is a tool for shuffling standard playing card decks. It supports multiple decks, optional jokers, and different shuffling methods to generate randomized card sequences for games and simulations.
 
@@ -38,7 +38,7 @@ Card Deck Shuffler is a tool for shuffling standard playing card decks. It suppo
 
 ## Coin Flipper
 
-<img src="https://apiverve.web.app/publicapis/logos/coinflipper.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/coinflipper.svg" width="60" height="60" />
 
 Coin Flipper is a tool for simulating coin flips. It can flip multiple coins at once and provides statistics including heads/tails counts, percentages, streaks, and fairness analysis for probability experiments and gaming.
 
@@ -48,7 +48,7 @@ Coin Flipper is a tool for simulating coin flips. It can flip multiple coins at 
 
 ## Crossword Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/crossword.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/crossword.svg" width="60" height="60" />
 
 Crossword Generator creates crossword puzzles with intersecting words, numbered clues, and themed word selection.
 
@@ -58,7 +58,7 @@ Crossword Generator creates crossword puzzles with intersecting words, numbered 
 
 ## Cryptogram Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/cryptogram.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/cryptogram.svg" width="60" height="60" />
 
 Cryptogram Generator creates letter substitution cipher puzzles where each letter is replaced with another letter consistently throughout the text.
 
@@ -68,7 +68,7 @@ Cryptogram Generator creates letter substitution cipher puzzles where each lette
 
 ## Dice Roller
 
-<img src="https://apiverve.web.app/publicapis/logos/diceroller.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/diceroller.svg" width="60" height="60" />
 
 Dice Roller is a tool for rolling dice using standard RPG notation (XdY format). It supports multiple dice, various die sizes, modifiers, and provides statistics including min, max, average, and theoretical values for gaming and simulations.
 
@@ -78,7 +78,7 @@ Dice Roller is a tool for rolling dice using standard RPG notation (XdY format).
 
 ## Fill in the Blanks Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/fillintheblanks.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/fillintheblanks.svg" width="60" height="60" />
 
 Fill in the Blanks Generator creates completion puzzles from idioms, proverbs, quotes, science facts, and geography trivia.
 
@@ -88,7 +88,7 @@ Fill in the Blanks Generator creates completion puzzles from idioms, proverbs, q
 
 ## Fortune Cookie Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/fortunecookie.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/fortunecookie.svg" width="60" height="60" />
 
 Fortune Cookie Generator creates authentic fortune cookie messages including wisdom, predictions, advice, humor, and motivational quotes.
 
@@ -98,7 +98,7 @@ Fortune Cookie Generator creates authentic fortune cookie messages including wis
 
 ## Game Character Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/gamecharacter.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/gamecharacter.svg" width="60" height="60" />
 
 Generate complete RPG-style characters with race, class, background, stats, and personality.
 
@@ -108,7 +108,7 @@ Generate complete RPG-style characters with race, class, background, stats, and 
 
 ## Hangman Word Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/hangmanword.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/hangmanword.svg" width="60" height="60" />
 
 Hangman Word Generator provides random words for hangman games with category filtering and difficulty levels based on word length.
 
@@ -118,7 +118,7 @@ Hangman Word Generator provides random words for hangman games with category fil
 
 ## Lottery Number Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/lotterypicker.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/lotterypicker.svg" width="60" height="60" />
 
 Lottery Number Generator creates random lottery numbers for various popular games including Powerball, Mega Millions, EuroMillions, and custom lottery configurations.
 
@@ -128,7 +128,7 @@ Lottery Number Generator creates random lottery numbers for various popular game
 
 ## Mad Libs Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/madlibs.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/madlibs.svg" width="60" height="60" />
 
 Mad Libs Generator creates fill-in-the-blank story templates with prompts for nouns, verbs, adjectives, and more.
 
@@ -138,7 +138,7 @@ Mad Libs Generator creates fill-in-the-blank story templates with prompts for no
 
 ## Maze Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/maze.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/maze.svg" width="60" height="60" />
 
 Maze Generator creates random mazes using recursive backtracking algorithm with customizable size and difficulty.
 
@@ -148,7 +148,7 @@ Maze Generator creates random mazes using recursive backtracking algorithm with 
 
 ## Rock Paper Scissors
 
-<img src="https://apiverve.web.app/publicapis/logos/rockpaperscissors.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/rockpaperscissors.svg" width="60" height="60" />
 
 Rock Paper Scissors API simulates the classic hand game with detailed outcome analysis, statistics, and support for multiple rounds.
 
@@ -158,7 +158,7 @@ Rock Paper Scissors API simulates the classic hand game with detailed outcome an
 
 ## Slot Machine Simulator
 
-<img src="https://apiverve.web.app/publicapis/logos/slotmachine.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/slotmachine.svg" width="60" height="60" />
 
 Slot Machine Simulator is a tool for simulating slot machine spins with realistic reel symbols and payout calculations. It supports customizable number of reels, bet amounts, and multiple spins with detailed win/loss statistics.
 
@@ -168,7 +168,7 @@ Slot Machine Simulator is a tool for simulating slot machine spins with realisti
 
 ## Spelling Bee Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/spellingbee.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/spellingbee.svg" width="60" height="60" />
 
 Spelling Bee Generator creates word puzzles with 7 letters where players form words using a required center letter.
 
@@ -178,7 +178,7 @@ Spelling Bee Generator creates word puzzles with 7 letters where players form wo
 
 ## Superhero Name Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/superheroname.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/superheroname.svg" width="60" height="60" />
 
 Generate unique superhero names using dynamic templates and word combinations.
 
@@ -188,7 +188,7 @@ Generate unique superhero names using dynamic templates and word combinations.
 
 ## Word Ladder Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/wordladder.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/wordladder.svg" width="60" height="60" />
 
 Word Ladder Generator creates puzzles where players transform one word into another by changing one letter at a time, with each step forming a valid word.
 
@@ -198,7 +198,7 @@ Word Ladder Generator creates puzzles where players transform one word into anot
 
 ## Word Scramble Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/wordscramble.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/wordscramble.svg" width="60" height="60" />
 
 Word Scramble Generator creates puzzles where players unscramble letters to form words, with optional hints from dictionary definitions.
 
@@ -208,7 +208,7 @@ Word Scramble Generator creates puzzles where players unscramble letters to form
 
 ## Word Search Generator
 
-<img src="https://apiverve.web.app/publicapis/logos/wordsearch.svg" width="60" height="60" />
+<img src="https://assets.apiverve.com/logos/wordsearch.svg" width="60" height="60" />
 
 Word Search Generator creates customizable word search puzzles with configurable grid size, word placement, and difficulty levels.
 

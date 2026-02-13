@@ -2,7 +2,7 @@
 
 > Calculate permutations (P(n,r)) and combinations (C(n,r)) for any given values of n and r.
 
-<img src="https://apiverve.web.app/publicapis/logos/permutationcombination.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/permutationcombination.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/permutationcombination.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/permutationcombination)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-permutationcombination.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-permutationcombination/)
@@ -78,8 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Math/Calculations
-- **Average Latency:** 25ms
-- **Health Status:** 99%
+- **Average Latency:** 123ms
 
 ---
 

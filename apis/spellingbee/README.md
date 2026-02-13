@@ -2,7 +2,7 @@
 
 > Spelling Bee Generator creates word puzzles with 7 letters where players form words using a required center letter.
 
-<img src="https://apiverve.web.app/publicapis/logos/spellingbee.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/spellingbee.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/spellingbee.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/spellingbee)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-spellingbee.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-spellingbee/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Games
 - **Average Latency:** 456ms
-- **Health Status:** 99%
 
 ---
 

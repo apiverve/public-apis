@@ -2,7 +2,7 @@
 
 > Image to Text is a simple tool for extracting text from images. It returns the extracted text.
 
-<img src="https://apiverve.web.app/publicapis/logos/imagetotext.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/imagetotext.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/imagetotext.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/imagetotext)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-imagetotext.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-imagetotext/)
@@ -15,9 +15,14 @@
 ## 🚀 Quick Start
 
 ```bash
-curl -X GET "https://api.apiverve.com/v1/imagetotext" \
-  -H "x-api-key: YOUR_API_KEY"
+curl -X POST "https://api.apiverve.com/v1/imagetotext" \
+  -H "x-api-key: YOUR_API_KEY" \
+  -F "image=@/path/to/your/image.jpg"
 ```
+
+**Note:** This API requires a file upload using multipart/form-data.
+- Supported formats: .jpg, .jpeg, .png, .gif
+- Maximum file size: 5MB
 
 [Get your API key →](https://dashboard.apiverve.com)
 
@@ -79,7 +84,6 @@ This API is also available via:
 
 - **Category:** AI/Computer Vision
 - **Average Latency:** 3951ms
-- **Health Status:** 99%
 
 ---
 

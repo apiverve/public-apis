@@ -2,7 +2,7 @@
 
 > Ring Size Converter is a tool for converting ring sizes between US, UK, EU, JP, CH, and AU standards. It can also convert from diameter measurements in millimeters.
 
-<img src="https://apiverve.web.app/publicapis/logos/ringsizeconverter.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/ringsizeconverter.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/ringsizeconverter.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/ringsizeconverter)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-ringsizeconverter.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-ringsizeconverter/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Reference Data
 - **Average Latency:** 268ms
-- **Health Status:** 99%
 
 ---
 

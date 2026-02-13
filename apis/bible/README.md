@@ -2,7 +2,7 @@
 
 > Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.
 
-<img src="https://apiverve.web.app/publicapis/logos/bible.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/bible.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/bible.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/bible)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-bible.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-bible/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Data Lookup
 - **Average Latency:** 947ms
-- **Health Status:** 99%
 
 ---
 

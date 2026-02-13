@@ -3,12 +3,13 @@ info:
   title: QR Code Generator
   version: '1'
   description: >-
-    QR Code Generator is a simple tool for generating QR codes. It returns a PNG
-    image of the QR code.
+    QR Code Generator creates customizable QR codes with support for colors,
+    gradients, logos, and various styling options. Generate professional QR
+    codes for marketing, packaging, and digital experiences.
   contact:
     name: APIVerve
     url: https://apiverve.com
-    email: support@apiverve.com
+    email: hello@apiverve.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
@@ -22,11 +23,12 @@ paths:
     get:
       summary: QR Code Generator
       description: >-
-        QR Code Generator is a simple tool for generating QR codes. It returns a
-        PNG image of the QR code.
+        QR Code Generator creates customizable QR codes with support for colors,
+        gradients, logos, and various styling options. Generate professional QR
+        codes for marketing, packaging, and digital experiences.
       operationId: qrcodegenerator
       tags:
-        - 6
+        - null
       parameters: []
       responses:
         '200':

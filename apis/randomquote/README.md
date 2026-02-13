@@ -2,7 +2,7 @@
 
 > Random Quote is a simple tool for getting random quotes. It returns a random quote from a collection of quotes.
 
-<img src="https://apiverve.web.app/publicapis/logos/randomquote.svg" width="80" height="80" />
+<img src="https://assets.apiverve.com/logos/randomquote.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/randomquote.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/randomquote)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-randomquote.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-randomquote/)
@@ -79,7 +79,6 @@ This API is also available via:
 
 - **Category:** Entertainment
 - **Average Latency:** 805ms
-- **Health Status:** 99%
 
 ---
 
