@@ -1,4 +1,4 @@
-# 📦 Images
+# Images
 
 > 7 APIs in this category
 

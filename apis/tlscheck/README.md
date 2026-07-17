@@ -1,6 +1,6 @@
 # TLS Checker
 
-> TLS Check is an API that inspects the TLS/SSL configuration of a server identified by its IP address. It reports supported protocols, cipher suites, and potential vulnerabilities.
+> TLS Check inspects which TLS/SSL protocol versions a server supports. It probes TLS 1.0 through 1.3, reports which are negotiable, and derives a security verdict — the highest supported version, whether deprecated protocols are still exposed, and a composite risk score.
 
 <img src="https://assets.apiverve.com/logos/tlscheck.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/tlscheck" \
 
 ## 📖 Description
 
-TLS Check is an API that inspects the TLS/SSL configuration of a server identified by its IP address. It reports supported protocols, cipher suites, and potential vulnerabilities.
+TLS Check inspects which TLS/SSL protocol versions a server supports. It probes TLS 1.0 through 1.3, reports which are negotiable, and derives a security verdict — the highest supported version, whether deprecated protocols are still exposed, and a composite risk score.
 
 ---
 

@@ -3,7 +3,7 @@
   "info": {
     "title": "Trade Balance",
     "version": "1",
-    "description": "Trade Balance provides US international trade data including customs duties and trade flow information from the Treasury Department.",
+    "description": "Trade Balance provides monthly US international trade data - exports, imports, and the resulting goods-and-services trade balance (deficit or surplus) on a Balance of Payments basis.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -29,7 +29,7 @@
     "/v1/tradebalance": {
       "get": {
         "summary": "Trade Balance",
-        "description": "Trade Balance provides US international trade data including customs duties and trade flow information from the Treasury Department.",
+        "description": "Trade Balance provides monthly US international trade data - exports, imports, and the resulting goods-and-services trade balance (deficit or surplus) on a Balance of Payments basis.",
         "operationId": "tradebalance",
         "tags": [
           null

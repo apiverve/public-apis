@@ -1,6 +1,6 @@
 # SEO Quick Validator
 
-> SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
+> SEO Validator is a simple tool for validating SEO metrics. It returns a structured breakdown of on-page SEO checks, a list of issues to fix, and a composite 0-100 SEO score with a letter grade for the web page.
 
 <img src="https://assets.apiverve.com/logos/seovalidator.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/seovalidator" \
 
 ## 📖 Description
 
-SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
+SEO Validator is a simple tool for validating SEO metrics. It returns a structured breakdown of on-page SEO checks, a list of issues to fix, and a composite 0-100 SEO score with a letter grade for the web page.
 
 ---
 

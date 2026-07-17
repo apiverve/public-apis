@@ -3,7 +3,7 @@
   "info": {
     "title": "Bot Detector",
     "version": "1",
-    "description": "Bot Detector is an API that analyzes user agent strings to identify bots, crawlers, and automated software. Useful for security, analytics, and access control.",
+    "description": "Bot Detector analyzes user agent strings to identify bots, crawlers, and automated software. It matches against a database of known bots and adds heuristics that catch automated clients not in the database, returning the bot's category, reputation and a composite risk score. Useful for security, analytics, and access control.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -29,7 +29,7 @@
     "/v1/botdetector": {
       "get": {
         "summary": "Bot Detector",
-        "description": "Bot Detector is an API that analyzes user agent strings to identify bots, crawlers, and automated software. Useful for security, analytics, and access control.",
+        "description": "Bot Detector analyzes user agent strings to identify bots, crawlers, and automated software. It matches against a database of known bots and adds heuristics that catch automated clients not in the database, returning the bot's category, reputation and a composite risk score. Useful for security, analytics, and access control.",
         "operationId": "botdetector",
         "tags": [
           null

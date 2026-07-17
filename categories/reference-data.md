@@ -1,4 +1,4 @@
-# 📦 Reference Data
+# Reference Data
 
 > 11 APIs in this category
 

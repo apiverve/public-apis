@@ -1,6 +1,6 @@
 # Trade Balance
 
-> Trade Balance provides US international trade data including customs duties and trade flow information from the Treasury Department.
+> Trade Balance provides monthly US international trade data - exports, imports, and the resulting goods-and-services trade balance (deficit or surplus) on a Balance of Payments basis.
 
 <img src="https://assets.apiverve.com/logos/tradebalance.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/tradebalance" \
 
 ## 📖 Description
 
-Trade Balance provides US international trade data including customs duties and trade flow information from the Treasury Department.
+Trade Balance provides monthly US international trade data - exports, imports, and the resulting goods-and-services trade balance (deficit or surplus) on a Balance of Payments basis.
 
 ---
 

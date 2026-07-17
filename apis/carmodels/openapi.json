@@ -1,9 +1,9 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Car Models",
+    "title": "US Car Models",
     "version": "1",
-    "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.",
+    "description": "US Car Models provides comprehensive data on vehicles sold in the United States. Returns detailed specifications including fuel economy (MPG), engine details, transmission, and more for cars from 1984 to present.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -28,8 +28,8 @@
   "paths": {
     "/v1/carmodels": {
       "get": {
-        "summary": "Car Models",
-        "description": "Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.",
+        "summary": "US Car Models",
+        "description": "US Car Models provides comprehensive data on vehicles sold in the United States. Returns detailed specifications including fuel economy (MPG), engine details, transmission, and more for cars from 1984 to present.",
         "operationId": "carmodels",
         "tags": [
           null

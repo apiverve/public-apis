@@ -1,4 +1,4 @@
-# 📦 Networking
+# Networking
 
 > 14 APIs in this category
 
@@ -20,7 +20,7 @@ Bluetooth Company Lookup allows you to identify Bluetooth device manufacturers b
 
 <img src="https://assets.apiverve.com/logos/botdetector.svg" width="60" height="60" />
 
-Bot Detector is an API that analyzes user agent strings to identify bots, crawlers, and automated software. Useful for security, analytics, and access control.
+Bot Detector analyzes user agent strings to identify bots, crawlers, and automated software. It matches against a database of known bots and adds heuristics that catch automated clients not in the database, returning the bot's category, reputation and a composite risk score. Useful for security, analytics, and access control.
 
 **[View Documentation →](https://apiverve.com/marketplace/botdetector)** | **[OpenAPI Spec](../apis/botdetector/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -60,7 +60,7 @@ IP Blacklist Lookup checks whether a given IP address appears on known malicious
 
 <img src="https://assets.apiverve.com/logos/iplookup.svg" width="60" height="60" />
 
-IP Lookup is a simple tool for looking up the location of an IP address. It returns the country, city, and more.
+IP Lookup resolves an IP address to its geographic location. It returns the country, region, city, coordinates, postal code, timezone and continent, along with an accuracy radius and an EU-membership flag for compliance routing.
 
 **[View Documentation →](https://apiverve.com/marketplace/iplookup)** | **[OpenAPI Spec](../apis/iplookup/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -110,7 +110,7 @@ TLD Lookup retrieves information about any top-level domain including its type (
 
 <img src="https://assets.apiverve.com/logos/tlscheck.svg" width="60" height="60" />
 
-TLS Check is an API that inspects the TLS/SSL configuration of a server identified by its IP address. It reports supported protocols, cipher suites, and potential vulnerabilities.
+TLS Check inspects which TLS/SSL protocol versions a server supports. It probes TLS 1.0 through 1.3, reports which are negotiable, and derives a security verdict — the highest supported version, whether deprecated protocols are still exposed, and a composite risk score.
 
 **[View Documentation →](https://apiverve.com/marketplace/tlscheck)** | **[OpenAPI Spec](../apis/tlscheck/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 

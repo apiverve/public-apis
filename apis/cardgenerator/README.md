@@ -1,4 +1,4 @@
-# Card Generator
+# Test Card Generator
 
 > Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
 
@@ -6,7 +6,7 @@
 
 [![npm](https://img.shields.io/npm/v/@apiverve/cardgenerator.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/cardgenerator)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-cardgenerator.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-cardgenerator/)
-[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.CardGenerator.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.CardGenerator)
+[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.TestCardGenerator.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.TestCardGenerator)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](openapi.json)
 [![Try it](https://img.shields.io/badge/Try%20it-Postman-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -96,7 +96,7 @@ pip install apiverve-cardgenerator
 
 ### NuGet
 ```bash
-dotnet add package APIVerve.API.CardGenerator
+dotnet add package APIVerve.API.TestCardGenerator
 ```
 
 ---

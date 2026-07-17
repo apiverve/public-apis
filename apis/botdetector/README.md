@@ -1,6 +1,6 @@
 # Bot Detector
 
-> Bot Detector is an API that analyzes user agent strings to identify bots, crawlers, and automated software. Useful for security, analytics, and access control.
+> Bot Detector analyzes user agent strings to identify bots, crawlers, and automated software. It matches against a database of known bots and adds heuristics that catch automated clients not in the database, returning the bot's category, reputation and a composite risk score. Useful for security, analytics, and access control.
 
 <img src="https://assets.apiverve.com/logos/botdetector.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/botdetector" \
 
 ## 📖 Description
 
-Bot Detector is an API that analyzes user agent strings to identify bots, crawlers, and automated software. Useful for security, analytics, and access control.
+Bot Detector analyzes user agent strings to identify bots, crawlers, and automated software. It matches against a database of known bots and adds heuristics that catch automated clients not in the database, returning the bot's category, reputation and a composite risk score. Useful for security, analytics, and access control.
 
 ---
 

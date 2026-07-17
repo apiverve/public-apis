@@ -1,4 +1,4 @@
-# 📦 Food
+# Food
 
 > 2 APIs in this category
 

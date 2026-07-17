@@ -1,4 +1,4 @@
-# 📦 Data Processing
+# Data Processing
 
 > 6 APIs in this category
 

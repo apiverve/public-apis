@@ -1,4 +1,4 @@
-# 💰 Finance
+# Finance
 
 > 40 APIs in this category
 
@@ -146,6 +146,16 @@ Gold Price is a simple tool for getting the current price of gold. It returns th
 
 ---
 
+## I-Bond Rates
+
+<img src="https://assets.apiverve.com/logos/savingsbonds.svg" width="60" height="60" />
+
+I-Bond Rates provides current and historical interest rates for US Series I Savings Bonds. I-Bonds are inflation-protected savings bonds with a composite rate made up of a fixed rate plus an inflation rate that adjusts every 6 months.
+
+**[View Documentation →](https://apiverve.com/marketplace/savingsbonds)** | **[OpenAPI Spec](../apis/savingsbonds/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
 ## IFSC Lookup
 
 <img src="https://assets.apiverve.com/logos/ifsclookup.svg" width="60" height="60" />
@@ -190,7 +200,7 @@ Inflation Rate is a tool for retrieving annual inflation rate and CPI data for c
 
 <img src="https://assets.apiverve.com/logos/interestrate.svg" width="60" height="60" />
 
-Interest Rate is a tool for retrieving current central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
+Interest Rate is a tool for retrieving current and historical central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
 
 **[View Documentation →](https://apiverve.com/marketplace/interestrate)** | **[OpenAPI Spec](../apis/interestrate/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -306,16 +316,6 @@ Sales Tax Lookup is a simple tool for looking up the sales tax rate of a locatio
 
 ---
 
-## Savings Bonds
-
-<img src="https://assets.apiverve.com/logos/savingsbonds.svg" width="60" height="60" />
-
-Savings Bonds provides current and historical rates for US Savings Bonds including Series I (I Bonds) and Series EE bonds. Includes rate components, purchase limits, and comparison recommendations.
-
-**[View Documentation →](https://apiverve.com/marketplace/savingsbonds)** | **[OpenAPI Spec](../apis/savingsbonds/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
-
----
-
 ## Silver Price
 
 <img src="https://assets.apiverve.com/logos/silverprice.svg" width="60" height="60" />
@@ -370,7 +370,7 @@ SWIFT Code Lookup is a simple tool for looking up SWIFT code information. It ret
 
 <img src="https://assets.apiverve.com/logos/tradebalance.svg" width="60" height="60" />
 
-Trade Balance provides US international trade data including customs duties and trade flow information from the Treasury Department.
+Trade Balance provides monthly US international trade data - exports, imports, and the resulting goods-and-services trade balance (deficit or surplus) on a Balance of Payments basis.
 
 **[View Documentation →](https://apiverve.com/marketplace/tradebalance)** | **[OpenAPI Spec](../apis/tradebalance/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -380,7 +380,7 @@ Trade Balance provides US international trade data including customs duties and 
 
 <img src="https://assets.apiverve.com/logos/treasuryyields.svg" width="60" height="60" />
 
-Treasury Yields provides current and historical interest rates for US Treasury securities including T-bills, T-notes, T-bonds, TIPS, and Floating Rate Notes. Essential data for yield curve analysis and fixed income research.
+Treasury Yields provides current and historical US Treasury constant-maturity market yields across the full curve (1-month through 30-year), plus TIPS real yields. Essential data for yield curve analysis and fixed income research.
 
 **[View Documentation →](https://apiverve.com/marketplace/treasuryyields)** | **[OpenAPI Spec](../apis/treasuryyields/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 

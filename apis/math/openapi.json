@@ -3,7 +3,7 @@
   "info": {
     "title": "Math Calculator",
     "version": "1",
-    "description": "Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.",
+    "description": "Math Calculator performs mathematical operations including arithmetic, number properties, base conversions, and expression evaluation.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -29,7 +29,7 @@
     "/v1/math": {
       "get": {
         "summary": "Math Calculator",
-        "description": "Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.",
+        "description": "Math Calculator performs mathematical operations including arithmetic, number properties, base conversions, and expression evaluation.",
         "operationId": "math",
         "tags": [
           null

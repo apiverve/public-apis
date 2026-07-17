@@ -1,6 +1,6 @@
 # Password Strength
 
-> Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
+> Password Strength checks how strong a password is. It returns a strength label and score, a breakdown of the character types used, weak-pattern detection, theoretical entropy in bits, and recommendations to improve it.
 
 <img src="https://assets.apiverve.com/logos/passwordstrength.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/passwordstrength" \
 
 ## 📖 Description
 
-Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
+Password Strength checks how strong a password is. It returns a strength label and score, a breakdown of the character types used, weak-pattern detection, theoretical entropy in bits, and recommendations to improve it.
 
 ---
 

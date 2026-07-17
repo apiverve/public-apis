@@ -1,12 +1,12 @@
-# Car Models
+# US Car Models
 
-> Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.
+> US Car Models provides comprehensive data on vehicles sold in the United States. Returns detailed specifications including fuel economy (MPG), engine details, transmission, and more for cars from 1984 to present.
 
 <img src="https://assets.apiverve.com/logos/carmodels.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/carmodels.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/carmodels)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-carmodels.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-carmodels/)
-[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.CarModels.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.CarModels)
+[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.USCarModels.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.USCarModels)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](openapi.json)
 [![Try it](https://img.shields.io/badge/Try%20it-Postman-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/carmodels" \
 
 ## 📖 Description
 
-Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.
+US Car Models provides comprehensive data on vehicles sold in the United States. Returns detailed specifications including fuel economy (MPG), engine details, transmission, and more for cars from 1984 to present.
 
 ---
 
@@ -96,7 +96,7 @@ pip install apiverve-carmodels
 
 ### NuGet
 ```bash
-dotnet add package APIVerve.API.CarModels
+dotnet add package APIVerve.API.USCarModels
 ```
 
 ---

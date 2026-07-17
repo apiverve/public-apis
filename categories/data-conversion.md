@@ -1,6 +1,6 @@
-# 📦 Data Conversion
+# Data Conversion
 
-> 32 APIs in this category
+> 33 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -150,7 +150,7 @@ Markdown to PDF converts markdown text into professionally formatted PDF documen
 
 <img src="https://assets.apiverve.com/logos/math.svg" width="60" height="60" />
 
-Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.
+Math Calculator performs mathematical operations including arithmetic, number properties, base conversions, and expression evaluation.
 
 **[View Documentation →](https://apiverve.com/marketplace/math)** | **[OpenAPI Spec](../apis/math/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -283,6 +283,16 @@ Unix Timestamp Converter is a tool for converting between Unix timestamps and hu
 URL Encoder/Decoder is a tool for encoding and decoding URL strings. It converts special characters to percent-encoded format and decodes them back for safe URL transmission.
 
 **[View Documentation →](https://apiverve.com/marketplace/urlencode)** | **[OpenAPI Spec](../apis/urlencode/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## URL to Markdown
+
+<img src="https://assets.apiverve.com/logos/urltomarkdown.svg" width="60" height="60" />
+
+URL to Markdown is a powerful tool for converting any webpage into clean, readable Markdown format. It preserves the document structure including headings, links, lists, and images.
+
+**[View Documentation →](https://apiverve.com/marketplace/urltomarkdown)** | **[OpenAPI Spec](../apis/urltomarkdown/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

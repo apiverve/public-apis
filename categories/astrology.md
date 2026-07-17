@@ -1,4 +1,4 @@
-# 📦 Astrology
+# Astrology
 
 > 6 APIs in this category
 

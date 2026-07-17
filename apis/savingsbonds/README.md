@@ -1,12 +1,12 @@
-# Savings Bonds
+# I-Bond Rates
 
-> Savings Bonds provides current and historical rates for US Savings Bonds including Series I (I Bonds) and Series EE bonds. Includes rate components, purchase limits, and comparison recommendations.
+> I-Bond Rates provides current and historical interest rates for US Series I Savings Bonds. I-Bonds are inflation-protected savings bonds with a composite rate made up of a fixed rate plus an inflation rate that adjusts every 6 months.
 
 <img src="https://assets.apiverve.com/logos/savingsbonds.svg" width="80" height="80" />
 
 [![npm](https://img.shields.io/npm/v/@apiverve/savingsbonds.svg?style=flat&logo=npm)](https://www.npmjs.com/package/@apiverve/savingsbonds)
 [![PyPI](https://img.shields.io/pypi/v/apiverve-savingsbonds.svg?style=flat&logo=python)](https://pypi.org/project/apiverve-savingsbonds/)
-[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.SavingsBonds.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.SavingsBonds)
+[![NuGet](https://img.shields.io/nuget/v/APIVerve.API.IBondRates.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/APIVerve.API.IBondRates)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-green.svg)](openapi.json)
 [![Try it](https://img.shields.io/badge/Try%20it-Postman-orange.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/savingsbonds" \
 
 ## 📖 Description
 
-Savings Bonds provides current and historical rates for US Savings Bonds including Series I (I Bonds) and Series EE bonds. Includes rate components, purchase limits, and comparison recommendations.
+I-Bond Rates provides current and historical interest rates for US Series I Savings Bonds. I-Bonds are inflation-protected savings bonds with a composite rate made up of a fixed rate plus an inflation rate that adjusts every 6 months.
 
 ---
 
@@ -96,7 +96,7 @@ pip install apiverve-savingsbonds
 
 ### NuGet
 ```bash
-dotnet add package APIVerve.API.SavingsBonds
+dotnet add package APIVerve.API.IBondRates
 ```
 
 ---

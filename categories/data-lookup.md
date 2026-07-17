@@ -1,4 +1,4 @@
-# 🔍 Data Lookup
+# Data Lookup
 
 > 17 APIs in this category
 

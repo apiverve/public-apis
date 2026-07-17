@@ -1,4 +1,4 @@
-# 📦 Parsers
+# Parsers
 
 > 4 APIs in this category
 

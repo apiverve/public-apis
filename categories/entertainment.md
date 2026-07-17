@@ -1,4 +1,4 @@
-# 📦 Entertainment
+# Entertainment
 
 > 24 APIs in this category
 

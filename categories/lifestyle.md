@@ -1,4 +1,4 @@
-# 📦 Lifestyle
+# Lifestyle
 
 > 3 APIs in this category
 

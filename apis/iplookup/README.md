@@ -1,6 +1,6 @@
 # IP Lookup
 
-> IP Lookup is a simple tool for looking up the location of an IP address. It returns the country, city, and more.
+> IP Lookup resolves an IP address to its geographic location. It returns the country, region, city, coordinates, postal code, timezone and continent, along with an accuracy radius and an EU-membership flag for compliance routing.
 
 <img src="https://assets.apiverve.com/logos/iplookup.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/iplookup" \
 
 ## 📖 Description
 
-IP Lookup is a simple tool for looking up the location of an IP address. It returns the country, city, and more.
+IP Lookup resolves an IP address to its geographic location. It returns the country, region, city, coordinates, postal code, timezone and continent, along with an accuracy radius and an EU-membership flag for compliance routing.
 
 ---
 

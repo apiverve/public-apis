@@ -1,4 +1,4 @@
-# 📦 Data Generation
+# Data Generation
 
 > 32 APIs in this category
 
@@ -10,7 +10,7 @@
 
 <img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="60" height="60" />
 
-Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
+Acronym Generator creates acronyms from phrases by extracting the first letter of each word. Input 'Application Programming Interface' and get 'API'.
 
 **[View Documentation →](https://apiverve.com/marketplace/acronymgenerator)** | **[OpenAPI Spec](../apis/acronymgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -63,16 +63,6 @@ Boggle Board Generator creates random Boggle game boards with authentic dice con
 Captcha Generator is a simple tool for generating captchas. It returns a random string of characters that can be used as a captcha.
 
 **[View Documentation →](https://apiverve.com/marketplace/captchagenerator)** | **[OpenAPI Spec](../apis/captchagenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
-
----
-
-## Card Generator
-
-<img src="https://assets.apiverve.com/logos/cardgenerator.svg" width="60" height="60" />
-
-Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
-
-**[View Documentation →](https://apiverve.com/marketplace/cardgenerator)** | **[OpenAPI Spec](../apis/cardgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 
@@ -273,6 +263,16 @@ Short Code Generator is a tool for generating short alphanumeric codes. It suppo
 Sitemap Generator creates valid XML sitemaps from URL lists following the sitemaps.org protocol for search engine optimization.
 
 **[View Documentation →](https://apiverve.com/marketplace/sitemapgenerator)** | **[OpenAPI Spec](../apis/sitemapgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
+
+---
+
+## Test Card Generator
+
+<img src="https://assets.apiverve.com/logos/cardgenerator.svg" width="60" height="60" />
+
+Card Generator is a simple tool for generating test/sample card numbers. It returns a list of card numbers for testing.
+
+**[View Documentation →](https://apiverve.com/marketplace/cardgenerator)** | **[OpenAPI Spec](../apis/cardgenerator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

@@ -1,4 +1,4 @@
-# 📦 Calendar
+# Calendar
 
 > 5 APIs in this category
 

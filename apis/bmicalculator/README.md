@@ -1,6 +1,6 @@
 # BMI Calculator
 
-> BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.
+> BMI Calculator computes Body Mass Index along with ideal weight ranges, BMR (Basal Metabolic Rate), TDEE (Total Daily Energy Expenditure), calorie targets, and macronutrient recommendations for fitness and health applications.
 
 <img src="https://assets.apiverve.com/logos/bmicalculator.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/bmicalculator" \
 
 ## 📖 Description
 
-BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.
+BMI Calculator computes Body Mass Index along with ideal weight ranges, BMR (Basal Metabolic Rate), TDEE (Total Daily Energy Expenditure), calorie targets, and macronutrient recommendations for fitness and health applications.
 
 ---
 
@@ -78,7 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Health/Wellness
-- **Average Latency:** 602ms
+- **Average Latency:** 500ms
 
 ---
 

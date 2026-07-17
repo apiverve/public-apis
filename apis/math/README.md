@@ -1,6 +1,6 @@
 # Math Calculator
 
-> Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.
+> Math Calculator performs mathematical operations including arithmetic, number properties, base conversions, and expression evaluation.
 
 <img src="https://assets.apiverve.com/logos/math.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/math" \
 
 ## 📖 Description
 
-Math Calculator performs mathematical operations including basic arithmetic, advanced functions, and expression evaluation.
+Math Calculator performs mathematical operations including arithmetic, number properties, base conversions, and expression evaluation.
 
 ---
 
@@ -78,7 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Data Conversion
-- **Average Latency:** 143ms
+- **Average Latency:** 100ms
 
 ---
 

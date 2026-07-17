@@ -1,4 +1,4 @@
-# 📦 News
+# News
 
 > 1 APIs in this category
 

@@ -1,4 +1,4 @@
-# 📦 Data Validation
+# Data Validation
 
 > 9 APIs in this category
 
@@ -10,7 +10,7 @@
 
 <img src="https://assets.apiverve.com/logos/cardvalidator.svg" width="60" height="60" />
 
-Card Validator is a simple tool for validating if a card number is valid or not. It checks the card number format and the Luhn algorithm to see if the card number is valid.
+Card Validator checks whether a card number is valid, identifies the card brand, and flags risk. It runs the Luhn checksum, detects the scheme (Visa, Mastercard, Amex and more), returns the PCI-safe BIN and last 4 digits, flags known processor test cards, and returns a composite risk score.
 
 **[View Documentation →](https://apiverve.com/marketplace/cardvalidator)** | **[OpenAPI Spec](../apis/cardvalidator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -40,7 +40,7 @@ Disposable Phone Number Checker is an API that checks whether a given phone numb
 
 <img src="https://assets.apiverve.com/logos/emailvalidator.svg" width="60" height="60" />
 
-Email Validator is a simple tool for validating if an email address is valid or not. It checks the email address format and the domain records to see if the email address is valid.
+Email Validator checks whether an email address is valid, deliverable and safe. It validates the format, resolves the domain's mail (MX) records, flags disposable and role-based addresses, and returns a composite risk score with typo correction.
 
 **[View Documentation →](https://apiverve.com/marketplace/emailvalidator)** | **[OpenAPI Spec](../apis/emailvalidator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -50,7 +50,7 @@ Email Validator is a simple tool for validating if an email address is valid or 
 
 <img src="https://assets.apiverve.com/logos/passwordstrength.svg" width="60" height="60" />
 
-Password Strength is a simple tool for checking the strength of a password. It returns the strength of the password based on various factors.
+Password Strength checks how strong a password is. It returns a strength label and score, a breakdown of the character types used, weak-pattern detection, theoretical entropy in bits, and recommendations to improve it.
 
 **[View Documentation →](https://apiverve.com/marketplace/passwordstrength)** | **[OpenAPI Spec](../apis/passwordstrength/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
@@ -70,7 +70,7 @@ Phone Number Validator is a simple tool for validating if a phone number is vali
 
 <img src="https://assets.apiverve.com/logos/seovalidator.svg" width="60" height="60" />
 
-SEO Validator is a simple tool for validating SEO metrics. It returns a list of issues that need to be fixed to improve the SEO metrics of a web page.
+SEO Validator is a simple tool for validating SEO metrics. It returns a structured breakdown of on-page SEO checks, a list of issues to fix, and a composite 0-100 SEO score with a letter grade for the web page.
 
 **[View Documentation →](https://apiverve.com/marketplace/seovalidator)** | **[OpenAPI Spec](../apis/seovalidator/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 

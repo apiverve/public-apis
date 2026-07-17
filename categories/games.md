@@ -1,4 +1,4 @@
-# 📦 Games
+# Games
 
 > 21 APIs in this category
 

@@ -1,4 +1,4 @@
-# 📦 AI/Computer Vision
+# AI/Computer Vision
 
 > 6 APIs in this category
 

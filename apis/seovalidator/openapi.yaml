@@ -3,8 +3,9 @@ info:
   title: SEO Quick Validator
   version: '1'
   description: >-
-    SEO Validator is a simple tool for validating SEO metrics. It returns a list
-    of issues that need to be fixed to improve the SEO metrics of a web page.
+    SEO Validator is a simple tool for validating SEO metrics. It returns a
+    structured breakdown of on-page SEO checks, a list of issues to fix, and a
+    composite 0-100 SEO score with a letter grade for the web page.
   contact:
     name: APIVerve
     url: https://apiverve.com
@@ -23,8 +24,8 @@ paths:
       summary: SEO Quick Validator
       description: >-
         SEO Validator is a simple tool for validating SEO metrics. It returns a
-        list of issues that need to be fixed to improve the SEO metrics of a web
-        page.
+        structured breakdown of on-page SEO checks, a list of issues to fix, and
+        a composite 0-100 SEO score with a letter grade for the web page.
       operationId: seovalidator
       tags:
         - null

@@ -1,4 +1,4 @@
-# 🔒 Security
+# Security
 
 > 4 APIs in this category
 

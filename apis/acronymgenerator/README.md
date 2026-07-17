@@ -1,6 +1,6 @@
 # Acronym Generator
 
-> Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
+> Acronym Generator creates acronyms from phrases by extracting the first letter of each word. Input 'Application Programming Interface' and get 'API'.
 
 <img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymgenerator" \
 
 ## 📖 Description
 
-Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.
+Acronym Generator creates acronyms from phrases by extracting the first letter of each word. Input 'Application Programming Interface' and get 'API'.
 
 ---
 
@@ -78,7 +78,7 @@ This API is also available via:
 ## 📊 API Information
 
 - **Category:** Data Generation
-- **Average Latency:** 1944ms
+- **Average Latency:** 128ms
 
 ---
 

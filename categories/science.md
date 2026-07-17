@@ -1,4 +1,4 @@
-# 📦 Science
+# Science
 
 > 4 APIs in this category
 

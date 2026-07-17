@@ -1,4 +1,4 @@
-# 📦 Data Scraping
+# Data Scraping
 
 > 5 APIs in this category
 

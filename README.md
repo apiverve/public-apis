@@ -31,39 +31,39 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **Index**
 
-* [📦 AI/Computer Vision](#ai-computer-vision) (6)
-* [📦 Astrology](#astrology) (6)
-* [📦 Calendar](#calendar) (5)
-* [📦 Data Conversion](#data-conversion) (32)
-* [📦 Data Generation](#data-generation) (32)
-* [🔍 Data Lookup](#data-lookup) (17)
-* [📦 Data Processing](#data-processing) (6)
-* [📦 Data Scraping](#data-scraping) (5)
-* [📦 Data Validation](#data-validation) (9)
-* [📦 Documents](#documents) (3)
-* [📦 Domain Data](#domain-data) (18)
-* [📦 Entertainment](#entertainment) (24)
-* [💰 Finance](#finance) (40)
-* [📦 Food](#food) (2)
-* [📦 Games](#games) (21)
-* [📦 Geography](#geography) (13)
-* [📦 Health/Wellness](#health-wellness) (2)
-* [📦 Images](#images) (7)
-* [📦 Lifestyle](#lifestyle) (3)
-* [📦 Math/Calculations](#math-calculations) (8)
-* [📦 Networking](#networking) (14)
-* [📦 News](#news) (1)
-* [📦 Parsers](#parsers) (4)
-* [📦 Reference Data](#reference-data) (11)
-* [📦 Science](#science) (4)
-* [🔒 Security](#security) (4)
-* [📦 Text Processing](#text-processing) (46)
-* [📦 Transportation](#transportation) (5)
-* [🌤️ Weather](#weather) (8)
+* [AI/Computer Vision](#ai-computer-vision) (6)
+* [Astrology](#astrology) (6)
+* [Calendar](#calendar) (5)
+* [Data Conversion](#data-conversion) (33)
+* [Data Generation](#data-generation) (32)
+* [Data Lookup](#data-lookup) (17)
+* [Data Processing](#data-processing) (6)
+* [Data Scraping](#data-scraping) (5)
+* [Data Validation](#data-validation) (9)
+* [Documents](#documents) (3)
+* [Domain Data](#domain-data) (18)
+* [Entertainment](#entertainment) (24)
+* [Finance](#finance) (40)
+* [Food](#food) (2)
+* [Games](#games) (21)
+* [Geography](#geography) (13)
+* [Health/Wellness](#health-wellness) (2)
+* [Images](#images) (7)
+* [Lifestyle](#lifestyle) (3)
+* [Math/Calculations](#math-calculations) (8)
+* [Networking](#networking) (14)
+* [News](#news) (1)
+* [Parsers](#parsers) (4)
+* [Reference Data](#reference-data) (11)
+* [Science](#science) (4)
+* [Security](#security) (4)
+* [Text Processing](#text-processing) (45)
+* [Transportation](#transportation) (5)
+* [Weather](#weather) (8)
 
 ---
 
-### 📦 AI/Computer Vision
+### AI/Computer Vision
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -76,7 +76,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Astrology
+### Astrology
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -89,7 +89,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Calendar
+### Calendar
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -101,7 +101,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Data Conversion
+### Data Conversion
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -119,7 +119,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Markdown to HTML](https://apiverve.com/marketplace/markdowntohtml) | Markdown to HTML parses markdown syntax and converts it to clean, semantic HT... | apiKey | Yes | Yes |
 | [Markdown to Image](https://apiverve.com/marketplace/markdowntoimage) | Markdown to Image converts markdown text into visual image representations, r... | apiKey | Yes | Yes |
 | [Markdown to PDF](https://apiverve.com/marketplace/markdowntopdf) | Markdown to PDF converts markdown text into professionally formatted PDF docu... | apiKey | Yes | Yes |
-| [Math Calculator](https://apiverve.com/marketplace/math) | Math Calculator performs mathematical operations including basic arithmetic, ... | apiKey | Yes | Yes |
+| [Math Calculator](https://apiverve.com/marketplace/math) | Math Calculator performs mathematical operations including arithmetic, number... | apiKey | Yes | Yes |
 | [Meeting Time Converter](https://apiverve.com/marketplace/meetingtimeconverter) | Meeting Time Converter transforms meeting times between any two timezones, ca... | apiKey | Yes | Yes |
 | [Number Base Converter](https://apiverve.com/marketplace/numberbaseconverter) | Number Base Converter is a tool for converting numbers between different base... | apiKey | Yes | Yes |
 | [Number to Words](https://apiverve.com/marketplace/numbertowords) | Number to Words is a simple tool for converting numbers to words. It returns ... | apiKey | Yes | Yes |
@@ -133,6 +133,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Unit Converter](https://apiverve.com/marketplace/unitconverter) | Unit Converter is a simple tool for converting units. It returns the converte... | apiKey | Yes | Yes |
 | [Unix Timestamp Converter](https://apiverve.com/marketplace/unixtimestamp) | Unix Timestamp Converter is a tool for converting between Unix timestamps and... | apiKey | Yes | Yes |
 | [URL Encoder/Decoder](https://apiverve.com/marketplace/urlencode) | URL Encoder/Decoder is a tool for encoding and decoding URL strings. It conve... | apiKey | Yes | Yes |
+| [URL to Markdown](https://apiverve.com/marketplace/urltomarkdown) | URL to Markdown is a powerful tool for converting any webpage into clean, rea... | apiKey | Yes | Yes |
 | [Variable Name Converter](https://apiverve.com/marketplace/variablenameconverter) | Variable Name Converter transforms variable names between different naming co... | apiKey | Yes | Yes |
 | [Website to Text](https://apiverve.com/marketplace/websitetotext) | Website to Text is a simple tool for converting a website to text. It returns... | apiKey | Yes | Yes |
 | [Words to Numbers](https://apiverve.com/marketplace/wordstonumbers) | Words to Numbers is a simple tool for converting words to numbers. It returns... | apiKey | Yes | Yes |
@@ -140,17 +141,16 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Data Generation
+### Data Generation
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
-| [Acronym Generator](https://apiverve.com/marketplace/acronymgenerator) | Acronym Generator is an AI-powered tool for creating creative acronyms from t... | apiKey | Yes | Yes |
+| [Acronym Generator](https://apiverve.com/marketplace/acronymgenerator) | Acronym Generator creates acronyms from phrases by extracting the first lette... | apiKey | Yes | Yes |
 | [Baby Name Generator](https://apiverve.com/marketplace/babynamegenerator) | Baby Name Generator is a simple tool for generating baby names. It returns a ... | apiKey | Yes | Yes |
 | [Barcode Generator](https://apiverve.com/marketplace/barcodegenerator) | Barcode Generator is a simple tool for generating barcodes from data. It retu... | apiKey | Yes | Yes |
 | [Bingo Card Generator](https://apiverve.com/marketplace/bingocardgenerator) | Bingo Card Generator creates customizable bingo cards with random numbers, HT... | apiKey | Yes | Yes |
 | [Boggle Board Generator](https://apiverve.com/marketplace/boggleboardgenerator) | Boggle Board Generator creates random Boggle game boards with authentic dice ... | apiKey | Yes | Yes |
 | [Captcha Generator](https://apiverve.com/marketplace/captchagenerator) | Captcha Generator is a simple tool for generating captchas. It returns a rand... | apiKey | Yes | Yes |
-| [Card Generator](https://apiverve.com/marketplace/cardgenerator) | Card Generator is a simple tool for generating test/sample card numbers. It r... | apiKey | Yes | Yes |
 | [Chart Generator](https://apiverve.com/marketplace/chartgenerator) | Chart Generator creates beautiful chart images from your data. Supports bar, ... | apiKey | Yes | Yes |
 | [Color Palette Generator](https://apiverve.com/marketplace/colorpalette) | Color Palette is a powerful tool for generating harmonious color palettes. Ge... | apiKey | Yes | Yes |
 | [Comment Generator](https://apiverve.com/marketplace/commentgenerator) | Comment Generator is a simple tool for generating comments for social media. ... | apiKey | Yes | Yes |
@@ -171,6 +171,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Random Word](https://apiverve.com/marketplace/randomwords) | Random Word is a simple tool for getting random words. It returns a random word. | apiKey | Yes | Yes |
 | [Short Code Generator](https://apiverve.com/marketplace/shortcodegenerator) | Short Code Generator is a tool for generating short alphanumeric codes. It su... | apiKey | Yes | Yes |
 | [Sitemap Generator](https://apiverve.com/marketplace/sitemapgenerator) | Sitemap Generator creates valid XML sitemaps from URL lists following the sit... | apiKey | Yes | Yes |
+| [Test Card Generator](https://apiverve.com/marketplace/cardgenerator) | Card Generator is a simple tool for generating test/sample card numbers. It r... | apiKey | Yes | Yes |
 | [TOTP Generator](https://apiverve.com/marketplace/totpgenerator) | TOTP Generator creates time-based one-time passwords compatible with authenti... | apiKey | Yes | Yes |
 | [ULID Generator](https://apiverve.com/marketplace/ulidgenerator) | ULID Generator is a tool for generating Universally Unique Lexicographically ... | apiKey | Yes | Yes |
 | [User Agent Generator](https://apiverve.com/marketplace/useragentgenerator) | User Agent Generator is a simple tool for generating user agent strings. It r... | apiKey | Yes | Yes |
@@ -179,7 +180,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 🔍 Data Lookup
+### Data Lookup
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -203,7 +204,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Data Processing
+### Data Processing
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -216,7 +217,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Data Scraping
+### Data Scraping
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -228,23 +229,23 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Data Validation
+### Data Validation
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
-| [Card Validator](https://apiverve.com/marketplace/cardvalidator) | Card Validator is a simple tool for validating if a card number is valid or n... | apiKey | Yes | Yes |
+| [Card Validator](https://apiverve.com/marketplace/cardvalidator) | Card Validator checks whether a card number is valid, identifies the card bra... | apiKey | Yes | Yes |
 | [Disposable Email Checker](https://apiverve.com/marketplace/emaildisposablechecker) | Email Disposable Checker is a simple tool for checking if an email address is... | apiKey | Yes | Yes |
 | [Disposable Phone Number Checker](https://apiverve.com/marketplace/disposablephone) | Disposable Phone Number Checker is an API that checks whether a given phone n... | apiKey | Yes | Yes |
-| [Email Validator](https://apiverve.com/marketplace/emailvalidator) | Email Validator is a simple tool for validating if an email address is valid ... | apiKey | Yes | Yes |
-| [Password Strength](https://apiverve.com/marketplace/passwordstrength) | Password Strength is a simple tool for checking the strength of a password. I... | apiKey | Yes | Yes |
+| [Email Validator](https://apiverve.com/marketplace/emailvalidator) | Email Validator checks whether an email address is valid, deliverable and saf... | apiKey | Yes | Yes |
+| [Password Strength](https://apiverve.com/marketplace/passwordstrength) | Password Strength checks how strong a password is. It returns a strength labe... | apiKey | Yes | Yes |
 | [Phone Number Validator](https://apiverve.com/marketplace/phonenumbervalidator) | Phone Number Validator is a simple tool for validating if a phone number is v... | apiKey | Yes | Yes |
-| [SEO Quick Validator](https://apiverve.com/marketplace/seovalidator) | SEO Validator is a simple tool for validating SEO metrics. It returns a list ... | apiKey | Yes | Yes |
+| [SEO Quick Validator](https://apiverve.com/marketplace/seovalidator) | SEO Validator is a simple tool for validating SEO metrics. It returns a struc... | apiKey | Yes | Yes |
 | [Spam Detector](https://apiverve.com/marketplace/spamdetector) | Spam Detector is a simple tool for detecting spam in a text. It utilize an em... | apiKey | Yes | Yes |
 | [Username Profanity](https://apiverve.com/marketplace/usernameprofanity) | Username Profanity Checker is a simple tool for checking if a username is ina... | apiKey | Yes | Yes |
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Documents
+### Documents
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -254,7 +255,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Domain Data
+### Domain Data
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -270,7 +271,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [MX Lookup](https://apiverve.com/marketplace/mxlookup) | MX Lookup is a simple tool for getting MX records for a domain. It returns th... | apiKey | Yes | Yes |
 | [Reverse DNS Lookup](https://apiverve.com/marketplace/reversednslookup) | Reverse DNS Lookup is a tool for finding the hostname associated with an IP a... | apiKey | Yes | Yes |
 | [SPF Validator](https://apiverve.com/marketplace/spfvalidator) | SPF Validator checks the Sender Policy Framework (SPF) DNS record for a domai... | apiKey | Yes | Yes |
-| [SSL Certificate Checker](https://apiverve.com/marketplace/sslchecker) | SSL Checker is a simple tool for checking SSL certificates. It returns the SS... | apiKey | Yes | Yes |
+| [SSL Certificate Checker](https://apiverve.com/marketplace/sslchecker) | SSL Checker inspects a website's SSL certificate. It returns the certificate ... | apiKey | Yes | Yes |
 | [Subdomain Finder](https://apiverve.com/marketplace/subdomainfinder) | Subdomain Finder is a simple tool for finding all the available subdomains fo... | apiKey | Yes | Yes |
 | [URL Lookup](https://apiverve.com/marketplace/urllookup) | URL Lookup is a simple tool for looking up the location of a URL. It returns ... | apiKey | Yes | Yes |
 | [URL Title](https://apiverve.com/marketplace/urltitle) | URL Title is a simple tool for getting the title of a web page. It returns th... | apiKey | Yes | Yes |
@@ -279,7 +280,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Entertainment
+### Entertainment
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -310,7 +311,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 💰 Finance
+### Finance
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -328,11 +329,12 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [GDP Data](https://apiverve.com/marketplace/gdp) | Get GDP (Gross Domestic Product) data for any country including current value... | apiKey | Yes | Yes |
 | [Global Stock Market](https://apiverve.com/marketplace/globalstockmarket) | Global Stock Market is a tool for comparing stock market performance across 3... | apiKey | Yes | Yes |
 | [Gold Price](https://apiverve.com/marketplace/goldprice) | Gold Price is a simple tool for getting the current price of gold. It returns... | apiKey | Yes | Yes |
+| [I-Bond Rates](https://apiverve.com/marketplace/savingsbonds) | I-Bond Rates provides current and historical interest rates for US Series I S... | apiKey | Yes | Yes |
 | [IFSC Lookup](https://apiverve.com/marketplace/ifsclookup) | IFSC Lookup is a simple tool for getting information on IFSC codes. It return... | apiKey | Yes | Yes |
 | [Income Tax Brackets](https://apiverve.com/marketplace/incometax) | Income Tax Brackets is a tool for retrieving US federal income tax bracket da... | apiKey | Yes | Yes |
 | [Income Tax Calculator](https://apiverve.com/marketplace/incometaxcalculator) | Income Tax Calculator is a tool for calculating US federal income tax. It tak... | apiKey | Yes | Yes |
 | [Inflation Rate](https://apiverve.com/marketplace/inflation) | Inflation Rate is a tool for retrieving annual inflation rate and CPI data fo... | apiKey | Yes | Yes |
-| [Interest Rate](https://apiverve.com/marketplace/interestrate) | Interest Rate is a tool for retrieving current central bank policy interest r... | apiKey | Yes | Yes |
+| [Interest Rate](https://apiverve.com/marketplace/interestrate) | Interest Rate is a tool for retrieving current and historical central bank po... | apiKey | Yes | Yes |
 | [Jobs Report](https://apiverve.com/marketplace/jobsreport) | Jobs Report provides monthly US employment data including unemployment rate, ... | apiKey | Yes | Yes |
 | [Loan Calculator](https://apiverve.com/marketplace/loanpaymentcalculator) | Loan Payment Calculator is a simple tool for calculating loan payments. It re... | apiKey | Yes | Yes |
 | [Minimum Wage](https://apiverve.com/marketplace/minimumwage) | Minimum Wage provides current minimum wage rates for all US states plus the f... | apiKey | Yes | Yes |
@@ -344,20 +346,19 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Routing Number Lookup](https://apiverve.com/marketplace/routinglookup) | Routing Number Lookup is a simple tool for looking up routing number informat... | apiKey | Yes | Yes |
 | [Sales Tax Calculator](https://apiverve.com/marketplace/salestaxcalculator) | Sales Tax Calculator computes the exact sales tax amount for purchases in any... | apiKey | Yes | Yes |
 | [Sales Tax Lookup](https://apiverve.com/marketplace/salestax) | Sales Tax Lookup is a simple tool for looking up the sales tax rate of a loca... | apiKey | Yes | Yes |
-| [Savings Bonds](https://apiverve.com/marketplace/savingsbonds) | Savings Bonds provides current and historical rates for US Savings Bonds incl... | apiKey | Yes | Yes |
 | [Silver Price](https://apiverve.com/marketplace/silverprice) | Silver Price is a simple tool for getting the current price of silver. It ret... | apiKey | Yes | Yes |
 | [Stock Exchange](https://apiverve.com/marketplace/stockexchange) | Stock Exchange is a tool for retrieving information about stock exchanges and... | apiKey | Yes | Yes |
 | [Stock Index](https://apiverve.com/marketplace/stockindex) | Stock Index is a tool for retrieving current and historical stock market inde... | apiKey | Yes | Yes |
 | [Stock Market Open Times](https://apiverve.com/marketplace/stockmarketopentimes) | Stock Market Open Times is a simple tool for getting the open times of the st... | apiKey | Yes | Yes |
 | [SWIFT Code Lookup](https://apiverve.com/marketplace/swiftlookup) | SWIFT Code Lookup is a simple tool for looking up SWIFT code information. It ... | apiKey | Yes | Yes |
-| [Trade Balance](https://apiverve.com/marketplace/tradebalance) | Trade Balance provides US international trade data including customs duties a... | apiKey | Yes | Yes |
-| [Treasury Yields](https://apiverve.com/marketplace/treasuryyields) | Treasury Yields provides current and historical interest rates for US Treasur... | apiKey | Yes | Yes |
+| [Trade Balance](https://apiverve.com/marketplace/tradebalance) | Trade Balance provides monthly US international trade data - exports, imports... | apiKey | Yes | Yes |
+| [Treasury Yields](https://apiverve.com/marketplace/treasuryyields) | Treasury Yields provides current and historical US Treasury constant-maturity... | apiKey | Yes | Yes |
 | [Unemployment Rate](https://apiverve.com/marketplace/unemployment) | Unemployment Rate is a tool for retrieving unemployment statistics by country... | apiKey | Yes | Yes |
 | [VAT Rates](https://apiverve.com/marketplace/vatrates) | VAT Rates provides current and historical Value Added Tax rates for EU and no... | apiKey | Yes | Yes |
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Food
+### Food
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -366,7 +367,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Games
+### Games
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -394,7 +395,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Geography
+### Geography
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -414,16 +415,16 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Health/Wellness
+### Health/Wellness
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
-| [BMI Calculator](https://apiverve.com/marketplace/bmicalculator) | BMI Calculator is a simple tool for calculating body mass index. It returns t... | apiKey | Yes | Yes |
+| [BMI Calculator](https://apiverve.com/marketplace/bmicalculator) | BMI Calculator computes Body Mass Index along with ideal weight ranges, BMR (... | apiKey | Yes | Yes |
 | [Exercises](https://apiverve.com/marketplace/exercises) | Exercises is a simple tool for getting exercise information. It returns infor... | apiKey | Yes | Yes |
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Images
+### Images
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -437,7 +438,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Lifestyle
+### Lifestyle
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -447,7 +448,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Math/Calculations
+### Math/Calculations
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -462,28 +463,28 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Networking
+### Networking
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
 | [Bluetooth Company Lookup](https://apiverve.com/marketplace/bluetoothlookup) | Bluetooth Company Lookup allows you to identify Bluetooth device manufacturer... | apiKey | Yes | Yes |
-| [Bot Detector](https://apiverve.com/marketplace/botdetector) | Bot Detector is an API that analyzes user agent strings to identify bots, cra... | apiKey | Yes | Yes |
+| [Bot Detector](https://apiverve.com/marketplace/botdetector) | Bot Detector analyzes user agent strings to identify bots, crawlers, and auto... | apiKey | Yes | Yes |
 | [Content Filter](https://apiverve.com/marketplace/contentfilter) | Content Filter checks URLs against a comprehensive blocklist of 200,000+ doma... | apiKey | Yes | Yes |
 | [Domain and IP Pinger](https://apiverve.com/marketplace/pinger) | Pinger is a simple tool for checking if a URL is up. It returns a boolean val... | apiKey | Yes | Yes |
 | [IP Blacklist Lookup](https://apiverve.com/marketplace/ipblacklistlookup) | IP Blacklist Lookup checks whether a given IP address appears on known malici... | apiKey | Yes | Yes |
-| [IP Lookup](https://apiverve.com/marketplace/iplookup) | IP Lookup is a simple tool for looking up the location of an IP address. It r... | apiKey | Yes | Yes |
+| [IP Lookup](https://apiverve.com/marketplace/iplookup) | IP Lookup resolves an IP address to its geographic location. It returns the c... | apiKey | Yes | Yes |
 | [MAC Address Lookup](https://apiverve.com/marketplace/macaddresslookup) | MAC Address Lookup is a simple tool for looking up MAC address data. It retur... | apiKey | Yes | Yes |
 | [Nameservers](https://apiverve.com/marketplace/nameservers) | Nameservers is a tool for looking up the authoritative nameservers for any do... | apiKey | Yes | Yes |
 | [Phishing Domain Checker](https://apiverve.com/marketplace/phishingcheck) | Phishing Domain Checker verifies whether a domain or URL appears in a compreh... | apiKey | Yes | Yes |
 | [TLD Lookup](https://apiverve.com/marketplace/tldlookup) | TLD Lookup retrieves information about any top-level domain including its typ... | apiKey | Yes | Yes |
-| [TLS Checker](https://apiverve.com/marketplace/tlscheck) | TLS Check is an API that inspects the TLS/SSL configuration of a server ident... | apiKey | Yes | Yes |
+| [TLS Checker](https://apiverve.com/marketplace/tlscheck) | TLS Check inspects which TLS/SSL protocol versions a server supports. It prob... | apiKey | Yes | Yes |
 | [Tor Node Detector](https://apiverve.com/marketplace/tordetect) | Tor Detect is an API that checks whether a given IP address belongs to a know... | apiKey | Yes | Yes |
 | [USB Vendor Lookup](https://apiverve.com/marketplace/usbvendorlookup) | USB Vendor Lookup allows you to identify USB device manufacturers and product... | apiKey | Yes | Yes |
 | [VPN Proxy Detector](https://apiverve.com/marketplace/vpndetector) | VPN Detector is a simple tool for detecting VPN usage. It returns a boolean v... | apiKey | Yes | Yes |
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 News
+### News
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -491,7 +492,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Parsers
+### Parsers
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -502,7 +503,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Reference Data
+### Reference Data
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -520,7 +521,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Science
+### Science
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -531,7 +532,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 🔒 Security
+### Security
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -542,7 +543,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Text Processing
+### Text Processing
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -563,7 +564,6 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Line Sorter](https://apiverve.com/marketplace/linesorter) | Line Sorter organizes text by sorting lines alphabetically in ascending or de... | apiKey | Yes | Yes |
 | [Markdown Link Extractor](https://apiverve.com/marketplace/markdownlinkextractor) | Markdown Link Extractor parses markdown documents and extracts all links incl... | apiKey | Yes | Yes |
 | [Palindrome Checker](https://apiverve.com/marketplace/palindromechecker) | Palindrome Checker is a tool for checking if text is a palindrome. It support... | apiKey | Yes | Yes |
-| [Paraphrase](https://apiverve.com/marketplace/paraphrase) | Paraphrase is a tool for rewriting text while preserving its original meaning... | apiKey | Yes | Yes |
 | [Parts Of Speech](https://apiverve.com/marketplace/partsofspeech) | Parts Of Speech is a simple tool for extracting nouns, verbs, adjectives, adv... | apiKey | Yes | Yes |
 | [Phonetic Encoder](https://apiverve.com/marketplace/phonetic) | Phonetic Encoder generates phonetic codes for words using Soundex and Metapho... | apiKey | Yes | Yes |
 | [Pig Latin](https://apiverve.com/marketplace/piglatin) | Pig Latin is a simple tool for encoding Pig Latin. It returns the encoded Pig... | apiKey | Yes | Yes |
@@ -595,7 +595,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 
 **[⬆ Back to Index](#api-categories)**
 
-### 📦 Transportation
+### Transportation
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -603,11 +603,11 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | [Airport Code Converter](https://apiverve.com/marketplace/airportcodeconverter) | Airport Code Converter is a simple tool for converting between IATA (3-letter... | apiKey | Yes | Yes |
 | [Airport Distance](https://apiverve.com/marketplace/airportdistance) | Airport Distance is a simple tool for getting the distance between two airpor... | apiKey | Yes | Yes |
 | [Airports Lookup](https://apiverve.com/marketplace/airports) | Airports is a simple tool for getting airport data. It returns the airport na... | apiKey | Yes | Yes |
-| [Car Models](https://apiverve.com/marketplace/carmodels) | Car Models is a simple tool for getting information on cars. It returns infor... | apiKey | Yes | Yes |
+| [US Car Models](https://apiverve.com/marketplace/carmodels) | US Car Models provides comprehensive data on vehicles sold in the United Stat... | apiKey | Yes | Yes |
 
 **[⬆ Back to Index](#api-categories)**
 
-### 🌤️ Weather
+### Weather
 
 | API | Description | Auth | HTTPS | CORS |
 |-----|-------------|------|-------|------|
@@ -629,7 +629,7 @@ curl -X GET "https://api.apiverve.com/v1/acronymexpander" \
 | API | Description | Docs | Try It |
 |-----|-------------|------|--------|
 | <img src="https://assets.apiverve.com/logos/acronymexpander.svg" width="20" height="20" /> **Acronym Expander** | Acronym Expander is an AI-powered tool for expanding acronyms to their full meanings. It uses a dictionary of common acronyms and AI for unknown ones, with optional context for better accuracy. | [Docs](https://docs.apiverve.com/ref/acronymexpander) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
-| <img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="20" height="20" /> **Acronym Generator** | Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase. | [Docs](https://docs.apiverve.com/ref/acronymgenerator) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
+| <img src="https://assets.apiverve.com/logos/acronymgenerator.svg" width="20" height="20" /> **Acronym Generator** | Acronym Generator creates acronyms from phrases by extracting the first letter of each word. Input 'Application Programming Interface' and get 'API'. | [Docs](https://docs.apiverve.com/ref/acronymgenerator) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
 | <img src="https://assets.apiverve.com/logos/acrostic.svg" width="20" height="20" /> **Acrostic Puzzle Generator** | Acrostic Puzzle Generator creates puzzles where the first letters of answer words spell out a hidden keyword. | [Docs](https://docs.apiverve.com/ref/acrostic) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
 | <img src="https://assets.apiverve.com/logos/advice.svg" width="20" height="20" /> **Advice Generator** | Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice. | [Docs](https://docs.apiverve.com/ref/advice) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
 | <img src="https://assets.apiverve.com/logos/agecalculator.svg" width="20" height="20" /> **Age Calculator** | Age Calculator is a simple tool for calculating age from the date of birth. It returns the calculated age based on the date of birth provided. | [Docs](https://docs.apiverve.com/ref/agecalculator) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection) |
@@ -698,15 +698,39 @@ curl -H "x-api-key: YOUR_API_KEY" https://api.apiverve.com/v1/endpoint
 
 ### Browse by Category
 
-- [AI/Computer Vision →](categories/ai-computer-vision.md)
-- [Astrology →](categories/astrology.md)
-- [Calendar →](categories/calendar.md)
-- [Data Conversion →](categories/data-conversion.md)
-- [Data Generation →](categories/data-generation.md)
+- [AI/Computer Vision →](categories/ai-computer-vision.md) (6)
+- [Astrology →](categories/astrology.md) (6)
+- [Calendar →](categories/calendar.md) (5)
+- [Data Conversion →](categories/data-conversion.md) (33)
+- [Data Generation →](categories/data-generation.md) (32)
+- [Data Lookup →](categories/data-lookup.md) (17)
+- [Data Processing →](categories/data-processing.md) (6)
+- [Data Scraping →](categories/data-scraping.md) (5)
+- [Data Validation →](categories/data-validation.md) (9)
+- [Documents →](categories/documents.md) (3)
+- [Domain Data →](categories/domain-data.md) (18)
+- [Entertainment →](categories/entertainment.md) (24)
+- [Finance →](categories/finance.md) (40)
+- [Food →](categories/food.md) (2)
+- [Games →](categories/games.md) (21)
+- [Geography →](categories/geography.md) (13)
+- [Health/Wellness →](categories/health-wellness.md) (2)
+- [Images →](categories/images.md) (7)
+- [Lifestyle →](categories/lifestyle.md) (3)
+- [Math/Calculations →](categories/math-calculations.md) (8)
+- [Networking →](categories/networking.md) (14)
+- [News →](categories/news.md) (1)
+- [Parsers →](categories/parsers.md) (4)
+- [Reference Data →](categories/reference-data.md) (11)
+- [Science →](categories/science.md) (4)
+- [Security →](categories/security.md) (4)
+- [Text Processing →](categories/text-processing.md) (45)
+- [Transportation →](categories/transportation.md) (5)
+- [Weather →](categories/weather.md) (8)
 
 ### Postman Collection
 
-Import all 100+ APIs into Postman with one click:
+Import all 356 APIs into Postman with one click:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)
 

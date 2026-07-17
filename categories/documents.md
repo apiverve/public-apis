@@ -1,4 +1,4 @@
-# 📦 Documents
+# Documents
 
 > 3 APIs in this category
 

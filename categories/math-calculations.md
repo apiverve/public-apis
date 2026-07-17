@@ -1,4 +1,4 @@
-# 📦 Math/Calculations
+# Math/Calculations
 
 > 8 APIs in this category
 

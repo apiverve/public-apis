@@ -1,4 +1,4 @@
-# 📦 Domain Data
+# Domain Data
 
 > 18 APIs in this category
 
@@ -130,7 +130,7 @@ SPF Validator checks the Sender Policy Framework (SPF) DNS record for a domain t
 
 <img src="https://assets.apiverve.com/logos/sslchecker.svg" width="60" height="60" />
 
-SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.
+SSL Checker inspects a website's SSL certificate. It returns the certificate details plus derived signals — whether it is currently valid or expired, how many days until it expires, whether it expires soon, and whether it is self-signed.
 
 **[View Documentation →](https://apiverve.com/marketplace/sslchecker)** | **[OpenAPI Spec](../apis/sslchecker/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 

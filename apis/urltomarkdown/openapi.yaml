@@ -1,11 +1,11 @@
 openapi: 3.0.0
 info:
-  title: US Car Models
+  title: URL to Markdown
   version: '1'
   description: >-
-    US Car Models provides comprehensive data on vehicles sold in the United
-    States. Returns detailed specifications including fuel economy (MPG), engine
-    details, transmission, and more for cars from 1984 to present.
+    URL to Markdown is a powerful tool for converting any webpage into clean,
+    readable Markdown format. It preserves the document structure including
+    headings, links, lists, and images.
   contact:
     name: APIVerve
     url: https://apiverve.com
@@ -19,14 +19,14 @@ servers:
 security:
   - ApiKeyAuth: []
 paths:
-  /v1/carmodels:
+  /v1/urltomarkdown:
     get:
-      summary: US Car Models
+      summary: URL to Markdown
       description: >-
-        US Car Models provides comprehensive data on vehicles sold in the United
-        States. Returns detailed specifications including fuel economy (MPG),
-        engine details, transmission, and more for cars from 1984 to present.
-      operationId: carmodels
+        URL to Markdown is a powerful tool for converting any webpage into
+        clean, readable Markdown format. It preserves the document structure
+        including headings, links, lists, and images.
+      operationId: urltomarkdown
       tags:
         - null
       parameters: []

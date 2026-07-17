@@ -1,6 +1,6 @@
 # Interest Rate
 
-> Interest Rate is a tool for retrieving current central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
+> Interest Rate is a tool for retrieving current and historical central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
 
 <img src="https://assets.apiverve.com/logos/interestrate.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/interestrate" \
 
 ## 📖 Description
 
-Interest Rate is a tool for retrieving current central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
+Interest Rate is a tool for retrieving current and historical central bank policy interest rates for major economies worldwide. It returns the latest rate along with the central bank name and effective date.
 
 ---
 

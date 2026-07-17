@@ -1,6 +1,6 @@
 # Treasury Yields
 
-> Treasury Yields provides current and historical interest rates for US Treasury securities including T-bills, T-notes, T-bonds, TIPS, and Floating Rate Notes. Essential data for yield curve analysis and fixed income research.
+> Treasury Yields provides current and historical US Treasury constant-maturity market yields across the full curve (1-month through 30-year), plus TIPS real yields. Essential data for yield curve analysis and fixed income research.
 
 <img src="https://assets.apiverve.com/logos/treasuryyields.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/treasuryyields" \
 
 ## 📖 Description
 
-Treasury Yields provides current and historical interest rates for US Treasury securities including T-bills, T-notes, T-bonds, TIPS, and Floating Rate Notes. Essential data for yield curve analysis and fixed income research.
+Treasury Yields provides current and historical US Treasury constant-maturity market yields across the full curve (1-month through 30-year), plus TIPS real yields. Essential data for yield curve analysis and fixed income research.
 
 ---
 

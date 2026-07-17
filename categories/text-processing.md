@@ -1,6 +1,6 @@
-# 📦 Text Processing
+# Text Processing
 
-> 46 APIs in this category
+> 45 APIs in this category
 
 [← Back to API Catalog](../)
 
@@ -173,16 +173,6 @@ Markdown Link Extractor parses markdown documents and extracts all links includi
 Palindrome Checker is a tool for checking if text is a palindrome. It supports options to ignore case, spaces, and punctuation, and finds the longest palindromic substring.
 
 **[View Documentation →](https://apiverve.com/marketplace/palindromechecker)** | **[OpenAPI Spec](../apis/palindromechecker/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
-
----
-
-## Paraphrase
-
-<img src="https://assets.apiverve.com/logos/paraphrase.svg" width="60" height="60" />
-
-Paraphrase is a tool for rewriting text while preserving its original meaning. It helps create alternative versions of content for various purposes.
-
-**[View Documentation →](https://apiverve.com/marketplace/paraphrase)** | **[OpenAPI Spec](../apis/paraphrase/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
 ---
 

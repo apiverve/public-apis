@@ -1,4 +1,4 @@
-# 📦 Geography
+# Geography
 
 > 13 APIs in this category
 

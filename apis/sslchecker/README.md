@@ -1,6 +1,6 @@
 # SSL Certificate Checker
 
-> SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.
+> SSL Checker inspects a website's SSL certificate. It returns the certificate details plus derived signals — whether it is currently valid or expired, how many days until it expires, whether it expires soon, and whether it is self-signed.
 
 <img src="https://assets.apiverve.com/logos/sslchecker.svg" width="80" height="80" />
 
@@ -27,7 +27,7 @@ curl -X GET "https://api.apiverve.com/v1/sslchecker" \
 
 ## 📖 Description
 
-SSL Checker is a simple tool for checking SSL certificates. It returns the SSL certificate details of a website.
+SSL Checker inspects a website's SSL certificate. It returns the certificate details plus derived signals — whether it is currently valid or expired, how many days until it expires, whether it expires soon, and whether it is self-signed.
 
 ---
 

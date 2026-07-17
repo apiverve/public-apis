@@ -1,9 +1,9 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "TLS Checker",
+    "title": "URL to Markdown",
     "version": "1",
-    "description": "TLS Check inspects which TLS/SSL protocol versions a server supports. It probes TLS 1.0 through 1.3, reports which are negotiable, and derives a security verdict — the highest supported version, whether deprecated protocols are still exposed, and a composite risk score.",
+    "description": "URL to Markdown is a powerful tool for converting any webpage into clean, readable Markdown format. It preserves the document structure including headings, links, lists, and images.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -26,11 +26,11 @@
     }
   ],
   "paths": {
-    "/v1/tlscheck": {
+    "/v1/urltomarkdown": {
       "get": {
-        "summary": "TLS Checker",
-        "description": "TLS Check inspects which TLS/SSL protocol versions a server supports. It probes TLS 1.0 through 1.3, reports which are negotiable, and derives a security verdict — the highest supported version, whether deprecated protocols are still exposed, and a composite risk score.",
-        "operationId": "tlscheck",
+        "summary": "URL to Markdown",
+        "description": "URL to Markdown is a powerful tool for converting any webpage into clean, readable Markdown format. It preserves the document structure including headings, links, lists, and images.",
+        "operationId": "urltomarkdown",
         "tags": [
           null
         ],

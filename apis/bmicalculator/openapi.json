@@ -3,7 +3,7 @@
   "info": {
     "title": "BMI Calculator",
     "version": "1",
-    "description": "BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.",
+    "description": "BMI Calculator computes Body Mass Index along with ideal weight ranges, BMR (Basal Metabolic Rate), TDEE (Total Daily Energy Expenditure), calorie targets, and macronutrient recommendations for fitness and health applications.",
     "contact": {
       "name": "APIVerve",
       "url": "https://apiverve.com",
@@ -29,7 +29,7 @@
     "/v1/bmicalculator": {
       "get": {
         "summary": "BMI Calculator",
-        "description": "BMI Calculator is a simple tool for calculating body mass index. It returns the calculated BMI based on the weight and height provided.",
+        "description": "BMI Calculator computes Body Mass Index along with ideal weight ranges, BMR (Basal Metabolic Rate), TDEE (Total Daily Energy Expenditure), calorie targets, and macronutrient recommendations for fitness and health applications.",
         "operationId": "bmicalculator",
         "tags": [
           null

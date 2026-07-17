@@ -1,4 +1,4 @@
-# 🌤️ Weather
+# Weather
 
 > 8 APIs in this category
 

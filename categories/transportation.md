@@ -1,4 +1,4 @@
-# 📦 Transportation
+# Transportation
 
 > 5 APIs in this category
 
@@ -46,11 +46,11 @@ Airports is a simple tool for getting airport data. It returns the airport name,
 
 ---
 
-## Car Models
+## US Car Models
 
 <img src="https://assets.apiverve.com/logos/carmodels.svg" width="60" height="60" />
 
-Car Models is a simple tool for getting information on cars. It returns information on various car models including makes, models, trims, and specifications.
+US Car Models provides comprehensive data on vehicles sold in the United States. Returns detailed specifications including fuel economy (MPG), engine details, transmission, and more for cars from 1984 to present.
 
 **[View Documentation →](https://apiverve.com/marketplace/carmodels)** | **[OpenAPI Spec](../apis/carmodels/openapi.yaml)** | **[Try in Postman](https://www.postman.com/apiverve/apiverve-workspace/collection/a6utjd8/apiverve-api-collection)**
 
